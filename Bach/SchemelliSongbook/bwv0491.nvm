@@ -1,0 +1,235 @@
+Score.Title=O du Liebe meiner Liebe
+Score.Comment=bwv 491
+Score.KeySignature=0
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! a0 4
+! b0 2
+! c1 2
+! d1 2
+! e1 2
+! a0 2
+! b0 2
+! c1 2
+! b0 4
+! a0 2
+! c1 4
+! d1 2
+! e1 4
+! e1 2
+! d1 4
+! d1 2
+! c1 6
+! e1 2
+! d1 2
+! c1 2
+! d1 4
+! e1 2
+! a0 2
+! d1 2
+! c1 2
+! b0 3
+! a0 1
+! g0 2
+! d1 4
+! e1 2
+! f1 4
+! e1 2
+! e1 2
+! d1 1
+! c1 1
+! d1 2
+! e1 6
+! b0 4
+! e1 2
+! c1 4
+! b0 2
+! a0 3
+! c1 1
+! b0 1
+! a0 1
+! g#0 2
+! e0 4
+! a0 4
+! b0 2
+! c1 2
+! d1 2
+! e1 2
+! c1 2
+! b0 4
+! a0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! a-2 2
+! a-1 2
+! g#-1 2
+! a-1 2
+! f-1 2
+! c-1 2
+! d-1 4
+! a-2 2
+! e-1 2
+! e-2 2
+! a-2 2
+! a-1 2
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! c-1 2
+! c0 1
+! b-1 1
+! a-1 1
+! g-1 1
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 6
+! c-1 4
+! c0 4
+! b-1 1
+! a-1 1
+! b-1 1
+! c0 1
+! d0 4
+! d-1 2
+! g-1 2
+! d-1 2
+! b-2 2
+! g-2 2
+! a-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 2
+! d0 2
+! g#-1 2
+! a-1 1
+! g-1 1
+! f-1 4
+! e-1 2
+! d-1 1
+! c-1 1
+! b-2 1
+! a-2 1
+! g#-2 2
+! g#-1 2
+! e-1 2
+! a-1 2
+! d-1 1
+! c-1 1
+! d-1 1
+! e-1 1
+! f-1 2
+! e-1 2
+! d-1 2
+! e-1 3
+! f-1 1
+! e-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! a-2 1
+! g#-2 1
+! a-2 2
+! f-1 2
+! c-1 1
+! d-1 1
+! e-1 4
+! e-2 2
+! a-2 6
+Lyric(0,0)=O|der
+Lyric(4,0)=du|du
+Lyric(6,0)=Lie-|dich
+Lyric(10,0)=be|aus
+Lyric(12,0)=mei-|höch-
+Lyric(16,0)=ner|stem
+Lyric(18,0)=Lie-|Trie-
+Lyric(22,0)=be,|be
+Lyric(24,0)=du|in
+Lyric(28,0)=er-|das
+Lyric(30,0)=wünsch-|jam-
+Lyric(34,0)=te|mer-
+Lyric(36,0)=Se-|vol-
+Lyric(40,0)=lig-|le
+Lyric(42,0)=keit,|Leid
+Lyric(48,0)=dei-
+Lyric(52,0)=nes
+Lyric(54,0)=Lei-
+Lyric(58,0)=dens
+Lyric(60,0)=mir
+Lyric(64,0)=zu
+Lyric(66,0)=Gu-
+Lyric(69,0)=te
+Lyric(72,0)=als
+Lyric(76,0)=ein
+Lyric(78,0)=Schlacht-
+Lyric(82,0)=schaf
+Lyric(84,0)=ein
+Lyric(88,0)=ge-
+Lyric(90,0)=stellt,
+Lyric(96,0)=und
+Lyric(100,0)=be-
+Lyric(102,0)=zahlt
+Lyric(106,0)=mit
+Lyric(108,0)=dei-
+Lyric(111,0)=nem
+Lyric(114,0)=Blu-
+Lyric(116,0)=te
+Lyric(120,0)=al-
+Lyric(124,0)=le
+Lyric(126,0)=Mis-
+Lyric(130,0)=se-
+Lyric(132,0)=that
+Lyric(134,0)=der
+Lyric(138,0)=Welt!
+Fbass(4,1)=6
+Fbass(8,1)=6
+Fbass(10,1)=6
+Fbass(12,1)=5
+Fbass(14,1)=6
+Fbass(18,1)=4
+Fbass(20,1)=3+
+Fbass(28,1)=2 5 7
+Fbass(36,1)=5 6
+Fbass(38,1)=4
+Fbass(40,1)=3
+Fbass(54,1)=2 4+
+Fbass(56,1)=6
+Fbass(58,1)=2 4 6
+Fbass(60,1)=4
+Fbass(62,1)=3+
+Fbass(64,1)=6
+Fbass(68,1)=3+
+Fbass(70,1)=6
+Fbass(76,1)=2 5+ 7
+Fbass(82,1)=5 6
+Fbass(86,1)=6
+Fbass(90,1)=3+
+Fbass(96,1)=6
+Fbass(100,1)=3+
+Fbass(104,1)=5 7
+Fbass(106,1)=2 4+ 6
+Fbass(110,1)=2 4 6
+Fbass(112,1)=6
+Fbass(113,1)=5
+Fbass(114,1)=3+
+Fbass(120,1)=6
+Fbass(124,1)=2 5
+Fbass(128,1)=6
+Fbass(130,1)=6
+Fbass(132,1)=4 6
+Fbass(134,1)=4 5
+Fbass(136,1)=3+

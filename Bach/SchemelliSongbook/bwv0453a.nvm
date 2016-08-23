@@ -1,0 +1,78 @@
+Score.Title=Eins ist Noth! ach Herr, dies Eine
+Score.Comment=bwv 453
+Score.KeySignature=0
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! e1 2
+! d1 1
+! c1 1
+! d1 2
+! g0 2
+! c1 1
+! e1 1
+! d1 1
+! c1 1
+! b0 2
+! g0 2
+! a0 2
+! g0 2
+! f0 2
+! e0 2
+! d0 3
+! c0 1
+! c0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 2
+! a-2 2
+! b-2 2
+! e-1 2
+! a-2 2
+! d-1 2
+! g-2 4
+! c-1 1
+! d-1 1
+! e-1 2
+! a-2 1
+! b-2 1
+! c-1 2
+! f-2 2
+! g-2 2
+! c-1 4
+Shake(14,0)=Fermata
+Lyric(0,0)=Eins|Al-
+Lyric(2,0)=ist|les
+Lyric(4,0)=Noth!|an-
+Lyric(6,0)=ach|dre,
+Lyric(8,0)=Herr,|wie's
+Lyric(10,0)=dies|auch
+Lyric(12,0)=Ei-|schei-
+Lyric(14,0)=ne|ne,
+Lyric(16,0)=leh-|ist
+Lyric(18,0)=re|ja
+Lyric(20,0)=mich|nur
+Lyric(22,0)=er-|ein
+Lyric(24,0)=ken-|schwe-
+Lyric(27,0)=nen|res
+Lyric(28,0)=doch!|Joch,
+Shake(12,1)=Fermata
+Fbass(4,1)=7
+Fbass(6,1)=7
+Fbass(8,1)=7
+Fbass(10,1)=3+ 8
+Fbass(11,1)=7
+Fbass(16,1)=6
+Fbass(18,1)=8
+Fbass(19,1)=7
+Fbass(20,1)=6
+Fbass(24,1)=5 6

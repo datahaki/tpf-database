@@ -1,0 +1,331 @@
+Score.Title=Liebster Herr Jesu
+Score.Comment=bwv 484
+Score.KeySignature=-1
+Score.KeyMode=Dorian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! d1 3
+! c1 1
+! b&0 2
+! a0 2
+! a0 2
+! d1 2
+! e&1 3
+! d1 1
+! c1 1
+! b&0 1
+! a0 2
+! a0 2
+! VoiceInstance 0 24
+! d1 2
+! b&0 2
+! a0 2
+! g0 3
+! a0 1
+! b&0 2
+! c1 3
+! d1 1
+! b&0 2
+! a0 2
+! a0 2
+! VoiceInstance 0 48
+! a0 2
+! g0 2
+! a0 2
+! b&0 2
+! a0 2
+! b&0 2
+! c1 3
+! b&0 1
+! c1 2
+! d1 4
+! VoiceInstance 0 72
+! d1 2
+! e1 2
+! f1 2
+! e1 3
+! f1 1
+! d1 2
+! d1 2
+! e1 2
+! c#1 2
+! d1 4
+! VoiceInstance 0 96
+! d1 2
+! b&0 3
+! c1 1
+! a0 2
+! a0 2
+! d1 2
+! e&1 2
+! d1 2
+! c1 1
+! b&0 1
+! a0 2
+! a0 2
+! d1 2
+! e&1 2
+! d1 2
+! c1 1
+! b&0 1
+! a0 2
+! a0 2
+! VoiceInstance 0 132
+! d1 2
+! b&0 2
+! a0 2
+! g0 3
+! a0 1
+! b&0 2
+! c1 3
+! d1 1
+! b&0 2
+! a0 2
+! a0 2
+! b&0 1
+! a0 1
+! a0 4
+! g0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! g-1 2
+! f#-1 2
+! g-1 2
+! d-1 2
+! d-2 2
+! b&-2 2
+! c-1 2
+! f#-2 2
+! g-2 2
+! d-1 2
+! d-2 2
+! VoiceInstance 1 24
+! b&-2 1
+! c-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 2
+! c-1 2
+! g-1 4
+! f#-1 2
+! g-1 2
+! d-1 2
+! d-2 2
+! VoiceInstance 1 48
+! d-1 2
+! e-1 2
+! f#-1 2
+! g-1 2
+! d-1 2
+! g-1 2
+! e-1 2
+! c-1 2
+! f-1 2
+! b&-2 4
+! VoiceInstance 1 72
+! b&-1 1
+! a-1 1
+! b&-1 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 1
+! g-1 1
+! a-1 1
+! b&-1 1
+! g-1 1
+! a-1 2
+! g-1 2
+! a-1 2
+! d-1 4
+! VoiceInstance 1 96
+! f#-1 2
+! g-1 2
+! c-1 2
+! d-1 2
+! d-2 2
+! b&-2 2
+! c-1 2
+! f#-2 2
+! g-2 2
+! d-1 2
+! d-2 2
+! b&-2 2
+! c-1 2
+! f#-2 2
+! g-2 2
+! d-1 2
+! d-2 2
+! VoiceInstance 1 132
+! b&-2 1
+! c-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 2
+! c-1 2
+! g-1 4
+! f#-1 2
+! g-1 2
+! d-1 2
+! d-1 2
+! g-1 2
+! d-1 2
+! d-2 2
+! g-2 2
+Shake(8,0)=Fermata
+Shake(20,0)=Fermata
+Shake(66,0)=Fermata
+Shake(90,0)=Fermata
+Shake(104,0)=Fermata
+Shake(152,0)=Fermata
+Lyric(0,0)=Leib-
+Lyric(3,0)=ster
+Lyric(4,0)=Herr
+Lyric(6,0)=Je-
+Lyric(8,0)=su,
+Lyric(10,0)=wo
+Lyric(12,0)=bleibst
+Lyric(15,0)=du
+Lyric(16,0)=so
+Lyric(18,0)=lan-
+Lyric(20,0)=ge?
+Lyric(24,0)=Komm
+Lyric(26,0)=doch,
+Lyric(28,0)=mir
+Lyric(30,0)=wird
+Lyric(33,0)=hier
+Lyric(34,0)=auf
+Lyric(36,0)=We-
+Lyric(39,0)=den
+Lyric(40,0)=so
+Lyric(42,0)=ban-
+Lyric(44,0)=ge!
+Lyric(48,0)=Komm
+Lyric(50,0)=doch
+Lyric(52,0)=und
+Lyric(54,0)=nimm
+Lyric(56,0)=mich,
+Lyric(58,0)=wenn
+Lyric(60,0)=dir
+Lyric(63,0)=es
+Lyric(64,0)=ge-
+Lyric(66,0)=fällt,
+Lyric(72,0)=von
+Lyric(74,0)=der
+Lyric(76,0)=be-
+Lyric(78,0)=schwer-
+Lyric(81,0)=lich-
+Lyric(82,0)=en
+Lyric(84,0)=Bür-
+Lyric(86,0)=de
+Lyric(88,0)=der
+Lyric(90,0)=Welt!
+Lyric(96,0)=Komm
+Lyric(98,0)=doch,
+Lyric(101,0)=Herr
+Lyric(102,0)=Je-
+Lyric(104,0)=su!
+Lyric(106,0)=wo
+Lyric(108,0)=bleibst
+Lyric(110,0)=du
+Lyric(112,0)=so
+Lyric(114,0)=lan-
+Lyric(116,0)=ge,
+Lyric(118,0)=wo
+Lyric(120,0)=bleibst
+Lyric(122,0)=du
+Lyric(124,0)=so
+Lyric(126,0)=lan-
+Lyric(128,0)=ge?
+Lyric(132,0)=Komm
+Lyric(134,0)=doch,
+Lyric(136,0)=mir
+Lyric(138,0)=wird
+Lyric(141,0)=hier
+Lyric(142,0)=auf
+Lyric(144,0)=Er-
+Lyric(147,0)=den
+Lyric(148,0)=so
+Lyric(150,0)=ban-
+Lyric(152,0)=ge,
+Lyric(154,0)=so
+Lyric(156,0)=ban-
+Lyric(160,0)=ge!
+Shake(8,1)=Fermata
+Shake(20,1)=Fermata
+Shake(66,1)=Fermata
+Shake(90,1)=Fermata
+Shake(104,1)=Fermata
+Shake(152,1)=Fermata
+Fbass(2,1)=6
+Fbass(3,1)=5
+Fbass(6,1)=4
+Fbass(8,1)=3+
+Fbass(10,1)=6
+Fbass(12,1)=3-
+Fbass(14,1)=7-
+Fbass(15,1)=6
+Fbass(18,1)=4
+Fbass(20,1)=3+
+Fbass(24,1)=6
+Fbass(26,1)=4 6
+Fbass(28,1)=3+ 5
+Fbass(30,1)=5
+Fbass(32,1)=3- 5
+Fbass(33,1)=6
+Fbass(36,1)=2 4 6-
+Fbass(38,1)=5 6
+Fbass(42,1)=4
+Fbass(44,1)=3+
+Fbass(48,1)=3+
+Fbass(50,1)=7
+Fbass(52,1)=6
+Fbass(56,1)=3+
+Fbass(60,1)=5 6
+Fbass(74,1)=2 4 6
+Fbass(76,1)=2 5 7
+Fbass(78,1)=5 6
+Fbass(80,1)=2 4+
+Fbass(84,1)=4 6
+Fbass(86,1)=5 6
+Fbass(88,1)=3+
+Fbass(90,1)=3+
+Fbass(96,1)=6
+Fbass(100,1)=5 7
+Fbass(102,1)=3+
+Fbass(106,1)=6
+Fbass(108,1)=6
+Fbass(110,1)=6
+Fbass(114,1)=4
+Fbass(116,1)=3+
+Fbass(118,1)=6
+Fbass(120,1)=6
+Fbass(122,1)=6
+Fbass(126,1)=4
+Fbass(128,1)=3+
+Fbass(132,1)=6
+Fbass(134,1)=4 6
+Fbass(136,1)=3+ 5
+Fbass(138,1)=5
+Fbass(140,1)=3- 5
+Fbass(141,1)=6
+Fbass(144,1)=2 4 6-
+Fbass(146,1)=5 6
+Fbass(150,1)=4
+Fbass(152,1)=3+
+Fbass(156,1)=4
+Fbass(158,1)=3+

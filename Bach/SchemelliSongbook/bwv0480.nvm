@@ -1,0 +1,224 @@
+Score.Title=Kommt wieder aus der finstern Gruft
+Score.Comment=bwv 480
+Score.KeySignature=3
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! a0 2
+! e1 2
+! f#1 1
+! e1 1
+! d1 1
+! c#1 1
+! b0 1
+! a0 1
+! g#0 1
+! a0 1
+! b0 2
+! e0 2
+! f#0 1
+! g#0 1
+! a0 2
+! b0 1
+! c#1 1
+! d1 1
+! b0 1
+! e1 2
+! c#1 3
+! b0 1
+! b0 2
+! b0 2
+! e1 2
+! d1 1
+! c#1 1
+! f#1 2
+! b0 2
+! a#0 1
+! b0 1
+! c#1 2
+! f#0 2
+! a0 2
+! b0 2
+! c#1 1
+! d1 1
+! e1 1
+! c#1 1
+! b0 1
+! a0 1
+! f#1 3
+! g1 1
+! e1 2
+! e0 2
+! f#0 2
+! g#0 1
+! a0 1
+! b0 1
+! d1 1
+! c#1 1
+! b0 1
+! b0 3
+! a0 1
+! a0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! a-1 4
+! g#-1 2
+! a-1 2
+! d-1 3
+! c#-1 1
+! b-2 1
+! a-2 1
+! g#-2 2
+! a-2 1
+! b-2 1
+! c#-1 1
+! e-1 1
+! d-1 1
+! c#-1 1
+! b-2 1
+! a-2 1
+! g#-2 1
+! e-2 1
+! a-2 1
+! b-2 1
+! c#-1 1
+! d-1 1
+! e-1 2
+! e-1 1
+! d-1 1
+! c#-1 2
+! f#-1 1
+! e-1 1
+! d-1 2
+! e-1 3
+! d-1 1
+! c#-1 1
+! b-2 1
+! a#-2 2
+! f#-1 1
+! e-1 1
+! d-1 1
+! c#-1 1
+! b-2 2
+! c#-1 2
+! f#-1 3
+! e-1 1
+! d-1 2
+! a-1 2
+! c#-1 2
+! d-1 1
+! c#-1 1
+! b-2 1
+! a-2 1
+! g#-2 1
+! e-2 1
+! a-2 1
+! d-1 1
+! e-1 2
+! e-2 2
+! a-2 2
+Shake(20,0)=Fermata
+Shake(52,0)=Fermata
+Shake(68,0)=Fermata
+Shake(84,0)=Fermata
+Lyric(6,0)=Kommt|schöpft
+Lyric(8,0)=wie-|neu-
+Lyric(10,0)=der|en
+Lyric(12,0)=aus|Muth
+Lyric(14,0)=der|und
+Lyric(16,0)=fin-|fri-
+Lyric(18,0)=stern|sche
+Lyric(20,0)=Gruft,|Luft,
+Lyric(22,0)=ihr|blickt
+Lyric(24,0)=Gott|hin
+Lyric(26,0)=er-|nach
+Lyric(28,0)=geb'-|Zi-
+Lyric(30,0)=nen|ons
+Lyric(32,0)=Sin-|Zin-
+Lyric(36,0)=nen,|nen;
+Lyric(38,0)=denn
+Lyric(40,0)=Je-
+Lyric(42,0)=sus,
+Lyric(44,0)=der
+Lyric(46,0)=im
+Lyric(48,0)=Gra-
+Lyric(50,0)=be
+Lyric(52,0)=lag,
+Lyric(54,0)=hat
+Lyric(56,0)=als
+Lyric(58,0)=ein
+Lyric(60,0)=Held
+Lyric(62,0)=am
+Lyric(64,0)=drit-
+Lyric(67,0)=ten
+Lyric(68,0)=Tag
+Lyric(70,0)=des
+Lyric(72,0)=To-
+Lyric(74,0)=des
+Lyric(76,0)=Reich
+Lyric(78,0)=be-
+Lyric(80,0)=sie-
+Lyric(84,0)=get.
+Shake(20,1)=Fermata
+Shake(52,1)=Fermata
+Shake(68,1)=Fermata
+Shake(84,1)=Fermata
+Fbass(8,1)=2 5
+Fbass(10,1)=7
+Fbass(11,1)=6
+Fbass(12,1)=4
+Fbass(13,1)=3
+Fbass(14,1)=6
+Fbass(15,1)=5
+Fbass(16,1)=2 4
+Fbass(17,1)=6
+Fbass(18,1)=6
+Fbass(19,1)=2 4 6
+Fbass(20,1)=5 6
+Fbass(22,1)=6
+Fbass(23,1)=6
+Fbass(24,1)=6
+Fbass(26,1)=2 4
+Fbass(27,1)=6
+Fbass(28,1)=5
+Fbass(30,1)=6
+Fbass(32,1)=9
+Fbass(34,1)=6
+Fbass(40,1)=7
+Fbass(41,1)=6+
+Fbass(42,1)=6
+Fbass(44,1)=6
+Fbass(45,1)=5
+Fbass(46,1)=3- 8
+Fbass(47,1)=7
+Fbass(48,1)=2 4+
+Fbass(49,1)=6
+Fbass(50,1)=6+
+Fbass(52,1)=5 6
+Fbass(54,1)=6
+Fbass(55,1)=6
+Fbass(56,1)=6
+Fbass(60,1)=7
+Fbass(62,1)=4
+Fbass(63,1)=3
+Fbass(64,1)=6
+Fbass(66,1)=3 5
+Fbass(67,1)=4- 6
+Fbass(70,1)=6
+Fbass(72,1)=9
+Fbass(74,1)=6
+Fbass(76,1)=5 6
+Fbass(79,1)=5 6
+Fbass(80,1)=4
+Fbass(82,1)=3
+Text@43=#?
+Text@54=#?

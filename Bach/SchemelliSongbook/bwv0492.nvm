@@ -1,0 +1,281 @@
+Score.Title=O finstre Nacht, wenn wirst du doch
+Score.Comment=bwv 492
+Score.KeySignature=2
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/16
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! b0 2
+! g0 2
+! f#0 1
+! e0 1
+! d0 2
+! f#0 2
+! b0 2
+! c#1 1
+! d1 1
+! e1 1
+! c#1 1
+! d1 1
+! b0 1
+! a#0 3
+! c#1 1
+! f#0 2
+! f#1 2
+! d1 2
+! c#1 1
+! b0 1
+! e1 1
+! g1 1
+! f#1 1
+! e1 1
+! c#1 3
+! d1 1
+! d1 2
+! a0 2
+! d1 2
+! e1 1
+! f#1 1
+! e1 1
+! c#1 1
+! b0 1
+! a0 1
+! d1 3
+! e1 1
+! c#1 2
+! d#1 2
+! e1 2
+! f#1 1
+! g1 1
+! f#1 1
+! d1 1
+! c#1 1
+! b0 1
+! e1 3
+! f#1 1
+! d1 2
+! f#1 2
+! g1 1
+! f#1 1
+! e1 1
+! d1 1
+! c#1 3
+! f#1 1
+! e1 1
+! d1 1
+! c#1 1
+! b0 1
+! c#1 1
+! a#0 1
+! f#0 2
+! VoiceInstance 0 98
+! a#0 2
+! b0 1
+! e1 1
+! d1 1
+! c#1 1
+! d1 1
+! g1 1
+! f#1 1
+! b0 1
+! d1 2
+! c#1 1
+! b0 1
+! b0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! b-2 4
+! a#-2 2
+! b-2 2
+! b-1 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! e-1 2
+! a#-2 2
+! b-2 2
+! f#-1 2
+! f#-2 1
+! g#-2 1
+! a#-2 2
+! f#-2 2
+! b-2 1
+! b-1 1
+! e-1 1
+! g-1 1
+! c#-1 1
+! a-2 1
+! d-1 1
+! g-1 1
+! a-1 2
+! a-2 2
+! d-1 2
+! d-1 1
+! e-1 1
+! f#-1 1
+! d-1 1
+! c#-1 1
+! b-2 1
+! c#-1 2
+! f#-1 2
+! b-2 2
+! e-1 2
+! a-2 2
+! f#-1 2
+! g-1 1
+! e-1 1
+! d-1 1
+! c#-1 1
+! d-1 2
+! g-1 2
+! c#-1 2
+! f#-1 2
+! b-2 2
+! b-1 2
+! e-1 1
+! f#-1 1
+! g-1 1
+! g#-1 1
+! a-1 1
+! g-1 1
+! a-1 1
+! a#-1 1
+! b-1 2
+! g-1 2
+! f#-1 3
+! d-1 1
+! e-1 1
+! g-1 1
+! f#-1 1
+! e-1 1
+! d-1 1
+! c#-1 1
+! b-2 1
+! a#-2 1
+! b-2 1
+! c#-1 1
+! d-1 1
+! e-1 1
+! f#-1 2
+! f#-2 2
+! b-2 6
+Shake(12,0)=Fermata
+Shake(27,0)=UpAcciaccatura
+Shake(28,0)=Fermata
+Shake(44,0)=Fermata
+Shake(60,0)=Fermata
+Shake(76,0)=Fermata
+Shake(94,0)=Fermata
+Shake(110,0)=DownTrill
+Lyric(6,0)=O|Wann
+Lyric(8,0)=fin-|werd'
+Lyric(10,0)=stre|ich
+Lyric(12,0)=Nacht,|doch
+Lyric(14,0)=wann|von
+Lyric(16,0)=wirst|Sün-
+Lyric(18,0)=du|den
+Lyric(20,0)=doch|auf-
+Lyric(22,0)=ver-|er-
+Lyric(24,0)=ge-|ste-
+Lyric(28,0)=hen,|hen,
+Lyric(30,0)=wann|und
+Lyric(32,0)=bricht|le-
+Lyric(34,0)=dein|ben
+Lyric(36,0)=Le-|nur
+Lyric(38,0)=bens-|al-
+Lyric(40,0)=licht|lein
+Lyric(43,0)=her|in
+Lyric(44,0)=für?|dir?
+Lyric(46,0)=Wann
+Lyric(48,0)=werd'
+Lyric(50,0)=ich
+Lyric(52,0)=in
+Lyric(54,0)=Ge-
+Lyric(56,0)=rech-
+Lyric(59,0)=tig-
+Lyric(60,0)=keit
+Lyric(62,0)=dein
+Lyric(64,0)=Ant-
+Lyric(66,0)=litz
+Lyric(68,0)=se-
+Lyric(70,0)=hen
+Lyric(72,0)=al-
+Lyric(75,0)=le
+Lyric(76,0)=Zeit?
+Lyric(78,0)=Wann
+Lyric(80,0)=werd'
+Lyric(82,0)=ich
+Lyric(84,0)=satt
+Lyric(87,0)=und
+Lyric(88,0)=froh
+Lyric(90,0)=mit
+Lyric(92,0)=La-
+Lyric(94,0)=chen,
+Lyric(98,0)=o
+Lyric(100,0)=Herr,
+Lyric(101,0)=nach
+Lyric(102,0)=dei-
+Lyric(103,0)=nem
+Lyric(104,0)=Bild
+Lyric(106,0)=er-
+Lyric(108,0)=wa-
+Lyric(112,0)=chen?
+Shake(12,1)=Fermata
+Shake(28,1)=Fermata
+Shake(44,1)=Fermata
+Shake(60,1)=Fermata
+Shake(76,1)=Fermata
+Shake(92,1)=Fermata
+Shake(95,1)=DownAcciaccatura
+Fbass(8,1)=2 4 6
+Fbass(10,1)=5 6
+Fbass(18,1)=6
+Fbass(19,1)=5
+Fbass(20,1)=5 6
+Fbass(24,1)=3+
+Fbass(30,1)=3+
+Fbass(34,1)=6
+Fbass(35,1)=6
+Fbass(36,1)=5 6
+Fbass(39,1)=5 6
+Fbass(50,1)=6
+Fbass(51,1)=5 6+
+Fbass(52,1)=6
+Fbass(54,1)=7
+Fbass(56,1)=7
+Fbass(58,1)=3+ 7
+Fbass(62,1)=6+
+Fbass(64,1)=6
+Fbass(66,1)=6
+Fbass(67,1)=5 6+
+Fbass(68,1)=6
+Fbass(70,1)=7
+Fbass(72,1)=7
+Fbass(74,1)=3+ 7
+Fbass(82,1)=6
+Fbass(83,1)=5
+Fbass(86,1)=6
+Fbass(87,1)=6
+Fbass(88,1)=4
+Fbass(89,1)=3
+Fbass(90,1)=4 6
+Fbass(91,1)=3
+Fbass(92,1)=3+
+Fbass(96,1)=2 4+
+Fbass(98,1)=3+
+Fbass(100,1)=6
+Fbass(101,1)=6+
+Fbass(103,1)=6
+Fbass(105,1)=6+
+Fbass(106,1)=6
+Fbass(107,1)=5 6
+Fbass(108,1)=4 6
+Fbass(110,1)=3+ 5

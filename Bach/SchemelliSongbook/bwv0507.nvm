@@ -1,0 +1,271 @@
+Score.Title=Wo ist mein Schäflein
+Score.Comment=bwv 507
+Score.KeySignature=-3
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/16
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 2
+! b&0 2
+! c1 2
+! d1 2
+! e&1 2
+! g0 2
+! c1 2
+! b&0 2
+! a&0 4
+! g0 2
+! e&1 1
+! g1 1
+! f1 2
+! b&0 2
+! c1 2
+! d1 1
+! e&1 1
+! d1 2
+! c1 1
+! b&0 1
+! b&0 4
+! VoiceInstance 0 42
+! d1 2
+! d1 2
+! d1 2
+! c1 1
+! d1 1
+! e&1 1
+! c1 1
+! b&0 3
+! a&0 1
+! g0 2
+! b&0 2
+! c1 2
+! d1 2
+! e&1 2
+! g1 2
+! f1 2
+! e&1 1
+! d1 1
+! e&1 2
+! d1 1
+! c1 1
+! c1 2
+! d1 2
+! c1 2
+! d1 2
+! e&1 2
+! c1 2
+! f1 2
+! g1 1
+! a&1 1
+! g1 2
+! f1 2
+! e&1 4
+! VoiceInstance 0 102
+! b&0 2
+! g0 2
+! e&0 2
+! c1 2
+! b&0 1
+! a0 1
+! b&0 2
+! a0 1
+! g0 1
+! g0 4
+! VoiceInstance 0 122
+! b&0 2
+! c1 2
+! d1 2
+! e&1 2
+! g0 2
+! c1 2
+! d1 1
+! c1 1
+! b0 2
+! g0 4
+! b&0 2
+! c1 2
+! e&1 1
+! d&1 1
+! c1 1
+! b&0 1
+! a&0 1
+! g0 1
+! f0 2
+! g0 1
+! a&0 1
+! g0 2
+! f0 2
+! e&0 8
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 2
+! e&-1 2
+! a&-1 2
+! g-1 1
+! f-1 1
+! g-1 2
+! c0 1
+! b&-1 1
+! a&-1 2
+! e&-1 2
+! f-1 2
+! b&-2 2
+! e&-1 2
+! c-1 2
+! d-1 2
+! g-1 1
+! f-1 1
+! e&-1 2
+! c-1 2
+! f-1 2
+! f-2 2
+! b&-2 4
+! VoiceInstance 1 42
+! b&-1 2
+! f#-1 2
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! d-1 1
+! c-1 1
+! b&-2 2
+! e&-1 2
+! g-1 2
+! a&-1 2
+! b-2 2
+! c-1 2
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 2
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! c-1 2
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! f-1 2
+! b&-1 2
+! b&-2 2
+! e&-1 4
+! VoiceInstance 1 102
+! d-1 2
+! e&-1 1
+! d-1 1
+! c-1 1
+! b&-2 1
+! a-2 1
+! f#-1 1
+! g-1 2
+! c-1 2
+! d-1 2
+! g-2 4
+! VoiceInstance 1 122
+! e&-1 2
+! a&-1 2
+! g-1 1
+! f-1 1
+! g-1 1
+! c-1 1
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! f-1 2
+! g-1 6
+! e&-1 2
+! a&-1 2
+! g-1 2
+! a&-1 2
+! f-1 2
+! b&-1 2
+! e&-1 2
+! b&-1 2
+! b&-2 2
+! e&-1 8
+Shake(23,0)=UpAcciaccatura
+Lyric(2,0)=Wo
+Lyric(4,0)=ist
+Lyric(6,0)=mein
+Lyric(8,0)=Schäf-
+Lyric(10,0)=lein,
+Lyric(12,0)=das
+Lyric(14,0)=ich
+Lyric(16,0)=lie-
+Lyric(20,0)=be,
+Lyric(22,0)=das
+Lyric(24,0)=sich
+Lyric(26,0)=so
+Lyric(28,0)=weit
+Lyric(30,0)=von
+Lyric(32,0)=mir
+Lyric(34,0)=ver-
+Lyric(36,0)=irrt
+Lyric(42,0)=und
+Lyric(44,0)=selbst
+Lyric(46,0)=aus
+Lyric(48,0)=eig'-
+Lyric(50,0)=ner
+Lyric(52,0)=Schuld
+Lyric(55,0)=ver-
+Lyric(56,0)=wirrt,
+Lyric(58,0)=da-
+Lyric(60,0)=rum
+Lyric(62,0)=ich
+Lyric(64,0)=mich
+Lyric(66,0)=so
+Lyric(68,0)=sehr
+Lyric(70,0)=be-
+Lyric(72,0)=trü-
+Lyric(76,0)=be?
+Lyric(78,0)=Wisst
+Lyric(80,0)=ihr's,
+Lyric(82,0)=ihr
+Lyric(84,0)=Au-
+Lyric(86,0)=en
+Lyric(88,0)=und
+Lyric(90,0)=ihr
+Lyric(92,0)=Hir-
+Lyric(96,0)=ten?
+Lyric(102,0)=So
+Lyric(104,0)=sagt
+Lyric(106,0)=mir's,
+Lyric(108,0)=eu-
+Lyric(110,0)=rem
+Lyric(112,0)=Schö-
+Lyric(114,0)=pfer,
+Lyric(116,0)=an;
+Lyric(122,0)=ich
+Lyric(124,0)=will
+Lyric(126,0)=seh'n,
+Lyric(128,0)=ob
+Lyric(130,0)=ich's
+Lyric(132,0)=kann
+Lyric(134,0)=er-
+Lyric(136,0)=we-
+Lyric(138,0)=cken
+Lyric(142,0)=und
+Lyric(144,0)=ret-
+Lyric(146,0)=ten
+Lyric(148,0)=von
+Lyric(150,0)=der
+Lyric(152,0)=Ir-
+Lyric(156,0)=re-
+Lyric(160,0)=bahn.

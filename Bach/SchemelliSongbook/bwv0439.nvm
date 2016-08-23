@@ -1,0 +1,205 @@
+Score.Title=Ach, dass nicht die letzte Stunde
+Score.Comment=bwv 439
+Score.KeySignature=1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! b0 2
+! g0 2
+! e0 2
+! e1 2
+! c1 2
+! b0 2
+! c1 2
+! b0 2
+! a0 2
+! g0 2
+! c1 2
+! b0 2
+! a0 2
+! g0 2
+! f#0 4
+! f#0 2
+! f#0 2
+! f#0 2
+! b0 2
+! g0 2
+! f#0 2
+! g0 2
+! g0 2
+! g0 2
+! f#0 2
+! g0 2
+! e1 2
+! a#0 3
+! b0 1
+! b0 4
+! b0 2
+! a0 1
+! g0 1
+! c1 2
+! b0 2
+! e1 1
+! d#1 1
+! e1 1
+! f#1 1
+! d#1 2
+! b0 2
+! b0 2
+! e1 1
+! d1 1
+! c1 1
+! b0 1
+! a0 1
+! g0 1
+! f#0 3
+! e0 1
+! e0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! e-1 3
+! f#-1 1
+! g-1 2
+! e-1 2
+! a-1 2
+! g-1 2
+! f#-1 2
+! g-1 2
+! d#-1 2
+! e-1 2
+! a-1 2
+! g-1 2
+! f#-1 2
+! e-1 2
+! b-2 4
+! b-1 2
+! a#-1 2
+! b-1 2
+! d#-1 2
+! e-1 2
+! b-2 2
+! e-1 2
+! e-2 2
+! e-1 2
+! d#-1 2
+! e-1 2
+! c#-1 2
+! f#-1 2
+! f#-2 2
+! b-2 4
+! d#-1 2
+! e-1 2
+! a-2 2
+! g-2 2
+! c-1 2
+! a-2 2
+! b-2 2
+! b-1 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! e-1 2
+! a-1 2
+! e-1 2
+! b-1 2
+! b-2 2
+! e-1 4
+Shake(14,0)=Fermata
+Shake(46,0)=Fermata
+Shake(60,0)=Fermata
+Shake(78,0)=Fermata
+Lyric(0,0)=Ach,|Mich
+Lyric(2,0)=dass|ver-
+Lyric(4,0)=nicht|langt
+Lyric(6,0)=die|von
+Lyric(8,0)=letz-|Her-
+Lyric(10,0)=te|zens
+Lyric(12,0)=Stun-|Grun-
+Lyric(14,0)=de|de,
+Lyric(16,0)=mei-|dass
+Lyric(18,0)=nes|man
+Lyric(20,0)=Le-|mich
+Lyric(22,0)=bens|zu
+Lyric(24,0)=heu-|Gra-
+Lyric(26,0)=te|be
+Lyric(28,0)=schlägt!|trägt;
+Lyric(32,0)=denn
+Lyric(34,0)=ich
+Lyric(36,0)=darf
+Lyric(38,0)=den
+Lyric(40,0)=Tod
+Lyric(42,0)=nicht
+Lyric(44,0)=scheu-
+Lyric(46,0)=en.
+Lyric(48,0)=ich
+Lyric(50,0)=bin
+Lyric(52,0)=längst
+Lyric(54,0)=mit
+Lyric(56,0)=ihm
+Lyric(59,0)=be-
+Lyric(60,0)=kannt,
+Lyric(64,0)=führt
+Lyric(66,0)=er
+Lyric(68,0)=doch
+Lyric(70,0)=aus
+Lyric(72,0)=Wü-
+Lyric(74,0)=ste-
+Lyric(76,0)=nei-
+Lyric(78,0)=en
+Lyric(80,0)=mich
+Lyric(82,0)=in
+Lyric(84,0)=das
+Lyric(86,0)=ge-
+Lyric(88,0)=lob-
+Lyric(91,0)=te
+Lyric(92,0)=Land.
+Shake(14,1)=Fermata
+Shake(46,1)=Fermata
+Shake(60,1)=Fermata
+Fbass(4,1)=6
+Fbass(8,1)=7
+Fbass(9,1)=6
+Fbass(10,1)=7
+Fbass(11,1)=6
+Fbass(12,1)=7
+Fbass(13,1)=6
+Fbass(16,1)=5 6
+Fbass(20,1)=7
+Fbass(21,1)=6
+Fbass(22,1)=7
+Fbass(23,1)=6
+Fbass(24,1)=7
+Fbass(25,1)=6+
+Fbass(28,1)=3+
+Fbass(32,1)=3+
+Fbass(34,1)=6
+Fbass(36,1)=3+
+Fbass(38,1)=6
+Fbass(42,1)=3+
+Fbass(50,1)=6
+Fbass(54,1)=5 7
+Fbass(56,1)=3+ 8
+Fbass(57,1)=7
+Fbass(60,1)=3+
+Fbass(64,1)=6
+Fbass(68,1)=7
+Fbass(69,1)=6
+Fbass(70,1)=7
+Fbass(71,1)=6
+Fbass(72,1)=7
+Fbass(73,1)=6
+Fbass(74,1)=7
+Fbass(75,1)=6
+Fbass(76,1)=3+
+Fbass(80,1)=6
+Fbass(88,1)=4
+Fbass(90,1)=3+

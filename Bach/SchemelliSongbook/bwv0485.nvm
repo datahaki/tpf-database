@@ -1,0 +1,198 @@
+Score.Title=Liebster Immanuel
+Score.Comment=bwv 485
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! f1 2
+! f1 2
+! f1 2
+! e1 3
+! d1 1
+! c1 2
+! d1 2
+! b&0 2
+! a0 2
+! g0 4
+! f0 2
+! c1 2
+! c1 2
+! a0 2
+! d1 3
+! e1 1
+! f1 2
+! f0 1
+! g0 1
+! g0 3
+! a0 1
+! a0 6
+! a0 2
+! a0 2
+! b&0 1
+! c1 1
+! b&0 2
+! g0 4
+! d1 2
+! c#1 2
+! d1 2
+! e1 2
+! a0 4
+! f1 2
+! e1 2
+! d1 2
+! c#1 3
+! a0 1
+! d1 3
+! e1 1
+! e1 3
+! d1 1
+! d1 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! d0 2
+! d-1 1
+! e-1 1
+! f-1 1
+! d-1 1
+! g-1 2
+! e-1 2
+! a-1 2
+! d-1 1
+! c-1 1
+! d-1 1
+! e-1 1
+! f-1 2
+! b&-2 2
+! c-1 2
+! f-2 2
+! f-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! f-1 1
+! e-1 1
+! f-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! c#-1 1
+! d-1 2
+! b&-2 4
+! a-2 6
+! d-1 1
+! e-1 1
+! f#-1 2
+! d-1 2
+! g-1 2
+! g-2 4
+! f-1 1
+! e-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! a-1 3
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 2
+! g-1 1
+! a-1 1
+! b&-1 1
+! g-1 1
+! a-1 1
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! f-1 1
+! g-1 1
+! a-1 2
+! a-2 2
+! d-1 6
+Shake(22,0)=Fermata
+Shake(38,0)=DownTrill
+Shake(56,0)=Fermata
+Shake(68,0)=Fermata
+Lyric(0,0)=Lieb-|Du,
+Lyric(2,0)=ster|du
+Lyric(4,0)=Im-|hast
+Lyric(6,0)=ma-|mir,
+Lyric(9,0)=nu-|mein
+Lyric(10,0)=el,|Schatz,
+Lyric(12,0)=Her-|mein
+Lyric(14,0)=zog|Herz
+Lyric(16,0)=der|ge-
+Lyric(18,0)=From-|nom-
+Lyric(22,0)=men,|men,
+Lyric(24,0)=du,|so
+Lyric(26,0)=mei-|ganz
+Lyric(28,0)=ner|vor
+Lyric(30,0)=See-|Lie-
+Lyric(33,0)=le|be
+Lyric(34,0)=Trost,|brennt
+Lyric(36,0)=komm,|und
+Lyric(38,0)=komm|nach
+Lyric(41,0)=nur|dir
+Lyric(42,0)=bald!|wallt:
+Lyric(48,0)=Nichts
+Lyric(50,0)=kann
+Lyric(52,0)=auf
+Lyric(54,0)=Er-
+Lyric(56,0)=den
+Lyric(60,0)=mir
+Lyric(62,0)=Lie-
+Lyric(64,0)=ber's
+Lyric(66,0)=wer-
+Lyric(68,0)=den,
+Lyric(72,0)=wenn
+Lyric(74,0)=ich,
+Lyric(76,0)=mein
+Lyric(78,0)=Je-
+Lyric(81,0)=su,
+Lyric(82,0)=dich
+Lyric(85,0)=mir
+Lyric(86,0)=stets
+Lyric(89,0)=be-
+Lyric(90,0)=halt'.
+Shake(22,1)=Fermata
+Shake(56,1)=Fermata
+Shake(66,1)=Fermata
+Fbass(4,1)=6
+Fbass(6,1)=6
+Fbass(8,1)=7
+Fbass(14,1)=6
+Fbass(18,1)=5 6
+Fbass(26,1)=6
+Fbass(30,1)=6
+Fbass(33,1)=6+
+Fbass(38,1)=6
+Fbass(42,1)=3+
+Fbass(48,1)=3+
+Fbass(50,1)=6
+Fbass(52,1)=3+ 6
+Fbass(53,1)=7
+Fbass(60,1)=6
+Fbass(62,1)=2 4+ 6
+Fbass(64,1)=2 4 7
+Fbass(66,1)=3+
+Fbass(74,1)=6
+Fbass(76,1)=6
+Fbass(77,1)=7
+Fbass(78,1)=3+
+Fbass(82,1)=6
+Fbass(84,1)=6
+Fbass(85,1)=5 6
+Fbass(86,1)=4
+Fbass(88,1)=3+

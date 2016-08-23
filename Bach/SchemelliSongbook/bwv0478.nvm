@@ -1,0 +1,236 @@
+Score.Title=Komm, süsser Tod, komm, sel'ge Ruh!
+Score.Comment=bwv 478
+Score.KeySignature=-3
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! c1 2
+! b&0 2
+! a&0 1
+! g0 1
+! g0 6
+! e&1 2
+! d1 2
+! c1 1
+! b0 1
+! b0 6
+! c1 2
+! d1 2
+! e&1 2
+! a&0 2
+! g0 1
+! f0 1
+! g0 2
+! f0 4
+! e&0 2
+! g0 2
+! a0 2
+! b0 2
+! c1 2
+! d1 1
+! e&1 1
+! d1 1
+! c1 1
+! b&0 2
+! a0 2
+! g0 2
+! b&0 2
+! d&1 2
+! c1 1
+! b&0 1
+! a&0 2
+! g0 3
+! b&0 1
+! a&0 6
+! f1 1
+! d1 1
+! b&0 2
+! a&0 2
+! g0 2
+! e&1 1
+! d1 1
+! e&1 2
+! d1 6
+! e&1 2
+! g1 1
+! f1 1
+! e&1 1
+! d1 1
+! c1 1
+! e&1 1
+! d1 1
+! c1 1
+! b0 1
+! c1 1
+! g0 6
+! a&0 1
+! g0 1
+! e&0 2
+! d0 1
+! c0 1
+! c0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 2
+! d-1 4
+! e&-1 6
+! c-1 2
+! f-1 4
+! g-1 6
+! e&-1 2
+! b-2 2
+! c-1 4
+! d-1 2
+! e&-1 2
+! a&-2 2
+! b&-2 2
+! e&-2 2
+! e&-1 4
+! d-1 2
+! e&-1 2
+! f-2 2
+! g-2 2
+! d-2 4
+! g-2 2
+! g-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! b&-2 2
+! c-1 2
+! f-2 2
+! f-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 3
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 2
+! c-1 2
+! f-1 2
+! b&-2 2
+! b&-1 1
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 2
+! e&-1 2
+! g-1 2
+! a&-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! f-1 4
+! e&-1 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 6
+Shake(6,0)=Fermata
+Shake(18,0)=Fermata
+Shake(40,0)=Fermata
+Shake(58,0)=Fermata
+Shake(71,0)=UpAcciaccatura
+Shake(90,0)=Fermata
+Shake(108,0)=Fermata
+Shake(120,0)=Fermata
+Lyric(0,0)=Komm,
+Lyric(2,0)=sü-
+Lyric(4,0)=sser
+Lyric(6,0)=Tod,
+Lyric(12,0)=komm,
+Lyric(14,0)=sel'-
+Lyric(16,0)=ge
+Lyric(18,0)=Ruh'!
+Lyric(24,0)=Komm
+Lyric(26,0)=und
+Lyric(28,0)=füh-
+Lyric(30,0)=re
+Lyric(32,0)=mich
+Lyric(34,0)=in
+Lyric(36,0)=Frie-
+Lyric(40,0)=de,
+Lyric(42,0)=weil
+Lyric(44,0)=ich
+Lyric(46,0)=der
+Lyric(48,0)=Welt
+Lyric(52,0)=bin
+Lyric(54,0)=mü-
+Lyric(58,0)=de.
+Lyric(60,0)=Ach
+Lyric(62,0)=komm,
+Lyric(64,0)=ich
+Lyric(66,0)=wart'
+Lyric(68,0)=auf
+Lyric(72,0)=dich,
+Lyric(78,0)=komm
+Lyric(80,0)=bald
+Lyric(82,0)=und
+Lyric(84,0)=füh-
+Lyric(88,0)=re
+Lyric(90,0)=mich,
+Lyric(96,0)=drück'
+Lyric(98,0)=mir
+Lyric(100,0)=die
+Lyric(102,0)=Au-
+Lyric(106,0)=gen
+Lyric(108,0)=zu.
+Lyric(114,0)=Komm,
+Lyric(116,0)=sel'-
+Lyric(118,0)=ge
+Lyric(120,0)=Ruh'!
+Shake(6,1)=Fermata
+Shake(18,1)=Fermata
+Shake(40,1)=Fermata
+Shake(58,1)=Fermata
+Shake(120,1)=Fermata
+Fbass(2,1)=6
+Fbass(4,1)=5
+Fbass(14,1)=6 8
+Fbass(16,1)=5 7
+Fbass(18,1)=3+
+Fbass(24,1)=6
+Fbass(26,1)=6
+Fbass(30,1)=6
+Fbass(32,1)=5 6
+Fbass(36,1)=5 6
+Fbass(44,1)=2 4+
+Fbass(46,1)=6+
+Fbass(48,1)=6
+Fbass(50,1)=5 6
+Fbass(54,1)=4 6
+Fbass(56,1)=3+ 5+
+Fbass(60,1)=6+
+Fbass(62,1)=4 6-
+Fbass(64,1)=5 6
+Fbass(68,1)=3- 5 6
+Fbass(70,1)=3+
+Fbass(78,1)=7
+Fbass(79,1)=6
+Fbass(82,1)=5
+Fbass(86,1)=7
+Fbass(88,1)=3+ 7
+Fbass(96,1)=6
+Fbass(100,1)=6
+Fbass(101,1)=5
+Fbass(104,1)=6
+Fbass(106,1)=5 7
+Fbass(108,1)=2 4+ 6
+Fbass(110,1)=6
+Fbass(114,1)=5 6
+Fbass(116,1)=4 6
+Fbass(118,1)=3+ 5

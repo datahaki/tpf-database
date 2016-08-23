@@ -1,0 +1,189 @@
+Score.Title=Ich steh' an deiner Krippen hier
+Score.Comment=bwv 469
+Score.KeySignature=-2
+Score.KeyMode=Dorian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! g0 2
+! c1 2
+! d1 2
+! e&1 2
+! c1 2
+! b&0 3
+! a&0 1
+! g0 2
+! b&0 2
+! e&0 3
+! d0 1
+! e&0 2
+! f0 2
+! g0 4
+! g0 2
+! b&0 2
+! e&1 2
+! b&0 2
+! c1 2
+! b&0 2
+! a&0 3
+! b&0 1
+! g0 2
+! b&0 2
+! e&1 2
+! b&0 2
+! c1 2
+! b&0 2
+! a&0 3
+! b&0 1
+! g0 2
+! g0 2
+! a0 2
+! b0 2
+! c1 1
+! e&1 1
+! d1 1
+! c1 1
+! b0 4
+! c1 2
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! c-1 1
+! d-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! c-1 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! c-1 1
+! d-1 1
+! e&-1 2
+! e&-1 1
+! d-1 1
+! c-1 1
+! g-1 1
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! a&-1 2
+! g-1 4
+! g-2 2
+! g-1 1
+! f-1 1
+! e&-1 1
+! f-1 1
+! g-1 1
+! e&-1 1
+! a&-1 3
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! b&-2 1
+! e&-1 2
+! e&-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! e&-1 1
+! d-1 1
+! e&-1 1
+! f-1 1
+! g-1 1
+! e&-1 1
+! f-1 2
+! b&-2 2
+! e&-1 2
+! c-1 2
+! f-1 1
+! e&-1 1
+! f-1 1
+! d-1 1
+! e&-1 2
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 2
+Shake(20,0)=Fermata
+Shake(52,0)=Fermata
+Shake(68,0)=Fermata
+Lyric(6,0)=Ich|ich
+Lyric(8,0)=steh'|ste-
+Lyric(10,0)=an|he
+Lyric(12,0)=dei-|bring'
+Lyric(14,0)=ner|und
+Lyric(16,0)=Krip-|schen-
+Lyric(19,0)=pen|ke
+Lyric(20,0)=hier,|dir,
+Lyric(22,0)=o|was
+Lyric(24,0)=Je-|du
+Lyric(27,0)=su-|mir
+Lyric(28,0)=lein,|hast
+Lyric(30,0)=mein|ge-
+Lyric(32,0)=Le-|ge-
+Lyric(36,0)=ben,|ben.
+Lyric(38,0)=Nimm
+Lyric(40,0)=hin,
+Lyric(42,0)=es
+Lyric(44,0)=ist
+Lyric(46,0)=mein
+Lyric(48,0)=Geist
+Lyric(51,0)=und
+Lyric(52,0)=Sinn,
+Lyric(54,0)=Herz,
+Lyric(56,0)=Seel'
+Lyric(58,0)=und
+Lyric(60,0)=Muth,
+Lyric(62,0)=nimm
+Lyric(64,0)=Al-
+Lyric(67,0)=les
+Lyric(68,0)=hin,
+Lyric(70,0)=und
+Lyric(72,0)=lass
+Lyric(74,0)=dir's
+Lyric(76,0)=wohl
+Lyric(78,0)=ge-
+Lyric(80,0)=fal-
+Lyric(84,0)=len!
+Shake(20,1)=Fermata
+Shake(52,1)=Fermata
+Shake(68,1)=Fermata
+Fbass(8,1)=6
+Fbass(10,1)=2 5
+Fbass(14,1)=6
+Fbass(16,1)=6
+Fbass(18,1)=7
+Fbass(20,1)=5
+Fbass(28,1)=5 7
+Fbass(30,1)=4 6
+Fbass(31,1)=3
+Fbass(32,1)=4
+Fbass(36,1)=3+
+Fbass(38,1)=6
+Fbass(42,1)=6
+Fbass(46,1)=2 5
+Fbass(48,1)=3-
+Fbass(50,1)=5- 6
+Fbass(56,1)=6+
+Fbass(60,1)=4- 6
+Fbass(62,1)=6
+Fbass(64,1)=3- 7
+Fbass(66,1)=7-
+Fbass(72,1)=5 7
+Fbass(74,1)=2 4+ 6
+Fbass(76,1)=6
+Fbass(78,1)=5 6
+Fbass(80,1)=3+

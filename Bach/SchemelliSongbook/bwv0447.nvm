@@ -1,0 +1,162 @@
+Score.Title=Der Tag ist hin, die Sonne gehet nieder
+Score.Comment=bwv 447
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! d0 2
+! f0 2
+! g0 2
+! a0 2
+! d1 2
+! c1 3
+! b0 1
+! a0 1
+! b0 1
+! c1 2
+! b0 4
+! a0 2
+! d1 2
+! d1 1
+! c#1 1
+! d1 2
+! c#1 2
+! e1 2
+! d1 2
+! a0 2
+! b&0 2
+! a0 1
+! g0 1
+! g0 4
+! f0 2
+! f0 2
+! e0 2
+! e0 2
+! d0 2
+! a0 2
+! c1 2
+! c1 2
+! g0 1
+! a0 1
+! b&0 2
+! a0 2
+! a0 2
+! c1 2
+! d1 2
+! a0 2
+! c1 2
+! a0 2
+! g0 1
+! f0 1
+! e0 3
+! d0 1
+! d0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! d-1 2
+! d-1 2
+! g-2 2
+! d-2 2
+! d-1 2
+! a-1 2
+! e-1 2
+! f-1 2
+! c-1 1
+! d-1 1
+! e-1 2
+! e-2 2
+! a-2 2
+! f-1 2
+! b&-1 2
+! a-1 1
+! g#-1 1
+! a-1 2
+! c#-1 2
+! d-1 1
+! e-1 1
+! f-1 3
+! e-1 1
+! f-1 2
+! b&-2 2
+! c-1 2
+! f-2 2
+! d-1 2
+! g-2 2
+! a-2 2
+! d-2 2
+! d-1 2
+! a-2 1
+! g-2 1
+! a-2 1
+! b&-2 1
+! c-1 2
+! d-1 1
+! e-1 1
+! f-1 2
+! d-1 2
+! a-2 2
+! b&-2 2
+! f-2 2
+! e-2 2
+! f-2 2
+! b&-2 2
+! g-2 2
+! a-2 2
+! d-2 4
+Lyric(6,0)=Der
+Lyric(8,0)=Tag
+Lyric(10,0)=ist
+Lyric(12,0)=hin,
+Lyric(14,0)=die
+Lyric(16,0)=Son-
+Lyric(19,0)=ne
+Lyric(20,0)=ge-
+Lyric(22,0)=het
+Lyric(24,0)=nie-
+Lyric(28,0)=der;
+Lyric(30,0)=der
+Lyric(32,0)=Tag
+Lyric(34,0)=ist
+Lyric(36,0)=hin
+Lyric(38,0)=und
+Lyric(40,0)=kom-
+Lyric(42,0)=met
+Lyric(44,0)=nim-
+Lyric(46,0)=mer
+Lyric(48,0)=wie-
+Lyric(52,0)=der
+Lyric(54,0)=mit
+Lyric(56,0)=Lust
+Lyric(58,0)=und
+Lyric(60,0)=Last.
+Lyric(62,0)=Er
+Lyric(64,0)=sei
+Lyric(66,0)=auch,
+Lyric(68,0)=wie
+Lyric(70,0)=er
+Lyric(72,0)=sei,
+Lyric(74,0)=bös
+Lyric(76,0)=o-
+Lyric(78,0)=der
+Lyric(80,0)=gut,
+Lyric(82,0)=es
+Lyric(84,0)=heißt:
+Lyric(86,0)=Er
+Lyric(88,0)=ist
+Lyric(91,0)=vor-
+Lyric(92,0)=bei.
+Fbass(10,1)=5
+Fbass(11,1)=6
+Fbass(18,1)=3+ 6
+Fbass(19,1)=5
+Fbass(30,1)=6
+Fbass(35,1)=3-

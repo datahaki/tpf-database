@@ -1,0 +1,178 @@
+Score.Title=Auf, auf! mein Herz, mit Freuden
+Score.Comment=bwv 441
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! c1 2
+! a0 1
+! b&0 1
+! c1 2
+! b&0 4
+! a0 2
+! g0 6
+! f0 4
+! c1 2
+! d1 2
+! e1 2
+! f1 2
+! e1 2
+! d1 2
+! e1 2
+! d1 6
+! a0 1
+! b&0 1
+! c1 2
+! f0 2
+! e0 2
+! f0 2
+! g0 2
+! f0 6
+! b&0 1
+! c1 1
+! d1 2
+! g0 2
+! f#0 2
+! g0 2
+! a0 2
+! g0 4
+! g0 2
+! a0 2
+! b0 2
+! c1 2
+! b0 2
+! c1 2
+! d1 2
+! c1 4
+! c1 2
+! d1 2
+! e1 2
+! f1 2
+! e1 3
+! d1 1
+! e1 2
+! f1 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! f-2 2
+! f-1 6
+! e-1 2
+! f-1 2
+! b&-2 2
+! c-1 2
+! c-2 2
+! f-2 4
+! f-1 2
+! b&-1 2
+! a-1 2
+! g-1 2
+! a-1 4
+! a-2 2
+! d-1 6
+! f-1 2
+! a-2 2
+! b&-2 2
+! c-1 4
+! c-2 2
+! f-2 6
+! g-1 2
+! b&-2 2
+! c-1 2
+! d-1 4
+! d-2 2
+! g-2 4
+! e-1 2
+! f-1 2
+! e-1 1
+! d-1 1
+! e-1 1
+! f-1 1
+! g-1 4
+! g-2 2
+! c-1 4
+! f-1 2
+! b&-2 2
+! a-2 1
+! g-2 1
+! a-2 1
+! b&-2 1
+! c-1 4
+! c-2 2
+! f-2 6
+Shake(18,0)=Fermata
+Shake(72,0)=Fermata
+Shake(90,0)=Fermata
+Lyric(0,0)=Auf,|wie
+Lyric(2,0)=auf!|kömmt
+Lyric(4,0)=mein|nach
+Lyric(6,0)=Herz,|gro-
+Lyric(10,0)=mit|ssem
+Lyric(12,0)=Freu-|Lei-
+Lyric(18,0)=den|den
+Lyric(22,0)=nimm|nun
+Lyric(24,0)=wahr,|ein
+Lyric(28,0)=was|so
+Lyric(30,0)=heut'|gro-
+Lyric(34,0)=ge-|sses
+Lyric(36,0)=schicht;|Licht!
+Lyric(42,0)=Mein
+Lyric(44,0)=Hei-
+Lyric(46,0)=land
+Lyric(48,0)=ward
+Lyric(52,0)=ge-
+Lyric(54,0)=legt
+Lyric(60,0)=da-
+Lyric(62,0)=wo
+Lyric(64,0)=man
+Lyric(66,0)=uns
+Lyric(70,0)=hin-
+Lyric(72,0)=trägt,
+Lyric(76,0)=wenn
+Lyric(78,0)=von
+Lyric(82,0)=uns
+Lyric(84,0)=un-
+Lyric(88,0)=ser
+Lyric(90,0)=Geist
+Lyric(94,0)=gen
+Lyric(96,0)=Him-
+Lyric(100,0)=mel
+Lyric(102,0)=ist
+Lyric(106,0)=ge-
+Lyric(108,0)=reist.
+Shake(18,1)=Fermata
+Shake(72,1)=Fermata
+Shake(90,1)=Fermata
+Fbass(6,1)=2 4
+Fbass(12,1)=5 6
+Fbass(14,1)=4
+Fbass(16,1)=3
+Fbass(24,1)=7
+Fbass(25,1)=6
+Fbass(26,1)=3+
+Fbass(28,1)=5 7
+Fbass(30,1)=4
+Fbass(34,1)=3+
+Fbass(44,1)=6
+Fbass(46,1)=5 7
+Fbass(48,1)=8
+Fbass(52,1)=7
+Fbass(62,1)=6
+Fbass(64,1)=3- 5 7
+Fbass(66,1)=3+ 8
+Fbass(70,1)=7
+Fbass(80,1)=2 5 7
+Fbass(84,1)=3+ 8
+Fbass(98,1)=2 5 7
+Fbass(100,1)=6
+Fbass(102,1)=8
+Fbass(106,1)=7
+Text@80=5'

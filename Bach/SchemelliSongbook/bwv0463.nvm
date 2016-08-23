@@ -1,0 +1,294 @@
+Score.Title=Herr, nicht schicke deine Rache
+Score.Comment=bwv 463
+Score.KeySignature=-2
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 4
+! g0 2
+! g0 2
+! f#0 2
+! g0 2
+! a0 2
+! b&0 1
+! c1 1
+! a0 4
+! g0 4
+! g0 2
+! g0 2
+! f#0 2
+! g0 2
+! a0 2
+! b&0 1
+! c1 1
+! a0 4
+! g0 4
+! b&0 2
+! a0 2
+! g0 2
+! b&0 2
+! a0 2
+! g0 2
+! f#0 4
+! f0 2
+! e&0 2
+! d0 2
+! g0 2
+! g0 2
+! f#0 2
+! g0 4
+! b&0 2
+! c1 2
+! d1 2
+! d1 2
+! c1 2
+! b&0 2
+! c1 4
+! b&0 4
+! b&0 2
+! c1 2
+! d1 2
+! d1 2
+! c1 2
+! b&0 2
+! c1 4
+! b&0 4
+! b&0 2
+! a0 2
+! g0 2
+! b&0 2
+! a0 2
+! g0 2
+! f#0 4
+! f0 2
+! e&0 2
+! d0 2
+! g0 2
+! g0 2
+! f#0 2
+! g0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 4
+! g-2 1
+! a-2 1
+! b&-2 1
+! c-1 1
+! d-1 2
+! b&-2 2
+! f#-2 2
+! g-2 2
+! d-1 2
+! d-2 2
+! g-2 4
+! g-1 1
+! f-1 1
+! e&-1 2
+! d-1 2
+! c-1 1
+! b&-2 1
+! a-2 2
+! g-2 2
+! c-1 2
+! d-1 2
+! g-2 4
+! g-1 2
+! d0 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 2
+! c-1 1
+! d-1 1
+! e&-1 2
+! d-1 4
+! d-1 2
+! g-2 1
+! a-2 1
+! b&-2 2
+! e&-1 1
+! d-1 1
+! c-1 2
+! d-1 2
+! g-2 4
+! g-1 2
+! a-1 2
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! f-1 1
+! g-1 1
+! f-1 1
+! e&-1 2
+! f-1 2
+! b&-2 4
+! b&-1 2
+! a-1 1
+! g-1 1
+! f#-1 1
+! d-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! f-2 4
+! b&-2 4
+! b&-2 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! d-1 4
+! a-2 1
+! f-2 1
+! g-2 1
+! a-2 1
+! b&-2 1
+! g-2 1
+! a-2 1
+! b&-2 1
+! c-1 1
+! a-2 1
+! d-1 2
+! g-2 4
+Shake(20,0)=Fermata
+Shake(40,0)=Fermata
+Shake(56,0)=Fermata
+Shake(72,0)=Fermata
+Shake(92,0)=Fermata
+Shake(112,0)=Fermata
+Shake(128,0)=Fermata
+Lyric(4,0)=Herr,
+Lyric(6,0)=nicht
+Lyric(8,0)=schi-
+Lyric(10,0)=cke
+Lyric(12,0)=dei-
+Lyric(14,0)=ne
+Lyric(16,0)=Ra-
+Lyric(20,0)=che
+Lyric(24,0)=ü-
+Lyric(26,0)=ber
+Lyric(28,0)=mei-
+Lyric(30,0)=de
+Lyric(32,0)=bö-
+Lyric(34,0)=se
+Lyric(36,0)=Sa-
+Lyric(40,0)=che,
+Lyric(44,0)=ob
+Lyric(46,0)=sie
+Lyric(48,0)=wohl
+Lyric(50,0)=durch
+Lyric(52,0)=Ü-
+Lyric(54,0)=bel-
+Lyric(56,0)=that
+Lyric(60,0)=gro-
+Lyric(62,0)=ssen
+Lyric(64,0)=Zorn
+Lyric(66,0)=ver-
+Lyric(68,0)=die-
+Lyric(70,0)=net
+Lyric(72,0)=hat.
+Lyric(76,0)=Frei-
+Lyric(78,0)=lich
+Lyric(80,0)=muss
+Lyric(82,0)=ich
+Lyric(84,0)=es
+Lyric(86,0)=be-
+Lyric(88,0)=ken-
+Lyric(92,0)=nen,
+Lyric(96,0)=Ur-
+Lyric(98,0)=sach'
+Lyric(100,0)=hast
+Lyric(102,0)=du
+Lyric(104,0)=sehr
+Lyric(106,0)=zu
+Lyric(108,0)=bren-
+Lyric(112,0)=nen:
+Lyric(116,0)=doch
+Lyric(118,0)=du
+Lyric(120,0)=wol-
+Lyric(122,0)=lest
+Lyric(124,0)=itzt
+Lyric(126,0)=al-
+Lyric(128,0)=lein
+Lyric(132,0)=Va-
+Lyric(134,0)=ter
+Lyric(136,0)=und
+Lyric(138,0)=nicht
+Lyric(140,0)=Rich-
+Lyric(142,0)=ter
+Lyric(144,0)=sein.
+Shake(20,1)=Fermata
+Shake(40,1)=Fermata
+Shake(56,1)=Fermata
+Shake(72,1)=Fermata
+Shake(92,1)=Fermata
+Shake(112,1)=Fermata
+Shake(128,1)=Fermata
+Fbass(6,1)=6
+Fbass(8,1)=3+
+Fbass(10,1)=6
+Fbass(12,1)=6
+Fbass(16,1)=4
+Fbass(18,1)=3+
+Fbass(26,1)=6
+Fbass(28,1)=3+
+Fbass(30,1)=2 5 7
+Fbass(32,1)=5+
+Fbass(33,1)=6+
+Fbass(34,1)=3
+Fbass(36,1)=5 6
+Fbass(38,1)=3+
+Fbass(46,1)=3+
+Fbass(48,1)=6
+Fbass(52,1)=5 6
+Fbass(53,1)=3+
+Fbass(54,1)=7
+Fbass(55,1)=6
+Fbass(56,1)=3+
+Fbass(62,1)=5 6
+Fbass(63,1)=5 6
+Fbass(68,1)=5 6
+Fbass(70,1)=3+
+Fbass(78,1)=6
+Fbass(84,1)=5 6
+Fbass(88,1)=5 6
+Fbass(90,1)=8
+Fbass(91,1)=7
+Fbass(98,1)=6
+Fbass(99,1)=2 4 6
+Fbass(100,1)=6
+Fbass(104,1)=6
+Fbass(105,1)=6
+Fbass(106,1)=6
+Fbass(108,1)=4
+Fbass(110,1)=3
+Fbass(124,1)=6
+Fbass(126,1)=6
+Fbass(127,1)=7
+Fbass(128,1)=3+
+Fbass(132,1)=6
+Fbass(133,1)=6
+Fbass(134,1)=5 6
+Fbass(135,1)=5 6
+Fbass(138,1)=2 4 7
+Fbass(140,1)=5 6
+Fbass(142,1)=3+

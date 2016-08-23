@@ -1,0 +1,228 @@
+Score.Title=Jesus ist das schönste Licht
+Score.Comment=bwv 474
+Score.KeySignature=0
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! g0 2
+! g0 2
+! c1 2
+! c1 2
+! d1 2
+! d1 2
+! e1 4
+! d1 3
+! e1 1
+! d1 2
+! c1 1
+! b0 1
+! b0 2
+! a0 1
+! g0 1
+! g0 2
+! g0 2
+! d1 2
+! d1 2
+! b0 2
+! g0 2
+! c1 2
+! d1 2
+! e1 4
+! e1 2
+! d1 2
+! d1 1
+! e1 1
+! c1 1
+! b0 1
+! c1 2
+! b0 1
+! a0 1
+! a0 2
+! a0 2
+! g0 2
+! g0 2
+! e0 2
+! c0 2
+! c1 2
+! d1 2
+! e1 2
+! e1 2
+! e1 1
+! f1 1
+! g1 2
+! c1 1
+! d1 1
+! e1 1
+! d1 1
+! e1 2
+! d1 1
+! c1 1
+! c1 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 1
+! b-2 1
+! c-1 1
+! d-1 1
+! e-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! f-1 1
+! d-1 1
+! g-1 1
+! g-2 1
+! c-1 4
+! g-1 1
+! b-1 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! d-1 1
+! e-1 1
+! f#-1 1
+! g-1 1
+! c-1 1
+! d-1 2
+! g-2 4
+! g-2 1
+! a-2 1
+! b-2 1
+! c-1 1
+! d-1 1
+! e-1 1
+! f-1 1
+! d-1 1
+! e-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! c-1 4
+! c-1 1
+! c0 1
+! b-1 1
+! a-1 1
+! g#-1 1
+! e-1 1
+! a-1 1
+! d-1 1
+! e-1 2
+! e-2 2
+! a-2 4
+! b-2 1
+! g-2 1
+! a-2 1
+! b-2 1
+! c-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! a-2 1
+! g-2 1
+! f-2 1
+! g-2 1
+! c-1 4
+! c0 3
+! b-1 1
+! a-1 2
+! g-1 1
+! f-1 1
+! g-1 2
+! g-2 2
+! c-1 4
+Shake(12,0)=Fermata
+Shake(30,0)=Fermata
+Shake(44,0)=Fermata
+Shake(62,0)=Fermata
+Shake(78,0)=Fermata
+Shake(92,0)=Fermata
+Lyric(0,0)=Je-|so
+Lyric(2,0)=sus|er
+Lyric(4,0)=ist|aus
+Lyric(6,0)=das|sich
+Lyric(8,0)=schön-|sel-
+Lyric(10,0)=ste|ber
+Lyric(12,0)=Licht,|spricht:
+Lyric(16,0)=Je-|Er
+Lyric(19,0)=sus|ist
+Lyric(20,0)=ist|mei-
+Lyric(22,0)=des|ne
+Lyric(24,0)=Va-|Lust
+Lyric(26,0)=ters|und
+Lyric(28,0)=Freu-|Wei-
+Lyric(30,0)=de,|de.
+Lyric(32,0)=Je-
+Lyric(34,0)=sus
+Lyric(36,0)=ist
+Lyric(38,0)=die
+Lyric(40,0)=sü-
+Lyric(42,0)=sse
+Lyric(44,0)=Kraft,
+Lyric(48,0)=die
+Lyric(50,0)=mit
+Lyric(52,0)=Lie-
+Lyric(54,0)=be
+Lyric(56,0)=mich
+Lyric(58,0)=ent-
+Lyric(60,0)=zün-
+Lyric(62,0)=det,
+Lyric(64,0)=da
+Lyric(66,0)=mein
+Lyric(68,0)=Herz
+Lyric(70,0)=al-
+Lyric(72,0)=lei-
+Lyric(74,0)=ne
+Lyric(76,0)=fin-
+Lyric(78,0)=det,
+Lyric(80,0)=was
+Lyric(82,0)=mir
+Lyric(84,0)=Ruh'
+Lyric(86,0)=und
+Lyric(88,0)=Freu-
+Lyric(90,0)=de
+Lyric(92,0)=schafft.
+Shake(12,1)=Fermata
+Shake(28,1)=Fermata
+Shake(44,1)=Fermata
+Shake(60,1)=Fermata
+Shake(76,1)=Fermata
+Shake(92,1)=Fermata
+Fbass(4,1)=6
+Fbass(8,1)=5 6
+Fbass(17,1)=6
+Fbass(18,1)=2 4 6+
+Fbass(19,1)=6
+Fbass(20,1)=6
+Fbass(21,1)=6
+Fbass(22,1)=6
+Fbass(23,1)=5 6
+Fbass(25,1)=5 7
+Fbass(26,1)=3+
+Fbass(34,1)=6
+Fbass(36,1)=3 4 6
+Fbass(38,1)=2 4 6
+Fbass(50,1)=6+
+Fbass(51,1)=4 6
+Fbass(52,1)=5 6
+Fbass(55,1)=5 6
+Fbass(56,1)=4 6
+Fbass(58,1)=3+ 5
+Fbass(64,1)=6
+Fbass(70,1)=6
+Fbass(74,1)=5 6
+Fbass(82,1)=2 5
+Fbass(84,1)=3 7
+Fbass(85,1)=4 6
+Fbass(86,1)=4 6
+Fbass(87,1)=5 6
+Fbass(88,1)=4 6
+Fbass(90,1)=3 5

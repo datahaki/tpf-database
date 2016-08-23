@@ -1,0 +1,248 @@
+Score.Title=So wünsch' ich mir zu guter Letzt
+Score.Comment=bwv 502
+Score.KeySignature=1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! d0 2
+! g0 2
+! a0 2
+! b0 2
+! e1 2
+! d1 2
+! c1 1
+! b0 1
+! a0 2
+! VoiceInstance 0 23
+! d1 1
+! g0 2
+! a0 2
+! b0 2
+! a0 2
+! g0 2
+! f#0 1
+! e0 1
+! e0 4
+! d0 6
+! a0 2
+! a0 2
+! f#0 2
+! d#0 2
+! b0 2
+! b0 2
+! a0 1
+! g0 1
+! f#0 2
+! VoiceInstance 0 63
+! b0 1
+! c1 2
+! b0 2
+! a0 2
+! g0 2
+! f#0 2
+! g0 1
+! f#0 1
+! f#0 4
+! e0 6
+! e1 2
+! d1 1
+! e1 1
+! d1 1
+! c1 1
+! b0 2
+! a0 2
+! g0 3
+! a0 1
+! f#0 2
+! VoiceInstance 0 103
+! d0 1
+! g0 2
+! a0 2
+! b0 2
+! c1 2
+! d1 2
+! g0 1
+! a0 1
+! f#0 4
+! g0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! g-2 1
+! a-2 1
+! b-2 2
+! d-1 2
+! g-1 2
+! c-1 2
+! b-2 2
+! c-1 2
+! d-1 2
+! VoiceInstance 1 23
+! b-2 1
+! e-1 2
+! f#-1 1
+! d-1 1
+! g-1 3
+! f#-1 1
+! b-2 1
+! c#-1 1
+! d-1 2
+! a-1 2
+! a-2 2
+! d-1 6
+! d-1 1
+! e-1 1
+! f#-1 1
+! g-1 1
+! a-1 2
+! b-1 2
+! g-1 2
+! d#-1 2
+! e-1 2
+! b-2 2
+! VoiceInstance 1 63
+! g#-2 1
+! a-2 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! e-1 1
+! d#-1 1
+! e-1 1
+! g-1 1
+! c0 2
+! b-1 1
+! a-1 1
+! b-1 2
+! b-2 2
+! e-1 6
+! e-1 2
+! f#-1 2
+! d-1 2
+! g-1 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! e-1 2
+! a-2 2
+! d-1 2
+! VoiceInstance 1 103
+! c-1 1
+! b-2 1
+! a-2 1
+! g-2 1
+! f#-2 1
+! g-2 2
+! e-1 2
+! b-2 1
+! a-2 1
+! b-2 1
+! c-1 1
+! d-1 2
+! d-2 2
+! g-2 6
+Shake(20,0)=Fermata
+Shake(40,0)=Fermata
+Shake(52,0)=Fermata
+Shake(60,0)=Fermata
+Shake(80,0)=Fermata
+Shake(100,0)=Fermata
+Lyric(6,0)=So|das
+Lyric(8,0)=wünsch'|mich
+Lyric(10,0)=ich|für
+Lyric(12,0)=mir|al-
+Lyric(14,0)=zu|lem
+Lyric(16,0)=gu-|Leid
+Lyric(18,0)=ter|er-
+Lyric(20,0)=Letzt|götzt
+Lyric(23,0)=ein|und
+Lyric(24,0)=se-|krö-
+Lyric(26,0)=lig|net
+Lyric(28,0)=Stünd-|mich
+Lyric(30,0)=lein,|zum
+Lyric(32,0)=wohl|Him-
+Lyric(34,0)=zu|mels
+Lyric(36,0)=ster-|er-
+Lyric(40,0)=ben,|ben.
+Lyric(46,0)=Komm,
+Lyric(48,0)=sanf-
+Lyric(50,0)=ter
+Lyric(52,0)=Tod,
+Lyric(54,0)=und
+Lyric(56,0)=zei-
+Lyric(58,0)=ge
+Lyric(60,0)=mir,
+Lyric(63,0)=wo
+Lyric(64,0)=doch
+Lyric(66,0)=mein
+Lyric(68,0)=Freund
+Lyric(70,0)=in
+Lyric(72,0)=Ru-
+Lyric(74,0)=he
+Lyric(76,0)=wei-
+Lyric(80,0)=det,
+Lyric(86,0)=bis
+Lyric(88,0)=mei-
+Lyric(90,0)=ne
+Lyric(92,0)=Seel'
+Lyric(94,0)=auch
+Lyric(96,0)=mit
+Lyric(99,0)=Be-
+Lyric(100,0)=gier
+Lyric(103,0)=zu
+Lyric(104,0)=ihm
+Lyric(106,0)=aus
+Lyric(108,0)=die-
+Lyric(110,0)=ser
+Lyric(112,0)=Welt
+Lyric(114,0)=ab-
+Lyric(116,0)=schei-
+Lyric(120,0)=det.
+Shake(20,1)=Fermata
+Shake(40,1)=Fermata
+Shake(52,1)=Fermata
+Shake(60,1)=Fermata
+Shake(80,1)=Fermata
+Shake(100,1)=Fermata
+Fbass(8,1)=6
+Fbass(16,1)=6
+Fbass(23,1)=5
+Fbass(26,1)=6
+Fbass(30,1)=2 5
+Fbass(32,1)=6
+Fbass(33,1)=5 6
+Fbass(36,1)=4
+Fbass(38,1)=3+
+Fbass(48,1)=6
+Fbass(50,1)=6
+Fbass(51,1)=5
+Fbass(52,1)=3+
+Fbass(54,1)=6
+Fbass(56,1)=6
+Fbass(60,1)=3+
+Fbass(63,1)=6
+Fbass(66,1)=6
+Fbass(68,1)=2 4 5
+Fbass(72,1)=2+ 4
+Fbass(74,1)=4 6
+Fbass(76,1)=4
+Fbass(78,1)=3+
+Fbass(88,1)=6
+Fbass(94,1)=2 5
+Fbass(96,1)=7
+Fbass(98,1)=3+ 7
+Fbass(103,1)=2 4
+Fbass(104,1)=6
+Fbass(106,1)=2 5
+Fbass(110,1)=6
+Fbass(112,1)=6
+Fbass(114,1)=6
+Fbass(115,1)=5 6

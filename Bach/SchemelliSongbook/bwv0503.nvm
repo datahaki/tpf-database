@@ -1,0 +1,284 @@
+Score.Title=Steh' ich bei meinem Gott
+Score.Comment=bwv 503
+Score.KeySignature=1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 2
+! b0 2
+! e1 2
+! f#1 2
+! g1 2
+! f#1 1
+! e1 1
+! d#1 4
+! VoiceInstance 0 18
+! d#1 2
+! e1 1
+! b0 1
+! b0 2
+! c1 2
+! b0 2
+! a0 3
+! g0 1
+! g0 4
+! VoiceInstance 0 38
+! b0 2
+! a0 2
+! b0 2
+! g0 3
+! f#0 1
+! f#0 4
+! VoiceInstance 0 54
+! d1 2
+! c#1 2
+! c#1 1
+! d1 1
+! b0 2
+! b0 2
+! b0 3
+! a#0 1
+! b0 4
+! VoiceInstance 0 74
+! d#1 2
+! e1 1
+! b0 1
+! b0 2
+! c1 2
+! c1 1
+! b0 1
+! b0 4
+! VoiceInstance 0 90
+! b0 2
+! d1 2
+! d1 1
+! e1 1
+! c1 1
+! b0 1
+! c1 1
+! d1 1
+! b0 3
+! a0 1
+! a0 4
+! VoiceInstance 0 110
+! c1 2
+! d1 2
+! d1 1
+! c1 1
+! b0 2
+! e1 1
+! f#1 1
+! d#1 4
+! VoiceInstance 0 126
+! b0 2
+! a0 2
+! b0 1
+! f#0 1
+! g0 2
+! a0 2
+! f#0 3
+! e0 1
+! e0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 2
+! e-1 1
+! d-1 1
+! c-1 2
+! b-2 2
+! e-1 2
+! a-1 2
+! b-1 4
+! VoiceInstance 1 18
+! b-2 1
+! a-2 1
+! g#-2 2
+! e-2 2
+! a-2 2
+! b-2 1
+! c-1 1
+! d-1 2
+! d-2 2
+! g-2 4
+! VoiceInstance 1 38
+! g-1 2
+! d-1 2
+! d#-1 2
+! e-1 2
+! e-2 2
+! b-2 4
+! VoiceInstance 1 54
+! b-1 2
+! e-1 2
+! f#-1 2
+! g-1 2
+! d-1 1
+! e-1 1
+! f#-1 1
+! e-1 1
+! f#-1 1
+! f#-2 1
+! b-2 4
+! VoiceInstance 1 74
+! b-1 1
+! a-1 1
+! g#-1 2
+! e-1 2
+! a-1 2
+! a-2 2
+! e-1 4
+! VoiceInstance 1 90
+! e-1 2
+! f#-1 2
+! g#-1 2
+! a-1 2
+! d-1 2
+! e-1 2
+! e-2 2
+! a-2 4
+! VoiceInstance 1 110
+! a-1 1
+! g-1 1
+! f#-1 2
+! d-1 2
+! g-1 2
+! e-1 2
+! b-1 4
+! VoiceInstance 1 126
+! b-2 2
+! c#-1 2
+! d#-1 2
+! e-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! a-2 2
+! b-2 2
+! e-1 4
+Shake(12,0)=Fermata
+Shake(32,0)=Fermata
+Shake(48,0)=Fermata
+Shake(68,0)=Fermata
+Shake(84,0)=Fermata
+Shake(104,0)=Fermata
+Shake(120,0)=Fermata
+Lyric(2,0)=Steh'
+Lyric(4,0)=ich
+Lyric(6,0)=bei
+Lyric(8,0)=mei-
+Lyric(10,0)=nem
+Lyric(12,0)=Gott
+Lyric(18,0)=in
+Lyric(20,0)=un-
+Lyric(22,0)=ver-
+Lyric(24,0)=rück-
+Lyric(26,0)=ten
+Lyric(28,0)=Gna-
+Lyric(32,0)=den,
+Lyric(38,0)=so
+Lyric(40,0)=kann
+Lyric(42,0)=mir
+Lyric(44,0)=kei-
+Lyric(47,0)=ne
+Lyric(48,0)=Noth
+Lyric(54,0)=an
+Lyric(56,0)=mei-
+Lyric(58,0)=ner
+Lyric(60,0)=See-
+Lyric(62,0)=le
+Lyric(64,0)=scha-
+Lyric(68,0)=den.
+Lyric(74,0)=Kommt
+Lyric(76,0)=gleich
+Lyric(78,0)=ein
+Lyric(80,0)=Un-
+Lyric(82,0)=fall
+Lyric(84,0)=her,
+Lyric(90,0)=weiss
+Lyric(92,0)=ich,
+Lyric(94,0)=dass,
+Lyric(96,0)=der
+Lyric(98,0)=ihn
+Lyric(100,0)=sen-
+Lyric(104,0)=det,
+Lyric(110,0)=der
+Lyric(112,0)=ihn
+Lyric(114,0)=zu
+Lyric(116,0)=sei-
+Lyric(118,0)=ner
+Lyric(120,0)=Ehr'
+Lyric(126,0)=und
+Lyric(128,0)=mei-
+Lyric(130,0)=nem
+Lyric(132,0)=Be-
+Lyric(134,0)=sten
+Lyric(136,0)=wen-
+Lyric(140,0)=det.
+Shake(12,1)=Fermata
+Shake(32,1)=Fermata
+Shake(48,1)=Fermata
+Shake(68,1)=Fermata
+Shake(84,1)=Fermata
+Shake(104,1)=Fermata
+Shake(120,1)=Fermata
+Fbass(6,1)=3+
+Fbass(8,1)=9
+Fbass(9,1)=8
+Fbass(10,1)=6
+Fbass(11,1)=5
+Fbass(12,1)=3+
+Fbass(18,1)=3+
+Fbass(20,1)=6
+Fbass(22,1)=3+
+Fbass(24,1)=9
+Fbass(25,1)=8
+Fbass(26,1)=6
+Fbass(28,1)=4 5
+Fbass(30,1)=3
+Fbass(40,1)=4 5
+Fbass(41,1)=3
+Fbass(42,1)=5 6
+Fbass(44,1)=9
+Fbass(46,1)=8
+Fbass(48,1)=3+
+Fbass(56,1)=5 6+
+Fbass(58,1)=3+ 8
+Fbass(59,1)=7
+Fbass(60,1)=5
+Fbass(62,1)=6
+Fbass(64,1)=4 5+
+Fbass(65,1)=3
+Fbass(66,1)=3+
+Fbass(68,1)=3+
+Fbass(74,1)=3+
+Fbass(76,1)=6
+Fbass(78,1)=3+
+Fbass(80,1)=9
+Fbass(81,1)=8
+Fbass(84,1)=3+
+Fbass(90,1)=3+
+Fbass(92,1)=6
+Fbass(94,1)=5 6
+Fbass(96,1)=9
+Fbass(98,1)=3- 5 7
+Fbass(100,1)=4 5
+Fbass(102,1)=3+
+Fbass(112,1)=6
+Fbass(116,1)=9
+Fbass(117,1)=8
+Fbass(120,1)=3+
+Fbass(126,1)=3+
+Fbass(128,1)=6
+Fbass(130,1)=6
+Fbass(132,1)=9
+Fbass(134,1)=6
+Fbass(136,1)=5 6
+Fbass(138,1)=3+
+Fbass(140,1)=3+

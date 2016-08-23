@@ -1,0 +1,168 @@
+Score.Title=Der lieben Sonne Licht und Pracht
+Score.Comment=bwv 446
+Score.KeySignature=-2
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! f0 2
+! b&0 2
+! d1 2
+! c1 2
+! e&1 2
+! d1 2
+! c1 1
+! b&0 1
+! a0 2
+! f1 2
+! e&1 2
+! d1 2
+! e&1 2
+! f1 2
+! d1 3
+! c1 1
+! c1 2
+! c1 2
+! c1 2
+! d1 2
+! c1 2
+! b&0 2
+! a0 4
+! VoiceInstance 0 54
+! f1 2
+! f1 2
+! g1 2
+! f1 2
+! e&1 2
+! d1 4
+! VoiceInstance 0 70
+! d1 2
+! g0 2
+! g0 2
+! c1 2
+! d1 1
+! e&1 1
+! a0 2
+! g0 2
+! f0 2
+! f1 2
+! f1 2
+! e&1 2
+! e&1 2
+! d1 1
+! c1 1
+! d1 2
+! c1 1
+! b&0 1
+! b&0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! b&-2 2
+! b&-1 2
+! a-1 1
+! g-1 1
+! a-1 2
+! g-1 1
+! f-1 1
+! b&-1 2
+! e&-1 2
+! f-1 2
+! d-1 2
+! g-1 1
+! a-1 1
+! b&-1 4
+! a-1 2
+! b&-1 2
+! b&-2 2
+! f-1 2
+! f-1 1
+! g-1 1
+! a-1 2
+! b&-1 2
+! c0 2
+! c-1 2
+! f-1 4
+! VoiceInstance 1 54
+! f-1 1
+! e&-1 1
+! d-1 2
+! e&-1 2
+! f-1 2
+! f-2 2
+! b&-2 4
+! VoiceInstance 1 70
+! b&-2 2
+! e&-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! f-1 2
+! c0 2
+! d0 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 2
+! c0 1
+! b&-1 1
+! a-1 1
+! f-1 1
+! b&-1 1
+! e&-1 1
+! f-1 2
+! f-2 2
+! b&-2 2
+Lyric(6,0)=Der|die
+Lyric(8,0)=lie-|Welt
+Lyric(10,0)=ben|hat
+Lyric(12,0)=Son-|sich
+Lyric(14,0)=ne|zur
+Lyric(16,0)=Licht|Ruh'
+Lyric(18,0)=und|ge-
+Lyric(20,0)=Pracht|macht:
+Lyric(22,0)=hat|thu',
+Lyric(24,0)=nun|Seel',
+Lyric(26,0)=den|was
+Lyric(28,0)=Tag|dir
+Lyric(30,0)=voll-|ge-
+Lyric(32,0)=füh-|büh-
+Lyric(36,0)=ret,|ret,
+Lyric(38,0)=tritt
+Lyric(40,0)=an
+Lyric(42,0)=die
+Lyric(44,0)=Him-
+Lyric(46,0)=mels-
+Lyric(48,0)=thür'
+Lyric(54,0)=und
+Lyric(56,0)=sing'
+Lyric(58,0)=ein
+Lyric(60,0)=Lied
+Lyric(62,0)=da-
+Lyric(64,0)=fuer,
+Lyric(70,0)=lass
+Lyric(72,0)=dei-
+Lyric(74,0)=ne
+Lyric(76,0)=Oh-
+Lyric(78,0)=ren,
+Lyric(80,0)=Herz
+Lyric(82,0)=und
+Lyric(84,0)=Sinn
+Lyric(86,0)=auf
+Lyric(88,0)=Je-
+Lyric(90,0)=sum
+Lyric(92,0)=sein
+Lyric(94,0)=ge-
+Lyric(96,0)=rich-
+Lyric(98,0)=tet
+Lyric(100,0)=hin!

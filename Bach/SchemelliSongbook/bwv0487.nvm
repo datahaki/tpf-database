@@ -1,0 +1,259 @@
+Score.Title=Mein Jesu, was für Seelenweh
+Score.Comment=bwv 487
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=88.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! d1 1
+! f1 1
+! e1 2
+! a0 2
+! d1 3
+! c#1 1
+! d1 1
+! c#1 1
+! d1 1
+! e1 1
+! c#1 2
+! a0 2
+! d1 3
+! c1 1
+! b&0 2
+! a0 2
+! g0 2
+! a0 1
+! c1 1
+! a0 2
+! f0 1
+! e0 1
+! d0 2
+! e0 1
+! f0 1
+! g0 1
+! b&0 1
+! a0 1
+! g0 1
+! g0 4
+! f0 2
+! a0 2
+! b0 6
+! c1 1
+! a0 1
+! f#0 4
+! e&1 1
+! d1 1
+! d1 1
+! c#1 1
+! c#1 1
+! d1 1
+! d1 1
+! e1 1
+! f1 1
+! e1 1
+! e1 1
+! d#1 1
+! d#1 1
+! e1 1
+! e1 2
+! a0 1
+! g#0 1
+! a0 1
+! d1 1
+! c1 2
+! b0 2
+! a0 4
+! a0 3
+! b0 1
+! c#1 1
+! d1 1
+! e1 1
+! f1 1
+! g1 2
+! f1 1
+! e1 1
+! e1 4
+! d1 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! d-1 4
+! c-1 2
+! b&-2 2
+! a-2 2
+! g#-2 2
+! e-2 2
+! a-2 2
+! a-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 2
+! g-2 2
+! a-2 2
+! b&-2 2
+! c-1 2
+! f-2 2
+! a-2 2
+! b&-2 1
+! a-2 1
+! g-2 1
+! f-2 1
+! e-2 2
+! f-2 2
+! c-1 2
+! c-2 2
+! f-2 2
+! f-2 2
+! f-1 6
+! e&-1 2
+! d-1 4
+! f#-1 2
+! g-1 4
+! f#-1 2
+! g#-1 2
+! a-1 4
+! g#-1 2
+! c0 2
+! f-1 2
+! d-1 2
+! e-1 2
+! a-2 4
+! d-1 1
+! e-1 1
+! f-1 2
+! e-1 1
+! f-1 1
+! g-1 2
+! c#-1 2
+! d-1 2
+! a-1 2
+! a-2 2
+! d-1 6
+Hepta@79=.#....&
+Shake(7,0)=UpAcciaccatura
+Shake(20,0)=Fermata
+Shake(35,0)=UpAcciaccatura
+Shake(36,0)=Fermata
+Shake(52,0)=Fermata
+Shake(56,0)=Fermata
+Shake(64,0)=Fermata
+Shake(82,0)=Fermata
+Shake(92,0)=Fermata
+Shake(112,0)=Fermata
+Lyric(6,0)=Mein|des
+Lyric(8,0)=Je-|To-
+Lyric(10,0)=su,|des
+Lyric(12,0)=was|Angst,
+Lyric(15,0)=für|der
+Lyric(16,0)=See-|Höl-
+Lyric(18,0)=len-|len
+Lyric(20,0)=weh|Qual
+Lyric(22,0)=be-|und
+Lyric(24,0)=fällt|al-
+Lyric(27,0)=dich|le
+Lyric(28,0)=in|Bä-
+Lyric(30,0)=Get-|che
+Lyric(32,0)=se-|Be-
+Lyric(34,0)=ma-|le-
+Lyric(36,0)=ne,|al,
+Lyric(38,0)=da-|die
+Lyric(40,0)=rein|ha-
+Lyric(42,0)=du|ben
+Lyric(44,0)=bist|dich
+Lyric(46,0)=ge-|um-
+Lyric(48,0)=gan-|fan-
+Lyric(52,0)=gen;|gen.
+Lyric(54,0)=Du
+Lyric(56,0)=zagst,
+Lyric(62,0)=du
+Lyric(64,0)=klagst,
+Lyric(68,0)=zit-
+Lyric(70,0)=terst,
+Lyric(72,0)=be-
+Lyric(74,0)=best
+Lyric(76,0)=und
+Lyric(78,0)=er-
+Lyric(80,0)=he-
+Lyric(82,0)=best
+Lyric(84,0)=im
+Lyric(86,0)=E-
+Lyric(88,0)=len-
+Lyric(92,0)=de
+Lyric(96,0)=zu
+Lyric(99,0)=dem
+Lyric(100,0)=Him-
+Lyric(102,0)=mel
+Lyric(104,0)=dei-
+Lyric(106,0)=ne
+Lyric(108,0)=Hän-
+Lyric(112,0)=de.
+Shake(20,1)=Fermata
+Shake(36,1)=Fermata
+Shake(52,1)=Fermata
+Shake(56,1)=Fermata
+Shake(64,1)=Fermata
+Shake(82,1)=Fermata
+Shake(92,1)=Fermata
+Shake(112,1)=Fermata
+Fbass(8,1)=2 4
+Fbass(9,1)=6
+Fbass(10,1)=6
+Fbass(12,1)=7
+Fbass(13,1)=6
+Fbass(14,1)=4 6
+Fbass(16,1)=5 7
+Fbass(17,1)=6
+Fbass(18,1)=3+ 7
+Fbass(20,1)=3+
+Fbass(22,1)=3+
+Fbass(24,1)=6
+Fbass(26,1)=8
+Fbass(27,1)=7
+Fbass(28,1)=9
+Fbass(29,1)=8
+Fbass(30,1)=7
+Fbass(31,1)=6
+Fbass(32,1)=5 6
+Fbass(34,1)=6
+Fbass(35,1)=7
+Fbass(38,1)=6
+Fbass(39,1)=5
+Fbass(42,1)=6
+Fbass(44,1)=6
+Fbass(45,1)=5
+Fbass(48,1)=4
+Fbass(50,1)=3
+Fbass(56,1)=2 4+ 6
+Fbass(62,1)=6
+Fbass(64,1)=3+
+Fbass(68,1)=5 7-
+Fbass(69,1)=6
+Fbass(72,1)=2 4+
+Fbass(74,1)=6
+Fbass(76,1)=5 7
+Fbass(77,1)=6
+Fbass(78,1)=3+
+Fbass(80,1)=2+ 4+
+Fbass(82,1)=6
+Fbass(84,1)=6
+Fbass(86,1)=6
+Fbass(88,1)=5 7
+Fbass(90,1)=3+ 5+
+Fbass(92,1)=3+
+Fbass(98,1)=6
+Fbass(99,1)=2 4+
+Fbass(100,1)=6+
+Fbass(101,1)=6
+Fbass(102,1)=6
+Fbass(104,1)=5 7
+Fbass(105,1)=6
+Fbass(108,1)=4
+Fbass(110,1)=3+

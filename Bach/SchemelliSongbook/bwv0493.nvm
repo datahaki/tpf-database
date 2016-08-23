@@ -1,0 +1,221 @@
+Score.Title=O Jesulein süss, o Jesulein mild
+Score.Comment=bwv 493
+Score.KeySignature=-2
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 4
+! b&0 2
+! b&0 3
+! a0 1
+! b&0 2
+! c1 4
+! a0 2
+! b&0 2
+! a0 2
+! g0 2
+! f0 4
+! d1 2
+! c1 4
+! c1 2
+! b&0 4
+! c1 2
+! f0 2
+! g0 2
+! a0 2
+! b&0 4
+! d1 2
+! e&1 4
+! e&1 2
+! c1 4
+! c1 2
+! d1 4
+! d1 2
+! b&0 4
+! b&0 2
+! c1 4
+! c1 2
+! a0 4
+! a0 2
+! b&0 4
+! b&0 2
+! g0 4
+! c1 2
+! f0 2
+! g0 2
+! a0 2
+! b&0 4
+! d1 2
+! c1 3
+! b&0 1
+! a0 2
+! b&0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 4
+! b&-1 1
+! a-1 1
+! g-1 2
+! d-1 2
+! g-1 1
+! f-1 1
+! e-1 2
+! c-1 2
+! f-1 1
+! e&-1 1
+! d-1 2
+! b&-2 2
+! c-1 2
+! f-2 4
+! b&-2 2
+! f-1 1
+! e-1 1
+! f-1 2
+! f#-1 2
+! g-1 1
+! f#-1 1
+! g-1 2
+! a-1 2
+! b&-1 2
+! e&-1 2
+! f-1 2
+! g-2 4
+! b&-1 1
+! a-1 1
+! g-1 2
+! e&-1 2
+! c-1 2
+! f-1 2
+! f-2 2
+! a-1 1
+! g-1 1
+! f-1 2
+! d-1 2
+! b&-2 2
+! e&-1 4
+! g-1 1
+! f-1 1
+! e-1 2
+! c-1 2
+! e-1 2
+! f-1 2
+! f-2 2
+! f-1 1
+! e&-1 1
+! d-1 2
+! b&-2 2
+! d-1 2
+! e&-1 4
+! c-1 2
+! d-1 2
+! e&-1 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! d-1 2
+! e&-1 1
+! d-1 1
+! c-1 1
+! b&-2 1
+! e&-1 2
+! c-1 2
+! f-1 2
+! b&-2 6
+Shake(24,0)=Fermata
+Shake(48,0)=Fermata
+Shake(72,0)=Fermata
+Shake(96,0)=Fermata
+Lyric(4,0)=O
+Lyric(6,0)=Je-
+Lyric(9,0)=su-
+Lyric(10,0)=lein
+Lyric(12,0)=süss,
+Lyric(16,0)=o
+Lyric(18,0)=Je-
+Lyric(20,0)=su-
+Lyric(22,0)=lein
+Lyric(24,0)=mild,
+Lyric(28,0)=dein's
+Lyric(30,0)=Va-
+Lyric(34,0)=ters
+Lyric(36,0)=Will'n
+Lyric(40,0)=hast
+Lyric(42,0)=du
+Lyric(46,0)=er-
+Lyric(48,0)=füllt,
+Lyric(52,0)=bist
+Lyric(54,0)=kom-
+Lyric(58,0)=men
+Lyric(60,0)=aus
+Lyric(64,0)=dem
+Lyric(66,0)=Him-
+Lyric(70,0)=mel-
+Lyric(72,0)=reich,
+Lyric(76,0)=uns
+Lyric(78,0)=ar-
+Lyric(82,0)=men
+Lyric(84,0)=Men-
+Lyric(88,0)=schen
+Lyric(90,0)=wor-
+Lyric(94,0)=den
+Lyric(96,0)=gleich,
+Lyric(100,0)=o
+Lyric(102,0)=Je-
+Lyric(104,0)=su-
+Lyric(106,0)=lein
+Lyric(108,0)=süss,
+Lyric(112,0)=o
+Lyric(114,0)=Je-
+Lyric(117,0)=su-
+Lyric(118,0)=lein
+Lyric(120,0)=mild!
+Shake(24,1)=Fermata
+Shake(48,1)=Fermata
+Shake(72,1)=Fermata
+Shake(96,1)=Fermata
+Fbass(8,1)=3+ 6
+Fbass(9,1)=5
+Fbass(12,1)=6
+Fbass(18,1)=6
+Fbass(20,1)=5 7
+Fbass(22,1)=3+
+Fbass(30,1)=4
+Fbass(32,1)=3
+Fbass(34,1)=5 6
+Fbass(36,1)=5 9
+Fbass(38,1)=6 8
+Fbass(40,1)=5 6
+Fbass(44,1)=7 9
+Fbass(46,1)=5 7
+Fbass(54,1)=6
+Fbass(58,1)=5 7
+Fbass(60,1)=4
+Fbass(62,1)=3
+Fbass(64,1)=6
+Fbass(66,1)=3- 4 6
+Fbass(68,1)=5- 6
+Fbass(70,1)=7-
+Fbass(76,1)=5
+Fbass(78,1)=6
+Fbass(80,1)=3+
+Fbass(82,1)=6
+Fbass(84,1)=9
+Fbass(86,1)=8
+Fbass(90,1)=6
+Fbass(94,1)=6
+Fbass(96,1)=9
+Fbass(98,1)=8
+Fbass(100,1)=6
+Fbass(102,1)=6
+Fbass(106,1)=2 4 6
+Fbass(108,1)=6
+Fbass(112,1)=2 4 7
+Fbass(114,1)=5 6
+Fbass(118,1)=7

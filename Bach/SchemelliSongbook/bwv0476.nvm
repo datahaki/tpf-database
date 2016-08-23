@@ -1,0 +1,168 @@
+Score.Title=Ihr Gestirn', ihr hohen Lüfte
+Score.Comment=bwv 476
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/16
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! d0 2
+! e0 4
+! f0 4
+! g0 2
+! a0 3
+! c#1 1
+! d1 1
+! e1 1
+! c#1 4
+! a0 2
+! d1 1
+! e1 1
+! e1 4
+! f1 4
+! f0 2
+! g0 1
+! b&0 1
+! g0 4
+! f0 6
+! g0 2
+! g0 1
+! f0 1
+! g0 2
+! a0 1
+! b&0 1
+! c1 2
+! f0 2
+! b&0 2
+! g0 4
+! a0 2
+! g0 1
+! a0 1
+! f0 2
+! c1 2
+! c#1 4
+! d1 2
+! e1 2
+! f1 2
+! e1 2
+! f1 1
+! e1 1
+! d1 1
+! c#1 1
+! d1 4
+! d1 2
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! d-1 2
+! a-2 4
+! d-2 2
+! d-1 2
+! e-1 2
+! f-1 2
+! e-1 2
+! d-1 2
+! a-1 4
+! g-1 2
+! f-1 2
+! c#-1 2
+! a-2 2
+! d-1 2
+! d0 1
+! c0 1
+! b&-1 1
+! a-1 1
+! b&-1 2
+! c0 2
+! c-1 2
+! f-1 6
+! c-1 2
+! e-1 2
+! c-1 2
+! f-1 2
+! a-2 2
+! b&-2 2
+! g-2 2
+! c-1 2
+! c-2 2
+! f-2 6
+! f-1 2
+! e-1 1
+! f-1 1
+! g-1 1
+! e-1 1
+! f-1 2
+! c#-1 2
+! d-1 2
+! g-1 2
+! a-1 2
+! a-2 2
+! d-1 6
+Shake(2,0)=DownTrill
+Shake(26,0)=PrallMordent
+Shake(37,0)=UpAcciaccatura
+Shake(62,0)=DownTrill
+Shake(70,0)=Fermata
+Lyric(0,0)=Ihr|tie-
+Lyric(2,0)=Ge-|fes
+Lyric(6,0)=stirn',|Rund,
+Lyric(10,0)=ihr|ihr
+Lyric(12,0)=ho-|dun-
+Lyric(15,0)=hen|klen
+Lyric(18,0)=Lüf-|Klüf-
+Lyric(22,0)=te|te,
+Lyric(24,0)=und|die
+Lyric(26,0)=du|der
+Lyric(30,0)=lich-|Wie-
+Lyric(34,0)=tes|der-
+Lyric(36,0)=Fir-|schall
+Lyric(38,0)=ma-|zer-
+Lyric(42,0)=ment,|trennt,
+Lyric(48,0)=jauch-
+Lyric(50,0)=zet
+Lyric(54,0)=fröh-
+Lyric(58,0)=lich,
+Lyric(60,0)=lasst
+Lyric(62,0)=das
+Lyric(66,0)=Sin-
+Lyric(68,0)=gen
+Lyric(72,0)=itzt
+Lyric(74,0)=bis
+Lyric(78,0)=duch
+Lyric(82,0)=die
+Lyric(84,0)=Wol-
+Lyric(88,0)=ken
+Lyric(90,0)=drin-
+Lyric(94,0)=gen.
+Shake(66,1)=Fermata
+Fbass(2,1)=4
+Fbass(4,1)=3+
+Fbass(10,1)=6+
+Fbass(12,1)=6
+Fbass(14,1)=6+
+Fbass(18,1)=3+
+Fbass(22,1)=2 4+
+Fbass(24,1)=6
+Fbass(26,1)=6
+Fbass(28,1)=3+ 7
+Fbass(34,1)=2 5
+Fbass(36,1)=5 6
+Fbass(38,1)=4
+Fbass(40,1)=3
+Fbass(50,1)=6
+Fbass(56,1)=6
+Fbass(60,1)=7
+Fbass(62,1)=4
+Fbass(64,1)=3
+Fbass(74,1)=6+
+Fbass(78,1)=6
+Fbass(80,1)=6
+Fbass(84,1)=5 6
+Fbass(86,1)=4 6
+Fbass(88,1)=3+ 5

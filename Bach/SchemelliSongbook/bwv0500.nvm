@@ -1,0 +1,149 @@
+Score.Title=So gehst du nun, mein Jesu, hin
+Score.Comment=bwv 500
+Score.KeySignature=-2
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/16
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! d1 2
+! d1 2
+! d1 2
+! c1 2
+! c1 2
+! b&0 1
+! a0 1
+! b&0 2
+! a0 2
+! a0 2
+! b&0 2
+! c1 2
+! d1 1
+! f1 1
+! e&1 1
+! d1 1
+! c1 4
+! b&0 2
+! c1 2
+! c1 2
+! c1 2
+! d1 2
+! d1 2
+! d1 2
+! d1 2
+! e&1 2
+! d1 2
+! c1 3
+! d1 1
+! c1 1
+! a0 1
+! b&0 1
+! c1 1
+! a0 4
+! g0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! g-1 2
+! f#-1 2
+! f-1 2
+! e-1 2
+! e&-1 2
+! d-1 2
+! c#-1 2
+! d-1 2
+! d-1 2
+! g-1 2
+! a-1 2
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 1
+! e&-1 2
+! f-1 2
+! b&-2 2
+! b&-1 2
+! a-1 2
+! a&-1 2
+! g-1 2
+! c0 2
+! b-1 2
+! b&-1 2
+! a-1 2
+! b&-1 2
+! e-1 2
+! e&-1 2
+! d-1 2
+! c#-1 2
+! d-1 2
+! d-2 2
+! g-2 2
+Shake(20,0)=Fermata
+Shake(29,0)=UpAcciaccatura
+Shake(44,0)=Fermata
+Shake(52,0)=Fermata
+Lyric(6,0)=So|fuer
+Lyric(8,0)=gehst|mich,
+Lyric(10,0)=du|der
+Lyric(12,0)=nun,|ich
+Lyric(14,0)=mein|ein
+Lyric(16,0)=Je-|Sün-
+Lyric(18,0)=su,|der
+Lyric(20,0)=hin,|bin,
+Lyric(22,0)=den|der
+Lyric(24,0)=Tod|dich
+Lyric(26,0)=für|be-
+Lyric(28,0)=mich|trübt
+Lyric(30,0)=zu|in
+Lyric(32,0)=lei-|Freu-
+Lyric(36,0)=den,|den.
+Lyric(38,0)=Wohl-|ein
+Lyric(40,0)=an,|Thrä-
+Lyric(42,0)=fahr'|nen-
+Lyric(44,0)=fort,|see,
+Lyric(46,0)=du|mit
+Lyric(48,0)=ed-|Ach
+Lyric(50,0)=ler|und
+Lyric(52,0)=Hort,|Weh
+Lyric(54,0)=mein'|dein
+Lyric(56,0)=Au-|Lei-
+Lyric(59,0)=gen|den
+Lyric(60,0)=sol-|zu
+Lyric(62,0)=len|be-
+Lyric(64,0)=flie-|gie-
+Lyric(68,0)=ssen,|ssen.
+Shake(20,1)=Fermata
+Shake(44,1)=Fermata
+Shake(52,1)=Fermata
+Fbass(8,1)=6
+Fbass(10,1)=2 4+ 6
+Fbass(12,1)=6
+Fbass(14,1)=2+ 4 6
+Fbass(16,1)=4 6
+Fbass(18,1)=5 7
+Fbass(20,1)=3+
+Fbass(22,1)=3+
+Fbass(26,1)=6
+Fbass(30,1)=6
+Fbass(31,1)=4 6
+Fbass(32,1)=5 6
+Fbass(34,1)=8
+Fbass(35,1)=7
+Fbass(38,1)=2 4+
+Fbass(40,1)=6
+Fbass(44,1)=3+
+Fbass(46,1)=2 4+
+Fbass(48,1)=6
+Fbass(52,1)=5 6+
+Fbass(54,1)=6
+Fbass(56,1)=6
+Fbass(60,1)=3+ 7
+Fbass(62,1)=5 7
+Fbass(64,1)=4
+Fbass(66,1)=3+

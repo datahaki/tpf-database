@@ -1,0 +1,221 @@
+Score.Title=Es kostet viel, ein Christ zu sein
+Score.Comment=bwv 459
+Score.KeySignature=0
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! a0 2
+! c1 2
+! b0 1
+! a0 1
+! e1 2
+! b0 2
+! c1 2
+! b0 1
+! a0 1
+! g#0 2
+! e0 2
+! f#0 2
+! g#0 2
+! a0 2
+! b0 2
+! c1 2
+! d1 2
+! e1 2
+! d1 1
+! c1 1
+! b0 3
+! a0 1
+! a0 4
+! VoiceInstance 0 50
+! a0 2
+! c1 2
+! b0 1
+! a0 1
+! e1 2
+! b0 2
+! c1 2
+! b0 1
+! a0 1
+! g#0 3
+! a0 1
+! b0 2
+! e1 2
+! a0 2
+! d1 2
+! g#0 2
+! a0 2
+! b0 2
+! c1 2
+! d1 2
+! c1 2
+! b0 3
+! a0 1
+! a0 2
+! c1 2
+! b0 2
+! e1 2
+! c1 2
+! a0 2
+! d1 2
+! d1 1
+! e1 1
+! c1 3
+! b0 1
+! b0 2
+! c1 1
+! b0 1
+! b0 3
+! a0 1
+! a0 2
+! c1 1
+! b0 1
+! b0 3
+! a0 1
+! a0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! a-1 2
+! a-2 2
+! a-1 2
+! g#-1 2
+! f#-1 1
+! e-1 1
+! a-1 2
+! d-1 2
+! e-1 2
+! a-1 2
+! d-1 2
+! c-1 1
+! b-2 1
+! c-1 1
+! b-2 1
+! a-2 1
+! g#-2 1
+! a-2 2
+! f-1 2
+! c-1 2
+! d-1 2
+! e-1 2
+! e-2 2
+! a-2 4
+! VoiceInstance 1 50
+! a-1 2
+! e-1 2
+! f-1 2
+! c-1 1
+! d-1 1
+! e-1 2
+! a-2 2
+! d-1 2
+! e-1 2
+! a-2 2
+! e-2 2
+! c-1 2
+! f-1 2
+! b-2 2
+! e-1 2
+! c-1 2
+! g#-2 2
+! a-2 3
+! g#-2 1
+! a-2 2
+! d-1 2
+! e-1 2
+! a-2 2
+! a-1 4
+! g#-1 2
+! a-1 3
+! g-1 1
+! f-1 1
+! e-1 1
+! f#-1 1
+! g#-1 1
+! a-1 2
+! a-2 2
+! e-1 2
+! d#-1 2
+! e-1 2
+! e-2 2
+! a-2 2
+! d#-1 2
+! e-1 2
+! e-2 2
+! a-2 6
+Shake(20,0)=Fermata
+Shake(44,0)=Fermata
+Shake(68,0)=Fermata
+Shake(92,0)=Fermata
+Shake(112,0)=Fermata
+Lyric(6,0)=Es
+Lyric(8,0)=ko-
+Lyric(10,0)=stet
+Lyric(12,0)=viel,
+Lyric(14,0)=ein
+Lyric(16,0)=Christ
+Lyric(18,0)=zu
+Lyric(20,0)=sein
+Lyric(22,0)=und
+Lyric(24,0)=nach
+Lyric(26,0)=dem
+Lyric(28,0)=Sinn
+Lyric(30,0)=des
+Lyric(32,0)=rei-
+Lyric(34,0)=nen
+Lyric(36,0)=Gei-
+Lyric(38,0)=stes
+Lyric(40,0)=le-
+Lyric(44,0)=ben,
+Lyric(50,0)=denn
+Lyric(52,0)=der
+Lyric(54,0)=Na-
+Lyric(56,0)=tur
+Lyric(58,0)=geht
+Lyric(60,0)=es
+Lyric(62,0)=sehr
+Lyric(64,0)=sau-
+Lyric(67,0)=er
+Lyric(68,0)=ein,
+Lyric(70,0)=sich
+Lyric(72,0)=im-
+Lyric(74,0)=mer-
+Lyric(76,0)=dar
+Lyric(78,0)=in
+Lyric(80,0)=Chri-
+Lyric(82,0)=sti
+Lyric(84,0)=Tod
+Lyric(86,0)=zu
+Lyric(88,0)=ge-
+Lyric(92,0)=ben;
+Lyric(94,0)=und
+Lyric(96,0)=ist
+Lyric(98,0)=hier
+Lyric(100,0)=gleich
+Lyric(102,0)=ein
+Lyric(104,0)=Kampf
+Lyric(106,0)=wohl
+Lyric(108,0)=aus-
+Lyric(111,0)=ge-
+Lyric(112,0)=richt't,
+Lyric(114,0)=das
+Lyric(116,0)=macht's
+Lyric(119,0)=noch
+Lyric(120,0)=nicht.
+Lyric(122,0)=das
+Lyric(124,0)=macht's
+Lyric(127,0)=noch
+Lyric(128,0)=nicht.
+Shake(20,1)=Fermata
+Shake(44,1)=Fermata
+Shake(68,1)=Fermata
+Shake(92,1)=Fermata
+Shake(112,1)=Fermata

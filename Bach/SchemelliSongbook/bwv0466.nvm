@@ -1,0 +1,229 @@
+Score.Title=Ich halte treulich still
+Score.Comment=bwv 466
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! c1 2
+! a0 2
+! g0 1
+! f0 1
+! c1 2
+! d1 1
+! c1 1
+! c1 6
+! f1 2
+! g0 2
+! a0 1
+! c1 1
+! b&0 1
+! a0 1
+! g0 1
+! f0 1
+! f0 6
+! g0 2
+! a0 2
+! g0 2
+! a0 2
+! d1 2
+! b0 2
+! c1 2
+! d1 2
+! g1 2
+! e1 2
+! d1 1
+! c1 1
+! d1 2
+! c1 1
+! b0 1
+! c1 6
+! c1 2
+! b&0 2
+! a0 2
+! b&0 2
+! c1 2
+! a0 6
+! a0 2
+! d1 2
+! e1 2
+! a0 2
+! c#1 2
+! d1 6
+! f1 2
+! c1 3
+! d1 1
+! c1 2
+! b&0 2
+! a0 2
+! b&0 2
+! c1 2
+! f1 2
+! g0 2
+! a0 1
+! c1 1
+! b&0 1
+! a0 1
+! g0 1
+! f0 1
+! f0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 6
+! f-2 2
+! f-1 2
+! d-1 2
+! a-2 2
+! b&-2 2
+! f-2 2
+! g-2 2
+! a-2 2
+! f-2 2
+! c-1 2
+! f-1 2
+! b&-2 2
+! c-1 2
+! f-1 2
+! c-1 2
+! f-2 2
+! c-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! d-1 2
+! g-1 2
+! c-1 2
+! b-2 2
+! g-2 2
+! c-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! c-1 2
+! d-1 2
+! e-1 2
+! c-1 2
+! d-1 2
+! c-1 2
+! d-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! f-1 2
+! e-1 2
+! d-1 2
+! g-1 2
+! a-1 2
+! a-2 2
+! d-1 2
+! e-1 2
+! f-1 2
+! d-1 2
+! e-1 2
+! d-1 2
+! e-1 2
+! c-1 2
+! f-2 2
+! g-2 2
+! a-2 2
+! f-2 2
+! c-1 2
+! f-1 2
+! b&-2 2
+! c-1 2
+! f-2 6
+Shake(16,0)=Fermata
+Shake(32,0)=Fermata
+Shake(50,0)=DownTrill
+Shake(52,0)=Fermata
+Shake(64,0)=Fermata
+Shake(80,0)=Fermata
+Shake(96,0)=Fermata
+Shake(114,0)=DownTrill
+Shake(116,0)=Fermata
+Lyric(6,0)=Ich
+Lyric(8,0)=hal-
+Lyric(10,0)=te
+Lyric(12,0)=treu-
+Lyric(14,0)=lich
+Lyric(16,0)=still
+Lyric(22,0)=und
+Lyric(24,0)=lie-
+Lyric(26,0)=be
+Lyric(28,0)=mei-
+Lyric(30,0)=nen
+Lyric(32,0)=Gott,
+Lyric(38,0)=ob
+Lyric(40,0)=mich
+Lyric(42,0)=schon
+Lyric(44,0)=of-
+Lyric(46,0)=ter-
+Lyric(48,0)=mals
+Lyric(54,0)=drückt
+Lyric(56,0)=Kum-
+Lyric(58,0)=mer,
+Lyric(60,0)=Angst
+Lyric(62,0)=und
+Lyric(64,0)=Noth.
+Lyric(70,0)=Ich
+Lyric(72,0)=bin
+Lyric(74,0)=mit
+Lyric(76,0)=Gott
+Lyric(78,0)=ver-
+Lyric(80,0)=gnügt
+Lyric(86,0)=und
+Lyric(88,0)=halt'
+Lyric(90,0)=ge-
+Lyric(92,0)=dul-
+Lyric(94,0)=dig
+Lyric(96,0)=aus,
+Lyric(102,0)=Gott
+Lyric(104,0)=ist
+Lyric(107,0)=mein
+Lyric(108,0)=Schutz
+Lyric(110,0)=und
+Lyric(112,0)=Schirm
+Lyric(118,0)=um
+Lyric(120,0)=mich
+Lyric(122,0)=und
+Lyric(124,0)=um
+Lyric(126,0)=mein
+Lyric(128,0)=Haus.
+Fbass(12,1)=6
+Fbass(16,1)=4
+Fbass(17,1)=3
+Fbass(18,1)=3 4 7
+Fbass(19,1)=6
+Fbass(20,1)=6
+Fbass(28,1)=5 6
+Fbass(42,1)=6
+Fbass(52,1)=6
+Fbass(54,1)=3+
+Fbass(58,1)=6
+Fbass(60,1)=6
+Fbass(61,1)=5
+Fbass(62,1)=4
+Fbass(63,1)=3+
+Fbass(66,1)=6
+Fbass(72,1)=6
+Fbass(74,1)=6
+Fbass(76,1)=6
+Fbass(78,1)=6
+Fbass(88,1)=3
+Fbass(90,1)=6
+Fbass(92,1)=4 6
+Fbass(94,1)=3+ 5
+Fbass(104,1)=6
+Fbass(108,1)=6
+Fbass(110,1)=7
+Fbass(114,1)=6
+Fbass(116,1)=6
+Fbass(124,1)=5 6
+Text@114=6+

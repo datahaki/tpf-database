@@ -1,0 +1,203 @@
+Score.Title=Beglückter Stand getreuer Seelen
+Score.Comment=bwv 442
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 2
+! a0 2
+! a0 3
+! g0 1
+! f0 2
+! a0 2
+! g0 2
+! f0 2
+! e0 2
+! e0 2
+! VoiceInstance 0 22
+! e0 2
+! a0 2
+! b0 2
+! c1 2
+! d1 1
+! c1 1
+! c1 2
+! b0 1
+! a0 1
+! a0 4
+! VoiceInstance 0 42
+! c1 2
+! a0 3
+! b&0 1
+! c1 4
+! VoiceInstance 0 54
+! a0 2
+! f0 2
+! g0 2
+! a0 4
+! VoiceInstance 0 66
+! c1 2
+! f0 2
+! g0 2
+! a0 2
+! b&0 1
+! a0 1
+! a0 2
+! g0 1
+! f0 1
+! f0 4
+! VoiceInstance 0 86
+! a0 2
+! d0 2
+! e0 2
+! f0 2
+! e0 2
+! e0 3
+! d0 1
+! d0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 2
+! d-1 2
+! c#-1 2
+! a-2 2
+! d-1 2
+! f-1 2
+! b&-1 2
+! a-1 1
+! g-1 1
+! a-1 2
+! a-2 2
+! VoiceInstance 1 22
+! a-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! e-1 1
+! a-1 2
+! d-1 2
+! e-1 2
+! e-2 2
+! a-2 4
+! VoiceInstance 1 42
+! e-1 2
+! f-1 2
+! d-1 2
+! a-2 4
+! VoiceInstance 1 54
+! c-1 2
+! d-1 2
+! c-1 2
+! f-1 4
+! VoiceInstance 1 66
+! a-2 2
+! b&-2 2
+! e-2 2
+! f-2 2
+! b&-2 2
+! c-1 2
+! c-2 2
+! f-2 4
+! VoiceInstance 1 86
+! f#-1 2
+! g-1 2
+! c#-1 2
+! d-1 2
+! g-2 2
+! a-2 4
+! d-1 4
+Shake(18,0)=Fermata
+Shake(36,0)=Fermata
+Shake(48,0)=Fermata
+Shake(60,0)=Fermata
+Shake(80,0)=Fermata
+Lyric(2,0)=Be-|zu
+Lyric(4,0)=glück-|ih-
+Lyric(7,0)=ter|rem
+Lyric(8,0)=Stand|Schatz
+Lyric(10,0)=ge-|und
+Lyric(12,0)=treu-|Zweck
+Lyric(14,0)=er|er-
+Lyric(16,0)=See-|wäh-
+Lyric(18,0)=len,|len
+Lyric(22,0)=die|und
+Lyric(24,0)=Gott|nur
+Lyric(26,0)=al-|in
+Lyric(28,0)=lein|Je-
+Lyric(30,0)=zu|su
+Lyric(32,0)=ih-|su-
+Lyric(34,0)=rem|chen
+Lyric(36,0)=Theil,|Heil,
+Lyric(42,0)=die
+Lyric(44,0)=Gott
+Lyric(47,0)=zu
+Lyric(48,0)=lieb,
+Lyric(54,0)=aus
+Lyric(56,0)=rei-
+Lyric(58,0)=nem
+Lyric(60,0)=Trieb,
+Lyric(66,0)=nach
+Lyric(68,0)=ih-
+Lyric(70,0)=res
+Lyric(72,0)=treu-
+Lyric(74,0)=en
+Lyric(76,0)=Mei-
+Lyric(78,0)=sters
+Lyric(80,0)=Rath
+Lyric(86,0)=sich
+Lyric(88,0)=selbst
+Lyric(90,0)=ver-
+Lyric(92,0)=leug-
+Lyric(94,0)=nen
+Lyric(96,0)=in
+Lyric(99,0)=der
+Lyric(100,0)=That.
+Shake(18,1)=Fermata
+Shake(36,1)=Fermata
+Shake(48,1)=Fermata
+Shake(60,1)=Fermata
+Shake(80,1)=Fermata
+Fbass(4,1)=6
+Fbass(6,1)=3+ 8
+Fbass(7,1)=7
+Fbass(10,1)=6
+Fbass(12,1)=6
+Fbass(14,1)=2 4 6
+Fbass(16,1)=4
+Fbass(18,1)=3+
+Fbass(22,1)=3+
+Fbass(24,1)=6
+Fbass(26,1)=5 6+
+Fbass(27,1)=3+
+Fbass(30,1)=5 6
+Fbass(32,1)=4 6
+Fbass(34,1)=3+ 5+
+Fbass(42,1)=6
+Fbass(44,1)=9
+Fbass(46,1)=5
+Fbass(47,1)=6
+Fbass(48,1)=6
+Fbass(54,1)=6
+Fbass(56,1)=9
+Fbass(57,1)=8
+Fbass(66,1)=6
+Fbass(70,1)=5 6
+Fbass(74,1)=5 6
+Fbass(76,1)=4 6
+Fbass(78,1)=3 5
+Fbass(86,1)=6
+Fbass(87,1)=5
+Fbass(90,1)=5 6
+Fbass(92,1)=9
+Fbass(93,1)=8
+Fbass(94,1)=5 6
+Fbass(96,1)=4
+Fbass(98,1)=3+

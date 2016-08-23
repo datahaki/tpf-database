@@ -1,0 +1,358 @@
+Score.Title=Die bittre Leidenszeit beginnet
+Score.Comment=bwv 450
+Score.KeySignature=-2
+Score.KeyMode=Dorian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! c1 2
+! a&0 1
+! g0 1
+! a&0 2
+! g0 3
+! f0 1
+! e&0 2
+! g0 2
+! c1 2
+! d1 2
+! b0 3
+! a0 1
+! g0 2
+! d1 2
+! d1 1
+! e&1 1
+! f1 1
+! d1 1
+! e&1 3
+! d1 1
+! c1 2
+! c1 2
+! c1 1
+! d1 1
+! e&1 1
+! c1 1
+! d1 3
+! c1 1
+! b&0 2
+! g0 2
+! a0 2
+! b&0 2
+! c1 2
+! c1 1
+! b0 1
+! c1 1
+! d1 1
+! e&1 3
+! d1 1
+! c1 1
+! d1 1
+! b&0 1
+! a0 1
+! a0 4
+! g0 6
+! b&0 2
+! f0 1
+! g0 1
+! a&0 2
+! g0 1
+! f0 1
+! e&0 2
+! g0 2
+! c1 3
+! b0 1
+! c1 1
+! d1 1
+! b0 6
+! d1 2
+! d1 2
+! e&1 1
+! c1 1
+! d1 2
+! d1 2
+! g0 2
+! g0 2
+! a0 2
+! b0 2
+! c1 4
+! e&1 2
+! e&1 3
+! g1 1
+! f1 1
+! e&1 1
+! d1 1
+! c1 1
+! d1 2
+! e&1 2
+! c1 1
+! b0 1
+! c1 2
+! d1 2
+! b0 4
+! g0 2
+! c1 3
+! b&0 1
+! a&0 1
+! g0 1
+! a&0 2
+! a&0 2
+! VoiceInstance 0 162
+! g0 2
+! f0 1
+! e&0 1
+! f0 1
+! d0 1
+! e&0 6
+! a&0 1
+! f0 1
+! e&0 2
+! d0 1
+! c0 1
+! c0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 2
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! b-2 2
+! g-2 2
+! c-1 2
+! b&-2 2
+! a&-2 2
+! g-2 1
+! f-2 1
+! g-2 2
+! d-1 2
+! g-1 2
+! g-1 1
+! a-1 1
+! b-1 2
+! g-1 2
+! c0 2
+! c-1 4
+! f-1 1
+! g-1 1
+! a-1 2
+! f-1 2
+! b&-1 2
+! b&-2 4
+! e&-1 1
+! d-1 1
+! e&-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! a&-1 2
+! f-1 2
+! c0 2
+! f#-1 4
+! g-1 2
+! d-1 2
+! d-2 2
+! g-2 6
+! d-1 4
+! c-1 1
+! b&-2 1
+! e&-1 3
+! d-1 1
+! c-1 1
+! b&-2 1
+! a&-2 2
+! g-2 2
+! f#-2 2
+! g-2 6
+! g-1 1
+! a-1 1
+! b-1 1
+! g-1 1
+! c0 2
+! g-1 2
+! f-1 1
+! e&-1 1
+! f-1 1
+! d-1 1
+! e&-1 4
+! d-1 2
+! c-1 4
+! c-1 2
+! c0 2
+! g-1 2
+! a&-1 2
+! b&-1 2
+! f-1 2
+! g-1 2
+! a&-1 2
+! e&-1 2
+! f-1 2
+! g-1 3
+! a&-1 1
+! g-1 1
+! f-1 1
+! e-1 2
+! g-1 2
+! c-1 2
+! f-1 3
+! e&-1 1
+! d-1 1
+! c-1 1
+! b-2 4
+! g-2 2
+! c-1 1
+! g-1 1
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 6
+Shake(10,0)=Fermata
+Shake(22,0)=Fermata
+Shake(46,0)=Fermata
+Shake(96,0)=Fermata
+Shake(120,0)=Fermata
+Shake(158,0)=Fermata
+Lyric(0,0)=Die|O
+Lyric(2,0)=bitt-|lei-
+Lyric(4,0)=re|den
+Lyric(6,0)=Lei-|vol-
+Lyric(9,0)=dens-|ler
+Lyric(10,0)=zeit|Gnad'
+Lyric(12,0)=be-|und
+Lyric(14,0)=gin-|rei-
+Lyric(16,0)=net|ner
+Lyric(18,0)=a-|Him-
+Lyric(21,0)=ber-|mels-
+Lyric(22,0)=mal|lieb',
+Lyric(24,0)=und|wo-
+Lyric(26,0)=brei-|zu
+Lyric(28,0)=tet|sein
+Lyric(30,0)=klüg-|tren
+Lyric(33,0)=lich|es
+Lyric(34,0)=ans|Herz
+Lyric(36,0)=die|den
+Lyric(38,0)=gro-|from-
+Lyric(40,0)=sse|men
+Lyric(42,0)=Pein|Hei-
+Lyric(45,0)=und-|land
+Lyric(46,0)=Qual,|trieb,
+Lyric(48,0)=da-|wer
+Lyric(50,0)=rin|kann
+Lyric(52,0)=mein|die
+Lyric(54,0)=Je-|Lie-
+Lyric(56,0)=sus|be
+Lyric(58,0)=sich|doch
+Lyric(59,0)=so|nach
+Lyric(60,0)=wil-|Wür-
+Lyric(63,0)=lig|den
+Lyric(64,0)=hat|g'nug
+Lyric(66,0)=ge-|er-
+Lyric(68,0)=ge-|he-
+Lyric(72,0)=ben.|ben!
+Lyric(78,0)=Rin-
+Lyric(80,0)=net,
+Lyric(82,0)=ihr
+Lyric(84,0)=Thrä-
+Lyric(86,0)=nen,
+Lyric(88,0)=mit
+Lyric(90,0)=völ-
+Lyric(93,0)=li-
+Lyric(94,0)=gem
+Lyric(96,0)=Lauf,
+Lyric(102,0)=hö-
+Lyric(104,0)=ret
+Lyric(106,0)=zu-
+Lyric(108,0)=lau-
+Lyric(110,0)=fen
+Lyric(112,0)=ja
+Lyric(114,0)=nim-
+Lyric(116,0)=mer
+Lyric(118,0)=mehr
+Lyric(120,0)=auf!
+Lyric(124,0)=Die-
+Lyric(126,0)=weil
+Lyric(130,0)=mein
+Lyric(132,0)=Heil
+Lyric(136,0)=und
+Lyric(138,0)=Theil
+Lyric(142,0)=an-
+Lyric(144,0)=itzt
+Lyric(148,0)=ver-
+Lyric(150,0)=liert
+Lyric(153,0)=sein
+Lyric(156,0)=Le-
+Lyric(158,0)=ben,
+Lyric(162,0)=an-
+Lyric(164,0)=itzt
+Lyric(166,0)=ver-
+Lyric(168,0)=liert
+Lyric(174,0)=sein
+Lyric(176,0)=Le-
+Lyric(180,0)=ben.
+Shake(10,1)=Fermata
+Shake(22,1)=Fermata
+Shake(44,1)=Fermata
+Shake(96,1)=Fermata
+Shake(120,1)=Fermata
+Shake(156,1)=Fermata
+Fbass(2,1)=3-
+Fbass(4,1)=5- 6+
+Fbass(5,1)=8
+Fbass(6,1)=6
+Fbass(8,1)=3+ 8
+Fbass(9,1)=7
+Fbass(12,1)=6
+Fbass(16,1)=2- 5 7
+Fbass(18,1)=3+
+Fbass(24,1)=3+
+Fbass(26,1)=6
+Fbass(28,1)=3+ 7
+Fbass(38,1)=6
+Fbass(40,1)=7
+Fbass(50,1)=2 4-
+Fbass(52,1)=5 7
+Fbass(56,1)=6
+Fbass(58,1)=3-
+Fbass(62,1)=7
+Fbass(63,1)=6
+Fbass(68,1)=4
+Fbass(70,1)=3+
+Fbass(82,1)=2 4 6-
+Fbass(92,1)=2- 4 6
+Fbass(94,1)=5 6
+Fbass(96,1)=3+
+Fbass(102,1)=3+
+Fbass(104,1)=6
+Fbass(108,1)=3+
+Fbass(110,1)=2 4+
+Fbass(114,1)=6
+Fbass(116,1)=2 4 6
+Fbass(118,1)=6+
+Fbass(128,1)=6
+Fbass(130,1)=5 6
+Fbass(134,1)=3- 6
+Fbass(136,1)=6
+Fbass(140,1)=6
+Fbass(142,1)=3- 6
+Fbass(144,1)=3+
+Fbass(150,1)=6
+Fbass(152,1)=4 6+
+Fbass(154,1)=3+ 7
+Fbass(162,1)=6
+Fbass(164,1)=5
+Fbass(166,1)=3+ 7
+Fbass(174,1)=3-
+Fbass(176,1)=4 6
+Fbass(178,1)=3+ 5
+Text@52=5'

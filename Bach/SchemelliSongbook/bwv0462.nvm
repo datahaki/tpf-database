@@ -1,0 +1,294 @@
+Score.Title=Gott, wie gross ist deine Güte
+Score.Comment=bwv 462
+Score.KeySignature=-2
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! d1 2
+! d1 1
+! c1 1
+! c1 2
+! c1 2
+! f1 1
+! g1 1
+! f1 1
+! e&1 1
+! d1 2
+! d1 2
+! e&1 3
+! f1 1
+! d1 1
+! c1 1
+! d1 1
+! e&1 1
+! c1 3
+! b&0 1
+! b&0 4
+! d1 2
+! d1 2
+! b&0 3
+! b&0 1
+! e&1 1
+! d1 1
+! c1 1
+! b&0 1
+! a0 2
+! a0 2
+! d1 2
+! d1 2
+! b&0 3
+! c1 1
+! a0 2
+! d1 2
+! b0 4
+! d1 3
+! d1 1
+! e&1 2
+! e&1 2
+! e&1 1
+! c1 1
+! d1 1
+! e&1 1
+! c1 2
+! c1 2
+! f1 3
+! g1 1
+! e&1 1
+! d1 1
+! e&1 1
+! f1 1
+! d1 3
+! c1 1
+! c1 4
+! e&1 2
+! e&1 2
+! e&1 1
+! d1 1
+! e&1 1
+! f1 1
+! d1 3
+! d1 1
+! d1 1
+! c1 1
+! d1 1
+! e&1 1
+! c1 3
+! c1 1
+! c1 1
+! e&1 1
+! d1 1
+! c1 1
+! c1 3
+! b&0 1
+! b&0 2
+! b&0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! b&-1 2
+! b&-2 2
+! f-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 2
+! d-1 2
+! g-1 1
+! a-1 1
+! b&-1 1
+! a-1 1
+! c0 1
+! b&-1 1
+! a-1 1
+! f-1 1
+! b&-1 2
+! e&-1 2
+! f-1 1
+! e&-1 1
+! f-1 1
+! f-2 1
+! b&-2 4
+! b&-2 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! g-2 2
+! d-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! b&-2 1
+! a-2 1
+! g-2 1
+! f#-2 1
+! g-2 2
+! c-1 2
+! d-1 2
+! d-2 2
+! g-2 1
+! d-1 1
+! g-1 1
+! a-1 1
+! b-1 1
+! d0 1
+! g-1 1
+! b-1 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 2
+! b&-2 2
+! f-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! b-2 1
+! g-2 1
+! c-1 2
+! f-1 2
+! g-1 1
+! f-1 1
+! g-1 1
+! g-2 1
+! c-1 4
+! c0 1
+! d0 1
+! c0 1
+! b&-1 1
+! a-1 2
+! f-1 2
+! b&-1 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 2
+! f-1 2
+! e&-1 1
+! c-1 1
+! d-1 1
+! e&-1 1
+! f-1 2
+! b&-2 2
+! f-1 1
+! e&-1 1
+! f-1 1
+! f-2 1
+! b&-2 4
+Lyric(0,0)=Gott,|Ach,
+Lyric(2,0)=wie|wie
+Lyric(4,0)=gross|labt
+Lyric(6,0)=ist|sich
+Lyric(8,0)=dei-|mein
+Lyric(10,0)=ne|Ge-
+Lyric(12,0)=Gü-|mü-
+Lyric(14,0)=te,|the,
+Lyric(16,0)=die|wenn
+Lyric(19,0)=mein|mich
+Lyric(20,0)=Herz|Noth
+Lyric(22,0)=auf|und
+Lyric(24,0)=Er-|Tod
+Lyric(27,0)=den|er-
+Lyric(28,0)=schmeckt.|schreckt.
+Lyric(32,0)=Wenn
+Lyric(34,0)=mich
+Lyric(36,0)=et-
+Lyric(39,0)=was
+Lyric(40,0)=will
+Lyric(42,0)=be-
+Lyric(44,0)=true-
+Lyric(46,0)=ben,
+Lyric(48,0)=wenn
+Lyric(50,0)=mich
+Lyric(52,0)=mei-
+Lyric(55,0)=ne
+Lyric(56,0)=Sün-
+Lyric(58,0)=de
+Lyric(60,0)=presst,
+Lyric(64,0)=zei-
+Lyric(67,0)=get
+Lyric(68,0)=sie
+Lyric(70,0)=von
+Lyric(72,0)=dei-
+Lyric(74,0)=nem
+Lyric(76,0)=Lie-
+Lyric(78,0)=ben,
+Lyric(80,0)=das
+Lyric(83,0)=mich
+Lyric(84,0)=nicht
+Lyric(86,0)=ver-
+Lyric(88,0)=za-
+Lyric(91,0)=gen
+Lyric(92,0)=lässt;
+Lyric(96,0)=drauf
+Lyric(98,0)=ich
+Lyric(100,0)=mich
+Lyric(102,0)=zu-
+Lyric(104,0)=frie-
+Lyric(107,0)=den
+Lyric(108,0)=stel-
+Lyric(110,0)=le
+Lyric(112,0)=und
+Lyric(115,0)=Trotz
+Lyric(116,0)=bie-
+Lyric(118,0)=ten
+Lyric(120,0)=kann
+Lyric(123,0)=der
+Lyric(124,0)=Höl-
+Lyric(126,0)=le.
+Fbass(18,1)=5 6
+Fbass(22,1)=5 7
+Fbass(24,1)=4
+Fbass(26,1)=3
+Fbass(34,1)=6
+Fbass(36,1)=9
+Fbass(37,1)=7
+Fbass(38,1)=8
+Fbass(42,1)=4
+Fbass(43,1)=3
+Fbass(44,1)=4
+Fbass(46,1)=3+
+Fbass(48,1)=6
+Fbass(50,1)=2 5
+Fbass(52,1)=9
+Fbass(53,1)=8
+Fbass(54,1)=5 7
+Fbass(56,1)=4
+Fbass(58,1)=3+
+Fbass(60,1)=3+
+Fbass(64,1)=6
+Fbass(66,1)=3+
+Fbass(70,1)=5 6
+Fbass(71,1)=6
+Fbass(72,1)=5 7
+Fbass(76,1)=4
+Fbass(78,1)=3
+Fbass(80,1)=5- 6+
+Fbass(82,1)=5 6
+Fbass(86,1)=3- 5 7
+Fbass(87,1)=6
+Fbass(88,1)=4 5
+Fbass(90,1)=3+
+Fbass(100,1)=5 6
+Fbass(102,1)=7
+Fbass(104,1)=9
+Fbass(106,1)=8
+Fbass(110,1)=2 4 6
+Fbass(112,1)=5 6
+Fbass(120,1)=4
+Fbass(122,1)=3

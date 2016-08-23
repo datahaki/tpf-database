@@ -1,0 +1,167 @@
+Score.Title=Brunnquell aller Güter
+Score.Comment=bwv 445
+Score.KeySignature=-2
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! g0 2
+! a0 2
+! b&0 2
+! c1 2
+! a0 4
+! g0 4
+! b&0 2
+! c1 2
+! d1 2
+! e&1 1
+! d1 1
+! c1 4
+! b&0 4
+! a0 2
+! g0 2
+! g0 1
+! a0 1
+! f#0 2
+! g0 8
+! d1 1
+! c1 1
+! d1 1
+! e&1 1
+! f1 2
+! d1 2
+! e&1 2
+! d1 2
+! c1 4
+! b&0 4
+! c1 1
+! d1 1
+! e&1 1
+! c1 1
+! d1 2
+! g0 2
+! c1 2
+! b&0 1
+! a0 1
+! a0 4
+! g0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! g-1 2
+! f#-1 2
+! g-1 2
+! e&-1 2
+! c-1 2
+! d-1 2
+! g-2 4
+! g-1 2
+! f-1 2
+! b&-1 1
+! a-1 1
+! g-1 1
+! f-1 1
+! e&-1 2
+! f-1 2
+! b&-2 4
+! c-1 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! d-1 2
+! d-2 2
+! g-2 8
+! g-1 2
+! f-1 1
+! e&-1 1
+! d-1 2
+! g-1 2
+! c-1 2
+! d-1 1
+! e&-1 1
+! f-1 2
+! f-2 2
+! b&-2 4
+! a-2 2
+! f-2 2
+! b&-2 2
+! e&-1 1
+! d-1 1
+! e-1 1
+! f#-1 1
+! g-1 2
+! c-1 2
+! d-1 2
+! g-2 4
+Shake(64,0)=Fermata
+Lyric(0,0)=Brunn-|Stil-
+Lyric(2,0)=quell|ler
+Lyric(4,0)=al-|al-
+Lyric(6,0)=ler|ler
+Lyric(8,0)=Gü-|Schmer-
+Lyric(12,0)=ter,|zen,
+Lyric(16,0)=Herr-|des-
+Lyric(18,0)=scher|sen
+Lyric(20,0)=der|Glanz
+Lyric(22,0)=Ge-|und
+Lyric(24,0)=mü-|Ker-
+Lyric(28,0)=ther,|zen
+Lyric(32,0)=le-|mein
+Lyric(34,0)=ben-|Ge-
+Lyric(36,0)=di-|müth
+Lyric(38,0)=ger|ent-
+Lyric(40,0)=Wind,|zünd't,
+Lyric(48,0)=leh-
+Lyric(50,0)=re
+Lyric(52,0)=mei-
+Lyric(54,0)=ne
+Lyric(56,0)=schwa-
+Lyric(58,0)=che
+Lyric(60,0)=Sai-
+Lyric(64,0)=ten
+Lyric(68,0)=dei-
+Lyric(70,0)=ne
+Lyric(72,0)=Kraft
+Lyric(74,0)=und
+Lyric(76,0)=Lob
+Lyric(78,0)=aus-
+Lyric(80,0)=brei-
+Lyric(84,0)=ten.
+Shake(64,1)=Fermata
+Fbass(2,1)=6
+Fbass(4,1)=9
+Fbass(5,1)=8
+Fbass(6,1)=6
+Fbass(8,1)=5 6
+Fbass(10,1)=3+
+Fbass(22,1)=6
+Fbass(23,1)=4 6
+Fbass(24,1)=5 6
+Fbass(26,1)=8
+Fbass(27,1)=7
+Fbass(32,1)=6
+Fbass(34,1)=6
+Fbass(36,1)=4 6
+Fbass(38,1)=3+ 5
+Fbass(50,1)=2 4 6
+Fbass(51,1)=6
+Fbass(52,1)=7
+Fbass(54,1)=7
+Fbass(56,1)=7
+Fbass(57,1)=6
+Fbass(58,1)=6
+Fbass(60,1)=4
+Fbass(62,1)=3
+Fbass(68,1)=6
+Fbass(70,1)=7
+Fbass(76,1)=6
+Fbass(77,1)=5 6
+Fbass(80,1)=5 6
+Fbass(82,1)=3+

@@ -1,0 +1,58 @@
+Score.Title=Nur mein Jesus ist mein Leben
+Score.Comment=bwv 490
+Score.KeySignature=-2
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! f#0 2
+! g0 2
+! a0 2
+! b&0 4
+! b&0 2
+! c1 2
+! c1 2
+! b0 2
+! c1 4
+! c1 2
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! d-1 2
+! e-1 2
+! f#-1 2
+! g-1 4
+! g-2 2
+! e&-1 2
+! d-1 2
+! g-1 2
+! c-1 4
+! c-2 2
+Shake(10,0)=Fermata
+Lyric(0,0)=zu
+Lyric(2,0)=dei-
+Lyric(4,0)=nem
+Lyric(6,0)=Lich-
+Lyric(10,0)=te
+Lyric(12,0)=ganz
+Lyric(14,0)=brüns-
+Lyric(16,0)=tig
+Lyric(18,0)=rich-
+Lyric(22,0)=te;
+Shake(10,1)=Fermata
+Fbass(2,1)=7
+Fbass(4,1)=6
+Fbass(6,1)=9
+Fbass(8,1)=8
+Fbass(9,1)=7
+Fbass(10,1)=8
+Fbass(12,1)=6
+Fbass(14,1)=5- 7
+Fbass(16,1)=3+

@@ -1,0 +1,149 @@
+Score.Title=Jesu, deine Liebeswunden
+Score.Comment=bwv 471
+Score.KeySignature=0
+Score.KeyMode=Aeolian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! a0 2
+! b0 2
+! c1 2
+! a0 2
+! b0 2
+! g#0 2
+! a0 2
+! e0 2
+! e0 1
+! f0 1
+! g0 2
+! a0 2
+! g0 2
+! f0 1
+! a0 1
+! g0 1
+! f0 1
+! e0 4
+! g0 2
+! g0 2
+! a0 2
+! a0 2
+! a0 2
+! b0 1
+! c1 1
+! b0 2
+! g0 2
+! a0 2
+! b0 2
+! c1 2
+! a0 2
+! b0 2
+! g#0 2
+! a0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! a-1 2
+! g#-1 2
+! a-1 1
+! e-1 1
+! f-1 1
+! c-1 1
+! d-1 1
+! b-2 1
+! e-1 1
+! e-2 1
+! a-2 4
+! a-1 2
+! e-1 1
+! c-1 1
+! f-1 3
+! e-1 1
+! d-1 1
+! a-2 1
+! b-2 1
+! g-2 1
+! c-1 4
+! c-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! f-1 1
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! f#-1 1
+! e-1 1
+! d-1 1
+! g-1 2
+! g-2 2
+! c0 1
+! b-1 1
+! a-1 1
+! g#-1 1
+! a-1 1
+! e-1 1
+! f-1 1
+! c-1 1
+! d-1 1
+! b-2 1
+! e-1 1
+! e-2 1
+! a-2 4
+Lyric(0,0)=Je-
+Lyric(2,0)=su,
+Lyric(4,0)=dei-
+Lyric(6,0)=ne
+Lyric(8,0)=Lie-
+Lyric(10,0)=bes-
+Lyric(12,0)=wun-
+Lyric(14,0)=den,
+Lyric(16,0)=dei-
+Lyric(18,0)=ne
+Lyric(20,0)=Angst
+Lyric(22,0)=und
+Lyric(24,0)=To-
+Lyric(26,0)=des-
+Lyric(28,0)=pein
+Lyric(32,0)=ha-
+Lyric(34,0)=ben
+Lyric(36,0)=mich
+Lyric(38,0)=so
+Lyric(40,0)=hoch
+Lyric(42,0)=ver-
+Lyric(44,0)=bun-
+Lyric(46,0)=den,
+Lyric(48,0)=dass
+Lyric(50,0)=ich
+Lyric(52,0)=kann
+Lyric(54,0)=be-
+Lyric(56,0)=stän-
+Lyric(58,0)=dig
+Lyric(60,0)=sein.
+Fbass(2,1)=6
+Fbass(5,1)=3+ 6
+Fbass(7,1)=6
+Fbass(8,1)=5 6
+Fbass(10,1)=3+
+Fbass(18,1)=6
+Fbass(22,1)=2 4
+Fbass(23,1)=6
+Fbass(25,1)=6
+Fbass(26,1)=6
+Fbass(27,1)=7
+Fbass(34,1)=6
+Fbass(40,1)=3+
+Fbass(42,1)=2+ 4 6
+Fbass(48,1)=6
+Fbass(50,1)=2 5
+Fbass(53,1)=3+ 6
+Fbass(55,1)=6
+Fbass(56,1)=5 6
+Fbass(58,1)=3+

@@ -1,0 +1,232 @@
+Score.Title=Die goldne Sonne, voll Freud' und Wonne
+Score.Comment=bwv 451
+Score.KeySignature=-2
+Score.KeyMode=Dorian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! c1 2
+! b0 2
+! c1 2
+! d1 2
+! g0 2
+! e&1 2
+! e&1 4
+! d1 2
+! e&1 4
+! e&1 2
+! b&0 2
+! b&0 2
+! a&0 2
+! g0 4
+! e&0 2
+! e&1 2
+! e&1 2
+! e&1 2
+! e&1 2
+! d1 4
+! d1 1
+! c1 1
+! d1 2
+! e&1 2
+! c1 1
+! b0 1
+! c1 2
+! d1 2
+! g0 2
+! c1 2
+! b0 2
+! c1 6
+! e&1 2
+! e&1 2
+! d&1 2
+! c1 1
+! b&0 1
+! c1 2
+! c1 2
+! c1 2
+! b&0 2
+! a&0 2
+! a&0 4
+! g0 2
+! a&0 2
+! a&0 2
+! b&0 2
+! c1 1
+! b&0 1
+! c1 1
+! d1 1
+! e&1 2
+! e&1 3
+! f1 1
+! d1 2
+! e&1 4
+! e&1 2
+! e&1 2
+! e&1 2
+! f1 2
+! d1 1
+! c1 1
+! d1 2
+! e&1 2
+! c1 2
+! d1 2
+! b0 2
+! c1 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 2
+! d-1 2
+! e&-1 2
+! b-2 4
+! c-1 2
+! a&-2 2
+! f-2 2
+! b&-2 2
+! e&-2 4
+! e&-2 2
+! e&-1 2
+! d-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 1
+! d-1 1
+! e&-1 1
+! f-1 1
+! g-1 1
+! e&-1 1
+! c-1 2
+! a-1 2
+! f-1 2
+! b&-1 2
+! b&-2 4
+! b&-1 2
+! f-1 2
+! g-1 2
+! a&-1 2
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! e&-1 2
+! f-1 2
+! g-1 2
+! c-1 6
+! c0 2
+! g-1 1
+! f-1 1
+! g-1 1
+! e&-1 1
+! a&-1 3
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! e&-1 1
+! d-1 1
+! c-1 1
+! d-1 1
+! b&-2 1
+! e&-1 2
+! e&-2 4
+! c-1 2
+! f-1 2
+! e&-1 2
+! a&-1 2
+! f-1 2
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! a&-1 1
+! f-1 1
+! b&-1 2
+! e&-1 3
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! c0 1
+! b&-1 1
+! a&-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! f-1 2
+! g-1 2
+! a&-1 2
+! f-1 2
+! g-1 2
+! c-1 6
+Hepta@0=.&&...&
+Lyric(0,0)=Die
+Lyric(2,0)=gold-
+Lyric(4,0)=ne
+Lyric(6,0)=Son-
+Lyric(8,0)=ne,
+Lyric(10,0)=voll
+Lyric(12,0)=Freud'
+Lyric(16,0)=und
+Lyric(18,0)=Won-
+Lyric(22,0)=ne,
+Lyric(24,0)=bringt
+Lyric(26,0)=un-
+Lyric(28,0)=sern
+Lyric(30,0)=Gren-
+Lyric(34,0)=zen
+Lyric(36,0)=mit
+Lyric(38,0)=ih-
+Lyric(40,0)=rem
+Lyric(42,0)=Glän-
+Lyric(44,0)=zen
+Lyric(48,0)=ein
+Lyric(50,0)=herz-
+Lyric(52,0)=er-
+Lyric(54,0)=qui-
+Lyric(56,0)=cken-
+Lyric(58,0)=des
+Lyric(60,0)=lieb-
+Lyric(62,0)=li-
+Lyric(64,0)=ches
+Lyric(66,0)=Licht.
+Lyric(72,0)=Mein
+Lyric(74,0)=Haupt
+Lyric(76,0)=und
+Lyric(78,0)=Glie-
+Lyric(80,0)=der,
+Lyric(82,0)=die
+Lyric(84,0)=la-
+Lyric(86,0)=gen
+Lyric(88,0)=dar-
+Lyric(90,0)=nie-
+Lyric(94,0)=der,
+Lyric(96,0)=a-
+Lyric(98,0)=ber
+Lyric(100,0)=nun
+Lyric(102,0)=steh'
+Lyric(104,0)=ich,
+Lyric(106,0)=bin
+Lyric(108,0)=mun-
+Lyric(111,0)=ter
+Lyric(112,0)=und
+Lyric(114,0)=fröh-
+Lyric(118,0)=lich,
+Lyric(120,0)=schau-
+Lyric(122,0)=e
+Lyric(124,0)=den
+Lyric(126,0)=Him-
+Lyric(128,0)=mel
+Lyric(130,0)=mit
+Lyric(132,0)=mei-
+Lyric(134,0)=nem
+Lyric(136,0)=Ge-
+Lyric(138,0)=sicht.
