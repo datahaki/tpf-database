@@ -1,0 +1,110 @@
+Score.Title=Air
+Score.Comment=BWV Anh. 131
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=142.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 6
+! c1 2
+! f1 4
+! e1 4
+! f1 2
+! a0 2
+! b&0 2
+! c1 2
+! a0 4
+! g0 2
+! c1 2
+! c1 4
+! d1 4
+! b0 2
+! a0 1
+! g0 1
+! g1 2
+! f1 2
+! e1 2
+! d1 1
+! c1 1
+! d1 2
+! c1 1
+! b0 1
+! c1 6
+! e0 1
+! f0 1
+! g0 6
+! a0 2
+! b&0 6
+! c1 2
+! a0 2
+! g0 1
+! f0 1
+! d1 2
+! b&0 1
+! a0 1
+! g0 6
+! c1 2
+! d1 4
+! e1 4
+! f1 2
+! e1 1
+! d1 1
+! c1 2
+! b&0 2
+! a0 4
+! g0 4
+! f0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 10
+! f-1 2
+! c0 2
+! c-1 2
+! a-1 2
+! f-1 2
+! g-1 2
+! e-1 2
+! f-1 2
+! a-2 2
+! e-1 2
+! VoiceInstance 1 32
+! f-1 4
+! d-1 4
+! g-1 4
+! e-1 2
+! f-1 2
+! g-1 4
+! g-2 4
+! c-1 2
+! g-2 2
+! c-2 2
+! VoiceInstance 1 66
+! c-1 2
+! c-2 4
+! VoiceInstance 1 74
+! c-1 2
+! c-2 4
+! f-1 4
+! b&-2 2
+! b&-2 2
+! c-1 2
+! g-2 2
+! c-2 2
+! a-2 2
+! b&-2 4
+! g-2 4
+! a-2 4
+! VoiceInstance 1 110
+! b&-2 2
+! c-1 4
+! c-2 4
+! f-2 2
+! c-1 2
+! f-1 2
+Shake(12,0)=DownTrill
