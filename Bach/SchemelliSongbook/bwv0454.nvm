@@ -8,7 +8,6 @@ Score.Division=[6, 2, 1]
 Score.Period=1
 Score.Bpm=100.0
 Voice[0].Clef=SOPRANO
-Voice[0].Stem=UP
 Voice[0].Channel=0
 ! VoiceInstance 0 0
 ! a0 2
@@ -64,7 +63,6 @@ Voice[0].Channel=0
 ! g0 4
 ! f0 6
 Voice[1].Clef=BASS
-Voice[1].Stem=UP
 Voice[1].Channel=0
 ! VoiceInstance 1 0
 ! f-2 2

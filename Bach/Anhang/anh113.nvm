@@ -8,7 +8,6 @@ Score.Division=[36, 12, 6, 3, 1]
 Score.Period=1
 Score.Bpm=120.0
 Voice[0].Clef=TREBLE
-Voice[0].Stem=UP
 Voice[0].Channel=0
 ! VoiceInstance 0 0
 ! c1 12
@@ -169,7 +168,6 @@ Voice[0].Channel=0
 ! a1 6
 ! f1 36
 Voice[1].Clef=BASS
-Voice[1].Stem=UP
 Voice[1].Channel=0
 ! VoiceInstance 1 0
 ! f-1 12
