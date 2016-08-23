@@ -1,0 +1,164 @@
+Score.Title=Gib dich zufrieden und sei stille
+Score.Comment=bwv 510
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=1
+Score.Atom=1/32
+Score.Division=[4, 2, 1]
+Score.Period=1
+Score.Bpm=124.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 2
+! f0 2
+! a0 2
+! b&0 2
+! c1 2
+! a0 2
+! d1 2
+! c1 2
+! b&0 4
+! a0 4
+! f1 2
+! e1 2
+! d1 2
+! c1 2
+! b0 2
+! c1 1
+! d1 1
+! d1 4
+! c1 4
+! VoiceInstance 0 46
+! d1 2
+! d1 2
+! d1 2
+! b&0 1
+! c1 1
+! d1 2
+! c1 1
+! d1 1
+! b&0 2
+! a0 4
+! g0 4
+! g1 2
+! g1 1
+! g1 1
+! e1 1
+! f1 1
+! g1 2
+! f1 2
+! e1 2
+! d1 4
+! c1 4
+! c1 2
+! d1 1
+! g0 1
+! g0 2
+! f0 2
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 4
+! f-1 2
+! d-1 2
+! a-2 2
+! f-2 2
+! b&-2 2
+! a-2 2
+! g-2 2
+! c-1 2
+! f-2 4
+! a-1 2
+! g-1 2
+! f-1 6
+! e-1 1
+! f-1 1
+! g-1 2
+! g-2 2
+! c-2 4
+! VoiceInstance 1 46
+! b&-1 2
+! b&-2 2
+! b&-1 2
+! g-2 1
+! a-2 1
+! b&-2 2
+! e-1 1
+! f#-1 1
+! g-1 1
+! c-1 1
+! d-1 2
+! d-2 2
+! g-2 4
+! g-2 2
+! b-2 1
+! g-2 1
+! c-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! d-1 1
+! b-2 1
+! c-1 1
+! f-2 1
+! g-1 2
+! g-2 2
+! c-2 4
+! a-2 2
+! b&-2 2
+! c-1 1
+! c-2 1
+! f-2 2
+Chord@20=590
+Chord@40=047
+Chord@64=7b2
+Chord@84=047
+Chord@94=590
+Shake(20,0)=Fermata
+Shake(64,0)=Fermata
+Shake(84,0)=Fermata
+Lyric(2,0)=Gieb
+Lyric(4,0)=dich
+Lyric(6,0)=zu-
+Lyric(8,0)=frie-
+Lyric(10,0)=den
+Lyric(12,0)=und
+Lyric(14,0)=sei
+Lyric(16,0)=stil-
+Lyric(20,0)=le
+Lyric(24,0)=in
+Lyric(26,0)=dem
+Lyric(28,0)=Got-
+Lyric(30,0)=te
+Lyric(32,0)=dei-
+Lyric(34,0)=nes
+Lyric(36,0)=Le-
+Lyric(40,0)=bens,
+Lyric(46,0)=er
+Lyric(48,0)=ist
+Lyric(50,0)=dein
+Lyric(52,0)=Quell
+Lyric(54,0)=und
+Lyric(56,0)=dei-
+Lyric(58,0)=ne
+Lyric(60,0)=Son-
+Lyric(64,0)=ne,
+Lyric(68,0)=scheint
+Lyric(70,0)=taeg-
+Lyric(71,0)=lich
+Lyric(72,0)=hell
+Lyric(74,0)=zu
+Lyric(76,0)=dei-
+Lyric(78,0)=ner
+Lyric(80,0)=Won-
+Lyric(84,0)=ne.
+Lyric(88,0)=Gieb
+Lyric(90,0)=dich
+Lyric(91,0)=zu-
+Lyric(92,0)=fire-
+Lyric(94,0)=den.
+Shake(20,1)=Fermata
+Shake(64,1)=Fermata
+Shake(84,1)=Fermata
+Fbass(32,1)=2 4+

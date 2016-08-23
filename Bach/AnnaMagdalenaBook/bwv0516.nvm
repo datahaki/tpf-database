@@ -1,0 +1,215 @@
+Score.Title=Warum betrübst du dich und beugest dich zur Erden
+Score.Comment=bwv 516
+Score.KeySignature=-4
+Score.KeyMode=Aeolian
+Score.Quarter=4
+Score.Atom=1/32
+Score.Division=[16, 8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 12
+! f1 4
+! c1 4
+! d&1 4
+! d&1 4
+! c1 2
+! b&0 2
+! a&0 12
+! a&0 4
+! g0 2
+! a&0 2
+! g0 2
+! a&0 2
+! b&0 2
+! c1 1
+! d&1 1
+! c1 2
+! b&0 2
+! a&0 4
+! g0 4
+! f0 4
+! a&0 4
+! b&0 4
+! c1 4
+! d&1 2
+! e&1 1
+! f1 1
+! d&1 2
+! c1 2
+! b&0 12
+! e&1 4
+! a&0 2
+! g0 2
+! a&0 2
+! d&1 2
+! c1 4
+! b&0 2
+! a&0 2
+! a&0 12
+! c1 4
+! b&0 4
+! c1 1
+! b&0 1
+! a&0 2
+! b&0 4
+! e&1 4
+! d&1 12
+! a0 4
+! b&0 4
+! e&1 2
+! f1 1
+! g&1 1
+! f1 4
+! e&1 2
+! d&1 2
+! c1 8
+! b&0 4
+! d&1 4
+! c1 4
+! f1 4
+! e1 6
+! f1 2
+! g1 12
+! b&0 4
+! a&0 2
+! g0 2
+! f0 2
+! e0 2
+! f0 6
+! g0 2
+! g0 8
+! f0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 12
+! f-1 2
+! g-1 2
+! a&-1 4
+! b&-1 4
+! e-1 6
+! c-1 2
+! f-1 12
+! f-1 4
+! b&-2 2
+! c-1 2
+! d&-1 4
+! g-2 4
+! e-1 2
+! c-1 2
+! f-1 4
+! c-1 4
+! f-2 4
+! f-1 2
+! e&-1 2
+! d&-1 4
+! c-1 4
+! b&-2 2
+! c-1 2
+! d&-1 4
+! e&-1 12
+! c-1 4
+! f-1 4
+! d&-1 4
+! e&-1 2
+! d&-1 2
+! e&-1 4
+! a&-1 12
+! a&-2 4
+! e&-1 4
+! e&-1 4
+! e&-1 2
+! d&-1 2
+! c-1 4
+! b&-2 12
+! f-1 4
+! g&-1 4
+! c-1 4
+! d&-1 4
+! e&-1 4
+! f-1 4
+! f-2 4
+! b&-2 4
+! b&-1 4
+! b&-1 4
+! a&-1 4
+! g-1 4
+! f-1 4
+! e-1 12
+! c-1 4
+! f-1 4
+! c-1 4
+! d&-1 4
+! b&-2 4
+! c-1 8
+! f-2 4
+Shake(32,0)=Fermata
+Shake(72,0)=Fermata
+Shake(96,0)=Fermata
+Shake(128,0)=Fermata
+Shake(160,0)=Fermata
+Shake(200,0)=Fermata
+Shake(224,0)=Fermata
+Shake(264,0)=Fermata
+Lyric(12,0)=Wa-
+Lyric(16,0)=rum
+Lyric(20,0)=be-
+Lyric(24,0)=trübst
+Lyric(30,0)=du
+Lyric(32,0)=dich
+Lyric(44,0)=und
+Lyric(48,0)=beu-
+Lyric(52,0)=gest
+Lyric(56,0)=dich
+Lyric(60,0)=zur
+Lyric(64,0)=Er-
+Lyric(72,0)=den,
+Lyric(76,0)=mein
+Lyric(80,0)=schwer-
+Lyric(84,0)=ge-
+Lyric(88,0)=plag-
+Lyric(92,0)=ter
+Lyric(96,0)=Geist,
+Lyric(108,0)=mein
+Lyric(112,0)=kum-
+Lyric(116,0)=mer-
+Lyric(120,0)=vol-
+Lyric(124,0)=ler
+Lyric(128,0)=Sinn?
+Lyric(140,0)=Wirst
+Lyric(144,0)=du
+Lyric(148,0)=dich
+Lyric(152,0)=nicht
+Lyric(156,0)=recht
+Lyric(160,0)=fest
+Lyric(172,0)=in
+Lyric(176,0)=Got-
+Lyric(180,0)=tes
+Lyric(184,0)=Wil-
+Lyric(188,0)=len
+Lyric(192,0)=grün-
+Lyric(200,0)=den,
+Lyric(204,0)=kannst
+Lyric(208,0)=du
+Lyric(212,0)=in
+Lyric(216,0)=E-
+Lyric(222,0)=wig-
+Lyric(224,0)=keit
+Lyric(236,0)=nicht
+Lyric(240,0)=wah-
+Lyric(244,0)=re
+Lyric(248,0)=Ru-
+Lyric(254,0)=he
+Lyric(256,0)=fin-
+Lyric(264,0)=den.
+Shake(32,1)=Fermata
+Shake(72,1)=Fermata
+Shake(96,1)=Fermata
+Shake(128,1)=Fermata
+Shake(160,1)=Fermata
+Shake(200,1)=Fermata
+Shake(224,1)=Fermata
+Shake(264,1)=Fermata

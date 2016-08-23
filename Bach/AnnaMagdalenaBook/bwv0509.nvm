@@ -1,0 +1,314 @@
+Score.Title=Gedenke doch, mein Geist, zurücke
+Score.Comment=bwv 509, Anon
+Score.KeySignature=-3
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 30
+! e&1 2
+! e&1 2
+! d1 1
+! c1 1
+! b&0 2
+! a&0 1
+! g0 1
+! f0 1
+! a&0 1
+! c1 1
+! b&0 1
+! g0 2
+! f0 1
+! e&0 1
+! d0 1
+! f0 1
+! a&0 1
+! g0 1
+! g0 1
+! b&0 1
+! d&1 1
+! c1 1
+! c1 1
+! a&1 1
+! d1 1
+! e&1 1
+! f1 4
+! VoiceInstance 0 70
+! e&1 2
+! e&1 2
+! d1 1
+! c1 1
+! b&0 2
+! a&0 1
+! g0 1
+! f0 1
+! e&0 1
+! d0 1
+! b&0 1
+! g0 2
+! f0 1
+! e&0 1
+! c1 2
+! b&0 1
+! a0 1
+! g&1 2
+! f1 1
+! e&1 1
+! d&1 1
+! b&0 1
+! a0 1
+! b&0 1
+! b&0 4
+! VoiceInstance 0 118
+! f1 2
+! d1 2
+! c1 1
+! b&0 1
+! e&1 2
+! g0 2
+! f0 1
+! d1 1
+! c1 1
+! b0 1
+! c1 2
+! b0 1
+! c1 1
+! c1 1
+! b&0 1
+! a&0 1
+! g0 1
+! f0 1
+! d0 1
+! e&0 1
+! a&0 1
+! g&0 1
+! e&0 1
+! d0 1
+! e&0 1
+! e&0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! e&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! a&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! g-1 1
+! e&0 1
+! c0 1
+! a&-1 1
+! f-1 1
+! d-1 1
+! b&-2 1
+! d-1 1
+! e&-1 1
+! c-1 1
+! a&-2 1
+! b&-2 1
+! e&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! a&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! e&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! e&-1 1
+! e&0 1
+! g-1 1
+! e&0 1
+! a&-1 1
+! g-1 1
+! f-1 1
+! e&-1 1
+! b&-2 1
+! b&-1 1
+! d-1 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! a&-1 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! e&-1 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! a&-1 1
+! b&-1 1
+! b&-2 1
+! b&-1 1
+! e&-1 1
+! e&0 1
+! g-1 1
+! e&0 1
+! a-1 1
+! e&0 1
+! c0 1
+! e&0 1
+! a-1 1
+! c0 1
+! f-1 1
+! a-1 1
+! b&-2 1
+! d&-1 1
+! f-1 1
+! f-2 1
+! b&-2 1
+! b&-1 1
+! d-1 1
+! b&-1 1
+! e&-1 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! e&-1 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! f-2 1
+! f-1 1
+! b&-2 1
+! b&-1 1
+! d-1 1
+! b&-1 1
+! f-1 1
+! b&-1 1
+! a&-1 1
+! b&-1 1
+! g-1 1
+! b&-1 1
+! e&-1 1
+! c0 1
+! a&-1 1
+! f-1 1
+! g-1 1
+! g-2 1
+! c-1 1
+! e&-1 1
+! g-2 1
+! e&-1 1
+! a&-2 1
+! e&-1 1
+! c-1 1
+! e&-1 1
+! a&-2 1
+! f-1 1
+! c-1 1
+! f-1 1
+! b&-2 1
+! g&-1 1
+! f-1 1
+! a&-1 1
+! e&-1 1
+! d&0 1
+! g-1 1
+! d&0 1
+! a&-1 1
+! c0 1
+! a&-1 1
+! f-1 1
+! d-1 1
+! b&-2 1
+! e&-1 1
+! c-1 1
+! a&-2 1
+! f-2 1
+! b&-2 1
+! d-1 1
+! e&-2 4
+Shake(60,0)=Prall
+Lyric(30,0)=Ge-
+Lyric(32,0)=den-
+Lyric(35,0)=ke
+Lyric(36,0)=doch,
+Lyric(38,0)=mein
+Lyric(40,0)=Geist,
+Lyric(42,0)=zu-
+Lyric(44,0)=rü-
+Lyric(46,0)=cke
+Lyric(47,0)=an's
+Lyric(48,0)=Grab
+Lyric(50,0)=und
+Lyric(52,0)=an
+Lyric(54,0)=den
+Lyric(56,0)=Glo-
+Lyric(58,0)=cken-
+Lyric(60,0)=schlag,
+Lyric(70,0)=da
+Lyric(72,0)=man
+Lyric(75,0)=mich
+Lyric(76,0)=wird
+Lyric(78,0)=zur
+Lyric(80,0)=Ruh'
+Lyric(82,0)=be-
+Lyric(84,0)=glei-
+Lyric(86,0)=ten,
+Lyric(87,0)=auf
+Lyric(88,0)=dass
+Lyric(90,0)=ich
+Lyric(92,0)=klüg-
+Lyric(95,0)=lich
+Lyric(96,0)=ster-
+Lyric(98,0)=ben
+Lyric(100,0)=mag.
+Lyric(118,0)=Schreib'
+Lyric(120,0)=die-
+Lyric(122,0)=ses
+Lyric(124,0)=Wort
+Lyric(126,0)=in
+Lyric(128,0)=Herz
+Lyric(130,0)=und
+Lyric(132,0)=Brust:
+Lyric(134,0)=ge-
+Lyric(136,0)=den-
+Lyric(138,0)=ke,
+Lyric(140,0)=dass
+Lyric(142,0)=du
+Lyric(144,0)=ster-
+Lyric(146,0)=ben
+Lyric(148,0)=musst.
+Shake(164,1)=Fermata

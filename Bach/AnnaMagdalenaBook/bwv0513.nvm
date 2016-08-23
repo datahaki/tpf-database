@@ -1,0 +1,164 @@
+Score.Title=O Ewigkeit, du Donnerwort
+Score.Comment=bwv 513, Johann Schop, Johann Crüger, Johann Rist
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! f0 3
+! g0 1
+! a0 2
+! b&0 2
+! c1 2
+! c1 2
+! d1 2
+! e1 2
+! f1 4
+! f0 3
+! g0 1
+! a0 2
+! b&0 2
+! c1 2
+! c1 2
+! b&0 2
+! a0 2
+! g0 4
+! a0 4
+! f0 2
+! f0 2
+! b&0 2
+! a0 2
+! g0 4
+! f0 8
+! c1 4
+! g0 2
+! a0 2
+! b&0 2
+! b&0 2
+! a0 3
+! g0 1
+! g0 4
+! c1 4
+! d1 2
+! e1 2
+! f1 2
+! a0 2
+! g0 3
+! g0 1
+! f0 4
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! f-2 2
+! f-1 4
+! d-1 2
+! a-2 2
+! a-1 2
+! b-1 2
+! c#0 1
+! a-1 1
+! d0 4
+! d-1 4
+! d0 2
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 1
+! f#-1 1
+! d-1 1
+! g-1 2
+! a-1 1
+! b&-1 1
+! c0 4
+! f-1 4
+! b&-1 1
+! c0 1
+! b&-1 1
+! a-1 1
+! g-1 2
+! d-1 1
+! c-1 1
+! b&-2 2
+! c-1 2
+! f-2 8
+! a-1 3
+! b&-1 1
+! c0 2
+! f#-1 2
+! g-1 1
+! f-1 1
+! e&-1 1
+! d-1 1
+! c-1 2
+! d-1 2
+! g-2 4
+! a-2 4
+! b&-2 1
+! b&-1 1
+! a-1 1
+! g-1 1
+! d0 1
+! d-1 1
+! d0 1
+! c0 1
+! b&-1 1
+! g-1 1
+! c0 1
+! c-1 1
+! f-1 4
+Shake(16,0)=Fermata
+Shake(36,0)=Fermata
+Shake(56,0)=Fermata
+Shake(80,0)=Fermata
+Shake(100,0)=Fermata
+Lyric(0,0)=O|O
+Lyric(4,0)=E-|E-
+Lyric(6,0)=wig-|wig-
+Lyric(8,0)=keit,|keit,
+Lyric(10,0)=du|Zeit
+Lyric(12,0)=Don-|oh-
+Lyric(14,0)=ner-|ne
+Lyric(16,0)=wort!|Zeit,
+Lyric(20,0)=o|ich
+Lyric(24,0)=Schwert,|weiss
+Lyric(26,0)=das|vor
+Lyric(28,0)=durch|gro-
+Lyric(30,0)=die|sser
+Lyric(32,0)=See-|Trau-
+Lyric(34,0)=le-|rig-
+Lyric(36,0)=bohrt,|keit
+Lyric(40,0)=o|nicht,
+Lyric(44,0)=An-|wo
+Lyric(46,0)=fang|ich
+Lyric(48,0)=son-|mich
+Lyric(50,0)=der|him
+Lyric(52,0)=En-|wen-
+Lyric(56,0)=de!|de!
+Lyric(64,0)=Mein
+Lyric(68,0)=ganz
+Lyric(70,0)=er-
+Lyric(72,0)=schrock'-
+Lyric(74,0)=nes
+Lyric(76,0)=Herz
+Lyric(79,0)=er-
+Lyric(80,0)=bebt,
+Lyric(84,0)=dass
+Lyric(88,0)=mir
+Lyric(90,0)=die
+Lyric(92,0)=Zung'
+Lyric(94,0)=am
+Lyric(96,0)=Gau-
+Lyric(99,0)=men
+Lyric(100,0)=klebt.
+Shake(16,1)=Fermata
+Shake(36,1)=Fermata
+Shake(56,1)=Fermata
+Shake(80,1)=Fermata
+Shake(100,1)=Fermata

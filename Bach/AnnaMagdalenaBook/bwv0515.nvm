@@ -1,0 +1,147 @@
+Score.Title=Aria, So oft ich meine Tabakspfeife
+Score.Comment=bwv 515
+Score.KeySignature=-1
+Score.KeyMode=Aeolian
+Score.Quarter=4
+Score.Atom=1/32
+Score.Division=[12, 4, 2, 1]
+Score.Period=1
+Score.Bpm=128.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! d0 4
+! d0 4
+! d0 4
+! g0 6
+! a0 1
+! b&0 1
+! a0 4
+! g0 4
+! f0 2
+! e0 2
+! a0 4
+! f0 4
+! e0 2
+! f0 2
+! d0 4
+! f0 4
+! f0 4
+! f0 4
+! a0 6
+! b&0 1
+! c1 1
+! f0 4
+! g0 4
+! e0 8
+! f0 12
+! g0 4
+! g0 4
+! g0 4
+! g0 8
+! e0 4
+! a0 4
+! g0 2
+! f0 2
+! e0 2
+! d0 2
+! c#0 12
+! a-1 4
+! c#0 4
+! e0 4
+! g0 6
+! a0 1
+! b&0 1
+! a0 4
+! f0 4
+! d0 4
+! c#0 4
+! d0 12
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! d-1 4
+! d0 4
+! c0 4
+! b&-1 4
+! e-1 4
+! f-1 4
+! g-1 4
+! a-1 4
+! a-2 4
+! d-1 4
+! a-2 4
+! f-2 4
+! d-2 4
+! d-1 4
+! b&-2 4
+! f-1 4
+! c-1 4
+! d-1 4
+! b&-2 4
+! c-1 4
+! c-2 4
+! f-2 12
+! c0 4
+! e-1 4
+! g-1 4
+! b-1 4
+! g-1 4
+! c0 4
+! f-1 8
+! g-1 4
+! a-1 4
+! g-1 2
+! f-1 2
+! e-1 2
+! d-1 2
+! c#-1 2
+! b-2 2
+! a-2 2
+! b-2 2
+! c#-1 2
+! d-1 2
+! e-1 4
+! d-1 4
+! c#-1 4
+! d-1 4
+! f-1 4
+! a-1 4
+! d-1 4
+! a-2 4
+! d-2 4
+Lyric(0,0)=So|zur
+Lyric(4,0)=oft|Lust
+Lyric(8,0)=ich|und
+Lyric(12,0)=mei-|Zeit-
+Lyric(20,0)=ne|ver-
+Lyric(24,0)=Ta-|treib
+Lyric(32,0)=baks-|er-
+Lyric(36,0)=pfei-|grei-
+Lyric(44,0)=fe|fe,
+Lyric(48,0)=mit|so
+Lyric(52,0)=gu-|gibt
+Lyric(56,0)=tem|sie
+Lyric(60,0)=Kna-|mir
+Lyric(68,0)=ster|ein
+Lyric(72,0)=an-|Trau-
+Lyric(76,0)=ge-|er-
+Lyric(84,0)=füllt,|bild
+Lyric(96,0)=und
+Lyric(100,0)=fü-
+Lyric(104,0)=get
+Lyric(108,0)=die-
+Lyric(116,0)=se
+Lyric(120,0)=Leh-
+Lyric(124,0)=re
+Lyric(132,0)=bei,
+Lyric(144,0)=dass
+Lyric(148,0)=ich
+Lyric(152,0)=der
+Lyric(156,0)=sel-
+Lyric(164,0)=ben
+Lyric(168,0)=äh-
+Lyric(176,0)=lich
+Lyric(180,0)=sei.

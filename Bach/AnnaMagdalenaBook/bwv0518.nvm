@@ -1,0 +1,209 @@
+Score.Title=Willst du dein Herz mir schenken
+Score.Comment=bwv 518, Aria di Giovannini
+Score.KeySignature=-3
+Score.KeyMode=Ionian
+Score.Quarter=4
+Score.Atom=1/32
+Score.Division=[16, 8, 4, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 14
+! e&0 2
+! e&0 2
+! g0 2
+! b&0 2
+! e&1 2
+! e&1 2
+! d1 2
+! VoiceInstance 0 30
+! g1 2
+! f1 1
+! d1 1
+! c1 1
+! b&0 1
+! a&0 2
+! a&0 2
+! g0 4
+! VoiceInstance 0 46
+! b&0 2
+! a0 2
+! e&1 2
+! e&1 2
+! d1 2
+! d1 2
+! c1 2
+! e&1 4
+! d1 1
+! f1 1
+! d1 1
+! b&0 1
+! c1 1
+! e&1 1
+! a0 2
+! b&0 6
+! b&0 2
+! b&0 1
+! g0 1
+! a&0 2
+! f1 2
+! c1 1
+! b&0 1
+! a&0 2
+! g0 2
+! VoiceInstance 0 94
+! c1 2
+! b0 2
+! c1 2
+! f1 2
+! e&1 2
+! e&1 2
+! d1 2
+! VoiceInstance 0 110
+! e&1 2
+! d1 1
+! b&0 1
+! a&0 1
+! g0 1
+! a&0 1
+! c1 1
+! e&1 1
+! c1 1
+! b&0 1
+! g0 1
+! e&0 2
+! a&0 4
+! g0 1
+! b&0 1
+! g0 1
+! e&0 1
+! f0 1
+! a&0 1
+! d0 2
+! e&0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 18
+! e&-1 2
+! g-1 2
+! a&-1 2
+! b&-1 2
+! b&-2 1
+! a&-2 1
+! g-2 2
+! e&-1 2
+! b&-1 2
+! b&-2 2
+! c-1 2
+! d-1 2
+! e&-1 2
+! e&-2 2
+! e&-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! a-1 2
+! b&-1 2
+! f-1 2
+! f-2 2
+! g-2 2
+! a-2 2
+! b&-2 2
+! b&-1 2
+! e&-1 2
+! f-1 2
+! b&-2 6
+! VoiceInstance 1 82
+! f-1 2
+! d-1 2
+! d0 2
+! VoiceInstance 1 90
+! e&-1 2
+! e&0 2
+! a&-1 4
+! d-1 1
+! c-1 1
+! b-2 2
+! c-1 2
+! g-2 2
+! g-1 2
+! g-2 2
+! c0 2
+! b&-1 2
+! b&-1 2
+! a&-1 2
+! a&-1 2
+! g-1 2
+! g-1 2
+! f-1 2
+! b&-2 2
+! e&-1 2
+! g-2 2
+! a&-2 2
+! b&-2 2
+! e&-2 6
+Shake(40,0)=DownAcciaccatura
+Shake(66,0)=DownAcciaccatura
+Shake(67,0)=DownAcciaccatura
+Shake(70,0)=DownAcciaccatura
+Shake(72,0)=UpAcciaccatura
+Shake(119,0)=DownAcciaccatura
+Shake(122,0)=DownAcciaccatura
+Shake(130,0)=DownAcciaccatura
+Shake(131,0)=DownAcciaccatura
+Shake(136,0)=UpAcciaccatura
+Lyric(14,0)=Willst
+Lyric(16,0)=du
+Lyric(18,0)=dein
+Lyric(20,0)=Herz
+Lyric(22,0)=mir
+Lyric(24,0)=schen-
+Lyric(26,0)=ken,
+Lyric(30,0)=so
+Lyric(32,0)=fang'
+Lyric(34,0)=es
+Lyric(36,0)=heim-
+Lyric(38,0)=lich
+Lyric(40,0)=an,
+Lyric(46,0)=dass
+Lyric(48,0)=un-
+Lyric(50,0)=ser
+Lyric(52,0)=Bei-
+Lyric(54,0)=der
+Lyric(56,0)=Den-
+Lyric(58,0)=ken
+Lyric(60,0)=Nie-
+Lyric(64,0)=mand
+Lyric(66,0)=er-
+Lyric(68,0)=ra-
+Lyric(70,0)=then
+Lyric(72,0)=kann.
+Lyric(78,0)=Die
+Lyric(80,0)=Lie-
+Lyric(82,0)=be
+Lyric(84,0)=muss
+Lyric(86,0)=bei
+Lyric(88,0)=Bei-
+Lyric(90,0)=den
+Lyric(94,0)=all-
+Lyric(96,0)=zeit
+Lyric(98,0)=ver-
+Lyric(100,0)=schwie-
+Lyric(102,0)=gen
+Lyric(104,0)=sein,
+Lyric(110,0)=drum
+Lyric(112,0)=schliess'
+Lyric(114,0)=die
+Lyric(116,0)=groess-
+Lyric(118,0)=ten
+Lyric(120,0)=Freu-
+Lyric(122,0)=den
+Lyric(124,0)=in
+Lyric(128,0)=dei-
+Lyric(130,0)=nem
+Lyric(132,0)=Her-
+Lyric(134,0)=zen
+Lyric(136,0)=ein.

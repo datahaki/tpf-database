@@ -1,0 +1,273 @@
+Score.Title=Wie wohl ist mir, o Freund der Seelen
+Score.Comment=bwv 517, Wolfgang Christoph Dessler
+Score.KeySignature=-1
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! f0 2
+! a0 2
+! b&0 2
+! c1 4
+! a0 2
+! d1 4
+! c1 1
+! d1 1
+! b&0 4
+! a0 2
+! f1 2
+! e1 2
+! d1 2
+! b0 4
+! c1 2
+! d1 1
+! e1 1
+! b0 4
+! c1 6
+! g0 2
+! c1 2
+! g0 2
+! g0 4
+! a0 2
+! b&0 3
+! d1 1
+! c1 1
+! b&0 1
+! a0 4
+! g0 2
+! c1 2
+! g0 2
+! a0 1
+! g0 1
+! g0 4
+! a0 2
+! b&0 3
+! d1 1
+! c1 1
+! b&0 1
+! a0 4
+! g0 2
+! c1 2
+! a0 2
+! d1 2
+! b0 4
+! c1 2
+! f1 1
+! d1 1
+! b0 4
+! c1 6
+! f1 2
+! c1 2
+! c1 2
+! c1 4
+! d1 2
+! e1 3
+! g1 1
+! f1 1
+! e1 1
+! d1 4
+! c1 2
+! f1 2
+! c1 2
+! c1 2
+! c1 4
+! d1 2
+! e&1 3
+! g1 1
+! f1 1
+! e&1 1
+! d1 4
+! c1 2
+! d1 2
+! b&0 2
+! g0 2
+! c1 4
+! d1 2
+! a0 2
+! b&0 2
+! g0 2
+! f0 6
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! f-1 2
+! f-1 2
+! g-1 2
+! a-1 4
+! f-1 2
+! b&-1 4
+! a-1 2
+! g-1 2
+! c-1 2
+! f-1 2
+! d-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 6
+! c-1 2
+! e-1 2
+! g-1 2
+! c0 2
+! b&-1 2
+! a-1 2
+! g-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! f-2 2
+! c-1 2
+! c-1 2
+! c0 2
+! b-1 2
+! c0 2
+! b&-1 2
+! a-1 2
+! g-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! f-2 2
+! c-1 2
+! e-1 2
+! f-1 2
+! d-1 2
+! g-1 2
+! f-1 2
+! e-1 2
+! f-1 2
+! g-1 2
+! g-2 2
+! c-1 6
+! a-1 2
+! e-1 2
+! c-1 2
+! f-1 2
+! e-1 2
+! d-1 2
+! c-1 2
+! b&-2 2
+! a-2 2
+! b&-2 2
+! d-1 2
+! f-1 2
+! a-1 2
+! e-1 2
+! c-1 2
+! f-1 2
+! e&-1 2
+! d-1 2
+! c-1 2
+! b&-2 2
+! a-2 2
+! b&-2 2
+! d-1 2
+! f-1 2
+! b&-1 2
+! b&-2 2
+! b&-1 4
+! a-1 2
+! b&-1 2
+! c0 2
+! b&-1 2
+! c0 2
+! f-1 6
+Shake(22,0)=Fermata
+Shake(63,0)=UpAcciaccatura
+Shake(70,0)=Fermata
+Shake(87,0)=UpAcciaccatura
+Shake(94,0)=Fermata
+Shake(114,0)=Fermata
+Shake(135,0)=UpAcciaccatura
+Shake(142,0)=Fermata
+Shake(159,0)=UpAcciaccatura
+Shake(166,0)=Fermata
+Shake(186,0)=Fermata
+Lyric(0,0)=Wie|Ich
+Lyric(2,0)=wohl|stei-
+Lyric(4,0)=ist|ge
+Lyric(6,0)=mir,|aus
+Lyric(10,0)=o|der
+Lyric(12,0)=Freund|Schwer-
+Lyric(16,0)=der|muths
+Lyric(18,0)=See-|hoeh-
+Lyric(22,0)=len,|len
+Lyric(24,0)=wenn|und
+Lyric(26,0)=ich|ei-
+Lyric(28,0)=in|le
+Lyric(30,0)=dei-|dei-
+Lyric(34,0)=ner|nen
+Lyric(36,0)=Lie-|Ar-
+Lyric(38,0)=be|men
+Lyric(42,0)=ruh'.|zu.
+Lyric(48,0)=Da
+Lyric(50,0)=muss
+Lyric(52,0)=die
+Lyric(54,0)=Nacht
+Lyric(58,0)=des
+Lyric(60,0)=Trau-
+Lyric(64,0)=erns
+Lyric(66,0)=schei-
+Lyric(70,0)=den,
+Lyric(72,0)=wenn
+Lyric(74,0)=mit
+Lyric(76,0)=so-
+Lyric(78,0)=an-
+Lyric(82,0)=ge-
+Lyric(84,0)=neh-
+Lyric(88,0)=men
+Lyric(90,0)=Freu-
+Lyric(94,0)=den
+Lyric(96,0)=die
+Lyric(98,0)=Lie-
+Lyric(100,0)=be
+Lyric(102,0)=strahlt
+Lyric(106,0)=aus
+Lyric(108,0)=dei-
+Lyric(110,0)=ner
+Lyric(114,0)=Brust.
+Lyric(120,0)=Hier
+Lyric(122,0)=ist
+Lyric(124,0)=mein
+Lyric(126,0)=Him-
+Lyric(130,0)=mel
+Lyric(132,0)=schon
+Lyric(136,0)=auf
+Lyric(138,0)=Er-
+Lyric(142,0)=den,
+Lyric(144,0)=wer
+Lyric(146,0)=woll-
+Lyric(148,0)=te
+Lyric(150,0)=nicht
+Lyric(154,0)=ver-
+Lyric(156,0)=gnue-
+Lyric(160,0)=get
+Lyric(162,0)=wer-
+Lyric(166,0)=den,
+Lyric(168,0)=der
+Lyric(170,0)=in
+Lyric(172,0)=dir
+Lyric(174,0)=su-
+Lyric(178,0)=chet
+Lyric(180,0)=Ruh'
+Lyric(184,0)=und
+Lyric(186,0)=Lust.
+Shake(22,1)=Fermata
+Shake(70,1)=Fermata
+Shake(94,1)=Fermata
+Shake(114,1)=Fermata
+Shake(142,1)=Fermata
+Shake(166,1)=Fermata
+Shake(186,1)=Fermata

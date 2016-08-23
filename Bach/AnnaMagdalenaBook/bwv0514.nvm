@@ -1,0 +1,154 @@
+Score.Title=Schaff's mit mir, Gott, nach deinem Willen
+Score.Comment=bwv 514, Benjamin Schmolck
+Score.KeySignature=0
+Score.KeyMode=Ionian
+Score.Quarter=2
+Score.Atom=1/32
+Score.Division=[6, 2, 1]
+Score.Period=1
+Score.Bpm=100.0
+Voice[0].Clef=SOPRANO
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! c1 2
+! b0 2
+! c1 2
+! a0 2
+! b0 2
+! c1 2
+! f0 3
+! a0 1
+! g0 2
+! e0 2
+! d0 1
+! e0 1
+! c0 2
+! g0 2
+! a0 2
+! b0 2
+! c1 4
+! d1 2
+! b0 1
+! a0 1
+! a0 4
+! g0 6
+! c1 2
+! d1 2
+! e1 2
+! a0 2
+! b0 2
+! c1 2
+! d1 3
+! f1 1
+! e1 2
+! d1 6
+! e1 1
+! g1 1
+! f1 1
+! e1 1
+! d1 1
+! c1 1
+! a0 2
+! b0 2
+! c1 2
+! f1 2
+! d1 4
+! c1 6
+Voice[1].Clef=BASS
+Voice[1].Stem=UP
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! c-1 2
+! d-1 2
+! e-1 2
+! f-1 4
+! e-1 2
+! d-1 2
+! g-1 2
+! g-2 2
+! c-1 2
+! g-2 2
+! c-2 2
+! c-1 4
+! b-2 2
+! a-2 2
+! g-2 2
+! f#-2 2
+! g-2 2
+! d-1 2
+! d-2 2
+! g-2 2
+! g-1 1
+! f-1 1
+! e-1 1
+! d-1 1
+! e-1 2
+! f-1 1
+! e-1 1
+! d-1 1
+! c-1 1
+! f-1 4
+! e-1 2
+! b-2 2
+! g-2 2
+! c-1 2
+! g-2 2
+! g-1 1
+! a-1 1
+! b-1 1
+! g-1 1
+! c0 2
+! c-1 2
+! e-1 2
+! f-1 2
+! e-1 1
+! d-1 1
+! e-1 1
+! c-1 1
+! a-1 2
+! f-1 2
+! g-1 2
+! c-1 6
+Shake(15,0)=UpAcciaccatura
+Shake(22,0)=Fermata
+Shake(42,0)=Fermata
+Shake(63,0)=UpAcciaccatura
+Shake(66,0)=Fermata
+Shake(73,0)=UpAcciaccatura
+Shake(90,0)=Fermata
+Lyric(0,0)=Schaff's|du
+Lyric(2,0)=mit|wirst
+Lyric(4,0)=mir,|mein
+Lyric(6,0)=Gott,|Wuen-
+Lyric(10,0)=nach|schen
+Lyric(12,0)=dei-|so
+Lyric(16,0)=nem|er-
+Lyric(18,0)=Wil-|fuel-
+Lyric(22,0)=len,|len,
+Lyric(24,0)=es|wie's
+Lyric(26,0)=bleibt|dei-
+Lyric(28,0)=dir|ner
+Lyric(30,0)=Al-|Weis
+Lyric(34,0)=les|heit
+Lyric(36,0)=heim-|wohl-
+Lyric(38,0)=ge-|ge-
+Lyric(42,0)=stellt;|faellt.
+Lyric(48,0)=Du
+Lyric(50,0)=bist
+Lyric(52,0)=mein
+Lyric(54,0)=Va-
+Lyric(58,0)=ter,
+Lyric(60,0)=du
+Lyric(64,0)=wirst
+Lyric(66,0)=mich
+Lyric(72,0)=ver-
+Lyric(74,0)=sor-
+Lyric(76,0)=gen,
+Lyric(78,0)=da-
+Lyric(82,0)=rauf
+Lyric(84,0)=hof-
+Lyric(86,0)=fe
+Lyric(90,0)=ich.
+Shake(22,1)=Fermata
+Shake(90,1)=Fermata

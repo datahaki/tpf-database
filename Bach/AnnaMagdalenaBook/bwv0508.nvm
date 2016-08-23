@@ -1,0 +1,372 @@
+Score.Title=Bist du bei mir, geh ich mit Freuden
+Score.Comment=bwv 508, Gottfried Heinrich Stölzel
+Score.KeySignature=-3
+Score.KeyMode=Ionian
+Score.Quarter=4
+Score.Atom=1/32
+Score.Division=[12, 4, 2, 1]
+Score.Period=1
+Score.Bpm=120.0
+Voice[0].Clef=TREBLE
+Voice[0].Stem=UP
+Voice[0].Channel=0
+! VoiceInstance 0 0
+! b&0 4
+! e&1 6
+! f1 2
+! d1 8
+! VoiceInstance 0 24
+! e&1 4
+! a&0 4
+! a&0 4
+! a&0 8
+! g0 4
+! VoiceInstance 0 50
+! b&0 2
+! d1 2
+! b&0 2
+! a0 2
+! b&0 2
+! f0 2
+! b&0 2
+! d1 2
+! b&0 2
+! a0 2
+! b&0 2
+! e&0 4
+! c1 6
+! d1 1
+! e&1 1
+! d1 3
+! c1 1
+! b&0 3
+! c1 1
+! f0 3
+! a0 1
+! b&0 8
+! VoiceInstance 0 108
+! e&1 4
+! g1 2
+! e&1 2
+! d&1 2
+! c1 2
+! c1 12
+! a&1 4
+! f1 6
+! e&1 2
+! d1 8
+! e&1 4
+! VoiceInstance 0 158
+! e&1 2
+! g1 2
+! e&1 2
+! d1 2
+! e&1 2
+! b&0 2
+! e&1 2
+! g1 2
+! e&1 2
+! d1 2
+! e&1 2
+! a&0 4
+! f1 6
+! g1 1
+! a&1 1
+! g1 3
+! f1 1
+! e&1 3
+! f1 1
+! b&0 3
+! d1 1
+! e&1 8
+! VoiceInstance 0 216
+! g1 4
+! e&1 6
+! d1 2
+! c1 8
+! VoiceInstance 0 240
+! f1 4
+! b&0 6
+! c1 2
+! a0 4
+! g0 2
+! a0 2
+! f0 4
+! VoiceInstance 0 266
+! c1 2
+! e&1 2
+! c1 2
+! b0 2
+! c1 2
+! g0 2
+! c1 2
+! e&1 2
+! c1 2
+! b0 2
+! c1 2
+! f0 2
+! e0 2
+! f0 4
+! d1 3
+! f1 1
+! e&1 3
+! d1 1
+! c1 3
+! d1 1
+! g0 3
+! b0 1
+! c1 12
+! f0 4
+! e&1 6
+! f1 2
+! d1 8
+! VoiceInstance 0 348
+! e&1 4
+! a&0 4
+! a&0 4
+! a&0 8
+! g0 4
+! VoiceInstance 0 374
+! b&0 2
+! d1 2
+! b&0 2
+! a0 2
+! b&0 2
+! f0 2
+! b&0 2
+! d1 2
+! b&0 2
+! a0 2
+! b&0 2
+! e&0 2
+! d0 2
+! e&0 4
+! c1 3
+! e&1 1
+! d1 3
+! c1 1
+! b&0 3
+! c1 1
+! f0 3
+! a0 1
+! b&0 12
+Voice[1].Clef=BASS
+Voice[1].Stem=DN
+Voice[1].Channel=0
+! VoiceInstance 1 0
+! e&-1 4
+! c-1 4
+! f-1 4
+! b&-2 4
+! b&-1 4
+! a&-1 4
+! g-1 4
+! f-1 4
+! e&-1 4
+! d-1 4
+! b&-2 4
+! e&-2 4
+! e-2 4
+! e-2 4
+! e-2 4
+! f-2 4
+! f-2 4
+! f-2 4
+! g-2 4
+! a-2 4
+! f-2 4
+! b&-2 4
+! e&-2 4
+! f-2 4
+! b&-2 4
+! b&-1 2
+! a&-1 2
+! g-1 2
+! f-1 2
+! g-1 4
+! e&-1 4
+! g-1 4
+! a&-1 8
+! g-1 4
+! f-1 4
+! a&-1 4
+! f-1 4
+! b&-2 4
+! b-2 4
+! c-1 4
+! a-2 4
+! a-2 4
+! a-2 4
+! b&-2 4
+! b&-2 4
+! b&-2 4
+! c-1 4
+! d-1 4
+! b&-2 4
+! e&-1 4
+! a&-2 4
+! b&-2 4
+! e&-2 4
+! g-1 2
+! f-1 2
+! e&-1 2
+! d-1 2
+! c-1 4
+! c0 4
+! c-1 4
+! f-1 4
+! f-2 4
+! e&-2 4
+! d-2 4
+! g-2 4
+! e&-2 4
+! f-2 8
+! VoiceInstance 1 264
+! f#-2 4
+! f#-2 4
+! f#-2 4
+! g-2 4
+! g-2 4
+! g-2 4
+! a&-1 4
+! b-2 4
+! g-2 4
+! c-1 4
+! e&-2 4
+! g-2 4
+! c-1 4
+! c0 4
+! b&-1 4
+! a-1 8
+! f-1 4
+! b&-2 4
+! b&-1 4
+! a&-1 4
+! g-1 4
+! f-1 4
+! e&-1 4
+! d-1 4
+! b&-2 4
+! e&-2 4
+! e-2 4
+! e-2 4
+! e-2 4
+! f-2 4
+! f-2 4
+! f-2 4
+! g-2 4
+! a-2 4
+! f-2 4
+! b&-2 4
+! d-2 4
+! f-2 4
+! b&-2 4
+! b&-1 4
+! a&-1 4
+Shake(144,0)=DownTrill
+Shake(204,0)=Fermata
+Shake(299,0)=UpAcciaccatura
+Shake(407,0)=UpAcciaccatura
+Lyric(0,0)=Bist
+Lyric(4,0)=du
+Lyric(10,0)=bei
+Lyric(12,0)=mir,
+Lyric(24,0)=geh'
+Lyric(28,0)=ich
+Lyric(32,0)=mit
+Lyric(36,0)=Freu-
+Lyric(44,0)=den
+Lyric(50,0)=zum
+Lyric(52,0)=Ster-
+Lyric(56,0)=ben
+Lyric(60,0)=und
+Lyric(62,0)=zu
+Lyric(64,0)=mei-
+Lyric(68,0)=ner
+Lyric(72,0)=Ruh'
+Lyric(76,0)=zum
+Lyric(84,0)=Ster-
+Lyric(87,0)=ben
+Lyric(88,0)=und
+Lyric(91,0)=zu
+Lyric(92,0)=mei-
+Lyric(95,0)=ner
+Lyric(96,0)=Ruh'.
+Lyric(108,0)=Bist
+Lyric(112,0)=du
+Lyric(116,0)=bei
+Lyric(120,0)=mir,
+Lyric(132,0)=geh'
+Lyric(136,0)=ich
+Lyric(142,0)=mit
+Lyric(144,0)=Freu-
+Lyric(152,0)=den
+Lyric(158,0)=zum
+Lyric(160,0)=Ster-
+Lyric(164,0)=ben
+Lyric(168,0)=und
+Lyric(170,0)=zu
+Lyric(172,0)=mei-
+Lyric(176,0)=ner
+Lyric(180,0)=Ruh',
+Lyric(184,0)=zum
+Lyric(192,0)=Ster-
+Lyric(195,0)=ben
+Lyric(196,0)=und
+Lyric(199,0)=zu
+Lyric(200,0)=mei-
+Lyric(203,0)=ner
+Lyric(204,0)=Ruh'.
+Lyric(216,0)=Ach,
+Lyric(220,0)=wie
+Lyric(226,0)=ver-
+Lyric(228,0)=gnügt
+Lyric(240,0)=wär'
+Lyric(244,0)=so
+Lyric(250,0)=mein
+Lyric(252,0)=En-
+Lyric(260,0)=de,
+Lyric(266,0)=es
+Lyric(268,0)=drück-
+Lyric(272,0)=ten
+Lyric(276,0)=dei-
+Lyric(278,0)=ne
+Lyric(280,0)=schö-
+Lyric(284,0)=nen
+Lyric(288,0)=Hän-
+Lyric(292,0)=de
+Lyric(296,0)=mir
+Lyric(300,0)=die
+Lyric(303,0)=ge-
+Lyric(304,0)=treu-
+Lyric(307,0)=en
+Lyric(308,0)=Au-
+Lyric(311,0)=gen
+Lyric(312,0)=zu.
+Lyric(324,0)=Ach,
+Lyric(328,0)=wie
+Lyric(334,0)=ver-
+Lyric(336,0)=gnügt
+Lyric(348,0)=wär'
+Lyric(352,0)=so
+Lyric(356,0)=mein
+Lyric(360,0)=En-
+Lyric(368,0)=de,
+Lyric(374,0)=es
+Lyric(376,0)=drück-
+Lyric(380,0)=ten
+Lyric(384,0)=dei-
+Lyric(386,0)=ne
+Lyric(388,0)=schö-
+Lyric(392,0)=nen
+Lyric(396,0)=Hän-
+Lyric(400,0)=de
+Lyric(404,0)=mir
+Lyric(408,0)=die
+Lyric(411,0)=ge-
+Lyric(412,0)=treu-
+Lyric(415,0)=en
+Lyric(416,0)=Au-
+Lyric(419,0)=gen
+Lyric(420,0)=zu.
+Shake(204,1)=Fermata
